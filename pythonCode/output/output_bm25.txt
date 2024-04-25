@@ -1,0 +1,2989 @@
+Query: PLAIN-2 - ['do', 'cholesterol', 'statin', 'drugs', 'cause', 'breast', 'cancer']
+Rank 1: Document MED-4827 - RSV: 13.84191416077116
+Rank 2: Document MED-2427 - RSV: 10.324087847707792
+Rank 3: Document MED-9 - RSV: 10.324087847707792
+Rank 4: Document MED-2428 - RSV: 10.257853268014152
+Rank 5: Document MED-13 - RSV: 9.495198536006969
+
+Query: PLAIN-12 - ['exploiting', 'autophagy', 'to', 'live', 'longer']
+Rank 1: Document MED-5042 - RSV: 10.173308248923375
+Rank 2: Document MED-4698 - RSV: 9.267686323863334
+Rank 3: Document MED-2333 - RSV: 8.168271330618794
+Rank 4: Document MED-4884 - RSV: 8.168271330618794
+Rank 5: Document MED-2501 - RSV: 7.61584235376628
+
+Query: PLAIN-23 - ['how', 'to', 'reduce', 'exposure', 'to', 'alkylphenols', 'through', 'your', 'diet']
+Rank 1: Document MED-117 - RSV: 8.191198449404146
+Rank 2: Document MED-118 - RSV: 8.191198449404146
+Rank 3: Document MED-2630 - RSV: 8.191198449404146
+Rank 4: Document MED-2651 - RSV: 8.191198449404146
+Rank 5: Document MED-2629 - RSV: 7.980191143077965
+
+Query: PLAIN-33 - ['what', 's', 'driving', 'america', 's', 'obesity', 'problem']
+Rank 1: Document MED-4366 - RSV: 8.940983682342667
+Rank 2: Document MED-1809 - RSV: 8.30289129856998
+Rank 3: Document MED-4769 - RSV: 8.30289129856998
+Rank 4: Document MED-1173 - RSV: 7.655694099137081
+Rank 5: Document MED-167 - RSV: 7.373422153593159
+
+Query: PLAIN-44 - ['who', 'should', 'be', 'careful', 'about', 'curcumin']
+Rank 1: Document MED-1940 - RSV: 9.082958839205872
+Rank 2: Document MED-1943 - RSV: 9.082958839205872
+Rank 3: Document MED-2786 - RSV: 9.082958839205872
+Rank 4: Document MED-4796 - RSV: 5.777437376458997
+Rank 5: Document MED-1630 - RSV: 5.633147958237212
+
+Query: PLAIN-56 - ['foods', 'for', 'glaucoma']
+Rank 1: Document MED-252 - RSV: 5.953192769010362
+Rank 2: Document MED-2896 - RSV: 5.953192769010362
+Rank 3: Document MED-255 - RSV: 5.924871620795309
+Rank 4: Document MED-2897 - RSV: 5.924871620795309
+Rank 5: Document MED-2901 - RSV: 5.924871620795309
+
+Query: PLAIN-68 - ['what', 'is', 'actually', 'in', 'chicken', 'nuggets']
+Rank 1: Document MED-297 - RSV: 13.12457657529562
+Rank 2: Document MED-2991 - RSV: 13.12457657529562
+Rank 3: Document MED-1960 - RSV: 8.620042466273986
+Rank 4: Document MED-4882 - RSV: 4.915888635214625
+Rank 5: Document MED-1962 - RSV: 4.886311033873336
+
+Query: PLAIN-78 - ['what', 'do', 'meat', 'purge', 'and', 'cola', 'have', 'in', 'common']
+Rank 1: Document MED-3585 - RSV: 7.9973437674766545
+Rank 2: Document MED-597 - RSV: 7.9973437674766545
+Rank 3: Document MED-5032 - RSV: 7.374779006565148
+Rank 4: Document MED-3469 - RSV: 6.755540039971343
+Rank 5: Document MED-531 - RSV: 6.755540039971343
+
+Query: PLAIN-91 - ['chronic', 'headaches', 'and', 'pork', 'parasites']
+Rank 1: Document MED-3171 - RSV: 12.28858572490801
+Rank 2: Document MED-3515 - RSV: 11.038552039376812
+Rank 3: Document MED-563 - RSV: 11.038552039376812
+Rank 4: Document MED-4814 - RSV: 7.285625753311103
+Rank 5: Document MED-3169 - RSV: 6.988968987379144
+
+Query: PLAIN-102 - ['stopping', 'heart', 'disease', 'in', 'childhood']
+Rank 1: Document MED-3114 - RSV: 11.967356824131581
+Rank 2: Document MED-4247 - RSV: 11.967356824131581
+Rank 3: Document MED-4616 - RSV: 11.967356824131581
+Rank 4: Document MED-763 - RSV: 11.967356824131581
+Rank 5: Document MED-1989 - RSV: 8.174614006760446
+
+Query: PLAIN-112 - ['food', 'dyes', 'and', 'adhd']
+Rank 1: Document MED-3380 - RSV: 14.283141042515675
+Rank 2: Document MED-478 - RSV: 14.283141042515675
+Rank 3: Document MED-3382 - RSV: 8.131470591934063
+Rank 4: Document MED-480 - RSV: 8.131470591934063
+Rank 5: Document MED-2616 - RSV: 7.805536568239816
+
+Query: PLAIN-123 - ['how', 'citrus', 'might', 'help', 'keep', 'your', 'hands', 'warm']
+Rank 1: Document MED-1982 - RSV: 8.302579902864325
+Rank 2: Document MED-2072 - RSV: 7.410048590637465
+Rank 3: Document MED-4453 - RSV: 7.410048590637465
+Rank 4: Document MED-4454 - RSV: 7.410048590637465
+Rank 5: Document MED-911 - RSV: 6.387744814460368
+
+Query: PLAIN-133 - ['starving', 'tumors', 'of', 'their', 'blood', 'supply']
+Rank 1: Document MED-1832 - RSV: 6.373690014226095
+Rank 2: Document MED-3829 - RSV: 6.272090601983382
+Rank 3: Document MED-3839 - RSV: 6.272090601983382
+Rank 4: Document MED-3848 - RSV: 6.272090601983382
+Rank 5: Document MED-1665 - RSV: 6.200022420882289
+
+Query: PLAIN-143 - ['are', 'dental', 'xrays', 'safe']
+Rank 1: Document MED-2093 - RSV: 8.61856694726552
+Rank 2: Document MED-2096 - RSV: 6.168173441706928
+Rank 3: Document MED-4028 - RSV: 5.709337033792951
+Rank 4: Document MED-3641 - RSV: 5.649302918281879
+Rank 5: Document MED-4026 - RSV: 5.590518191978719
+
+Query: PLAIN-153 - ['how', 'should', 'i', 'take', 'probiotics']
+Rank 1: Document MED-3152 - RSV: 6.189651501490685
+Rank 2: Document MED-3164 - RSV: 6.189651501490685
+Rank 3: Document MED-372 - RSV: 6.189651501490685
+Rank 4: Document MED-3684 - RSV: 6.089388839286108
+Rank 5: Document MED-3693 - RSV: 6.089388839286108
+
+Query: PLAIN-165 - ['breast', 'cancer', 'alcohol', 'how', 'much', 'is', 'safe']
+Rank 1: Document MED-3765 - RSV: 8.912480725059805
+Rank 2: Document MED-3768 - RSV: 8.300110961184206
+Rank 3: Document MED-3447 - RSV: 8.252201643520259
+Rank 4: Document MED-513 - RSV: 8.252201643520259
+Rank 5: Document MED-3696 - RSV: 8.086414281350491
+
+Query: PLAIN-175 - ['diet', 'and', 'cellulite']
+Rank 1: Document MED-3822 - RSV: 6.5398737442437085
+Rank 2: Document MED-3818 - RSV: 6.349288698605272
+Rank 3: Document MED-3816 - RSV: 6.04718508270529
+Rank 4: Document MED-672 - RSV: 6.04718508270529
+Rank 5: Document MED-5063 - RSV: 2.014718989576666
+
+Query: PLAIN-186 - ['best', 'treatment', 'for', 'constipation']
+Rank 1: Document MED-3933 - RSV: 8.337412561710149
+Rank 2: Document MED-2054 - RSV: 7.662147420261048
+Rank 3: Document MED-1016 - RSV: 7.611770111309908
+Rank 4: Document MED-2192 - RSV: 7.159592600329098
+Rank 5: Document MED-2203 - RSV: 7.159592600329098
+
+Query: PLAIN-196 - ['should', 'we', 'avoid', 'titanium', 'dioxide']
+Rank 1: Document MED-3963 - RSV: 12.26817909740619
+Rank 2: Document MED-3960 - RSV: 12.213460050995966
+Rank 3: Document MED-1422 - RSV: 11.84368029745385
+Rank 4: Document MED-3964 - RSV: 11.84368029745385
+Rank 5: Document MED-5059 - RSV: 11.592970612173872
+
+Query: PLAIN-207 - ['avoiding', 'cooked', 'meat', 'carcinogens']
+Rank 1: Document MED-4482 - RSV: 11.524532285401829
+Rank 2: Document MED-4391 - RSV: 11.480408862353435
+Rank 3: Document MED-4057 - RSV: 10.543514877344563
+Rank 4: Document MED-4042 - RSV: 10.048309347106535
+Rank 5: Document MED-4066 - RSV: 10.048309347106535
+
+Query: PLAIN-217 - ['plantbased', 'diets', 'for', 'psoriasis']
+Rank 1: Document MED-23 - RSV: 5.56271258892319
+Rank 2: Document MED-2444 - RSV: 5.56271258892319
+Rank 3: Document MED-227 - RSV: 5.23872395248126
+Rank 4: Document MED-2813 - RSV: 5.23872395248126
+Rank 5: Document MED-112 - RSV: 5.12394189514732
+
+Query: PLAIN-227 - ['increasing', 'muscle', 'strength', 'with', 'fenugreek']
+Rank 1: Document MED-3167 - RSV: 11.540598521663789
+Rank 2: Document MED-3466 - RSV: 11.540598521663789
+Rank 3: Document MED-381 - RSV: 11.540598521663789
+Rank 4: Document MED-529 - RSV: 11.540598521663789
+Rank 5: Document MED-4150 - RSV: 11.205972423461688
+
+Query: PLAIN-238 - ['how', 'chemically', 'contaminated', 'are', 'we']
+Rank 1: Document MED-5224 - RSV: 5.9168774713075
+Rank 2: Document MED-3041 - RSV: 5.5806961643926005
+Rank 3: Document MED-3054 - RSV: 5.5806961643926005
+Rank 4: Document MED-315 - RSV: 5.5806961643926005
+Rank 5: Document MED-4039 - RSV: 5.476967240160964
+
+Query: PLAIN-248 - ['treating', 'an', 'enlarged', 'prostate', 'with', 'diet']
+Rank 1: Document MED-4777 - RSV: 7.567568626765793
+Rank 2: Document MED-1706 - RSV: 7.529407601403348
+Rank 3: Document MED-1307 - RSV: 7.426604258512205
+Rank 4: Document MED-3814 - RSV: 6.544929822060912
+Rank 5: Document MED-4389 - RSV: 6.544929822060912
+
+Query: PLAIN-259 - ['optimal', 'phytosterol', 'dose', 'and', 'source']
+Rank 1: Document MED-4737 - RSV: 7.9955603666862896
+Rank 2: Document MED-4739 - RSV: 7.9955603666862896
+Rank 3: Document MED-4569 - RSV: 7.766432166103951
+Rank 4: Document MED-4573 - RSV: 7.766432166103951
+Rank 5: Document MED-4293 - RSV: 7.3288743376559955
+
+Query: PLAIN-270 - ['is', 'caffeinated', 'tea', 'really', 'dehydrating']
+Rank 1: Document MED-5247 - RSV: 9.699337683613264
+Rank 2: Document MED-4331 - RSV: 8.613604821650478
+Rank 3: Document MED-1636 - RSV: 6.790687966894735
+Rank 4: Document MED-1648 - RSV: 6.65224594568434
+Rank 5: Document MED-1640 - RSV: 6.360485161174699
+
+Query: PLAIN-280 - ['mercury', 'testing', 'recommended', 'before', 'pregnancy']
+Rank 1: Document MED-3595 - RSV: 12.140536100563542
+Rank 2: Document MED-4528 - RSV: 10.10734212712821
+Rank 3: Document MED-4533 - RSV: 10.10734212712821
+Rank 4: Document MED-4530 - RSV: 9.296734983780453
+Rank 5: Document MED-4535 - RSV: 9.296734983780453
+
+Query: PLAIN-291 - ['stool', 'size', 'and', 'breast', 'cancer', 'risk']
+Rank 1: Document MED-3957 - RSV: 9.074537064535743
+Rank 2: Document MED-4680 - RSV: 9.074537064535743
+Rank 3: Document MED-3860 - RSV: 8.988605204226063
+Rank 4: Document MED-3120 - RSV: 8.318998623560384
+Rank 5: Document MED-3134 - RSV: 8.318998623560384
+
+Query: PLAIN-307 - ['vitamin', 'd', 'shedding', 'some', 'light', 'on', 'the', 'new', 'recommendations']
+Rank 1: Document MED-1777 - RSV: 10.31286656326907
+Rank 2: Document MED-3213 - RSV: 8.465260529119591
+Rank 3: Document MED-3231 - RSV: 8.465260529119591
+Rank 4: Document MED-4140 - RSV: 7.750507791254
+Rank 5: Document MED-4813 - RSV: 7.514694815074515
+
+Query: PLAIN-320 - ['breast', 'cancer', 'and', 'diet']
+Rank 1: Document MED-3765 - RSV: 6.487832776475431
+Rank 2: Document MED-19 - RSV: 6.451220362417926
+Rank 3: Document MED-2439 - RSV: 6.451220362417926
+Rank 4: Document MED-3791 - RSV: 6.2399394123713785
+Rank 5: Document MED-3862 - RSV: 6.2399394123713785
+
+Query: PLAIN-332 - ['can', 'antioxidantrich', 'spices', 'counteract', 'the', 'effects', 'of', 'a', 'highfat', 'meal']
+Rank 1: Document MED-760 - RSV: 9.704667348144424
+Rank 2: Document MED-3526 - RSV: 7.804210709174489
+Rank 3: Document MED-5166 - RSV: 7.578223417970654
+Rank 4: Document MED-3004 - RSV: 6.993228810994395
+Rank 5: Document MED-3022 - RSV: 6.993228810994395
+
+Query: PLAIN-344 - ['dioxins', 'stored', 'in', 'our', 'own', 'fat', 'may', 'increase', 'diabetes', 'risk']
+Rank 1: Document MED-1962 - RSV: 9.444004167719331
+Rank 2: Document MED-2388 - RSV: 8.950722069182701
+Rank 3: Document MED-802 - RSV: 8.950722069182701
+Rank 4: Document MED-127 - RSV: 8.860978113682702
+Rank 5: Document MED-2465 - RSV: 8.860978113682702
+
+Query: PLAIN-358 - ['didn', 't', 'another', 'study', 'show', 'carnitine', 'was', 'good', 'for', 'the', 'heart']
+Rank 1: Document MED-1366 - RSV: 8.591048021095332
+Rank 2: Document MED-5253 - RSV: 8.501868780298533
+Rank 3: Document MED-923 - RSV: 8.467121366248238
+Rank 4: Document MED-2185 - RSV: 8.11761538643108
+Rank 5: Document MED-842 - RSV: 7.723944490284444
+
+Query: PLAIN-371 - ['any', 'update', 'on', 'the', 'scary', 'in', 'vitro', 'avocado', 'data']
+Rank 1: Document MED-4618 - RSV: 9.425633892985331
+Rank 2: Document MED-1291 - RSV: 9.38609499439478
+Rank 3: Document MED-4619 - RSV: 8.11349590349966
+Rank 4: Document MED-5009 - RSV: 7.595305469027727
+Rank 5: Document MED-1126 - RSV: 7.5920511457703315
+
+Query: PLAIN-383 - ['what', 'do', 'you', 'think', 'of', 'dr', 'jenkins', 'take', 'on', 'paleolithic', 'diets']
+Rank 1: Document MED-1479 - RSV: 8.73676341658711
+Rank 2: Document MED-4469 - RSV: 8.313774455265108
+Rank 3: Document MED-4108 - RSV: 8.06528746029018
+Rank 4: Document MED-4204 - RSV: 8.06528746029018
+Rank 5: Document MED-4299 - RSV: 8.06528746029018
+
+Query: PLAIN-395 - ['what', 'about', 'pepper', 'plus', 'turmeric', 'in', 'v8', 'juice']
+Rank 1: Document MED-4309 - RSV: 6.456497793278066
+Rank 2: Document MED-5305 - RSV: 6.204786265842077
+Rank 3: Document MED-3361 - RSV: 6.1746956092466005
+Rank 4: Document MED-3370 - RSV: 6.1746956092466005
+Rank 5: Document MED-471 - RSV: 6.1746956092466005
+
+Query: PLAIN-407 - ['is', 'annatto', 'food', 'coloring', 'safe']
+Rank 1: Document MED-906 - RSV: 17.454542465619355
+Rank 2: Document MED-299 - RSV: 10.659326828018536
+Rank 3: Document MED-2994 - RSV: 10.659326828018536
+Rank 4: Document MED-2817 - RSV: 9.355028066809757
+Rank 5: Document MED-2190 - RSV: 7.256517280473998
+
+Query: PLAIN-418 - ['fresh', 'fruit', 'versus', 'frozenwhich', 'is', 'better']
+Rank 1: Document MED-3469 - RSV: 10.502834103318722
+Rank 2: Document MED-531 - RSV: 10.502834103318722
+Rank 3: Document MED-3616 - RSV: 7.436083833676016
+Rank 4: Document MED-3622 - RSV: 7.436083833676016
+Rank 5: Document MED-606 - RSV: 7.436083833676016
+
+Query: PLAIN-430 - ['are', 'krill', 'oil', 'supplements', 'better', 'than', 'fish', 'oil', 'capsules']
+Rank 1: Document MED-2753 - RSV: 17.809930237349903
+Rank 2: Document MED-928 - RSV: 17.591102372373573
+Rank 3: Document MED-5095 - RSV: 17.47889538977155
+Rank 4: Document MED-117 - RSV: 15.50077237962666
+Rank 5: Document MED-118 - RSV: 15.50077237962666
+
+Query: PLAIN-441 - ['is', 'apple', 'cider', 'vinegar', 'good', 'for', 'you']
+Rank 1: Document MED-942 - RSV: 21.305494863009436
+Rank 2: Document MED-941 - RSV: 17.774247552921747
+Rank 3: Document MED-4587 - RSV: 12.412929940002627
+Rank 4: Document MED-4686 - RSV: 6.654006129511637
+Rank 5: Document MED-3070 - RSV: 6.310502229357594
+
+Query: PLAIN-457 - ['how', 'can', 'you', 'believe', 'in', 'any', 'scientific', 'study']
+Rank 1: Document MED-1037 - RSV: 5.267002587835928
+Rank 2: Document MED-4169 - RSV: 4.879322042934478
+Rank 3: Document MED-2143 - RSV: 4.7061236670838325
+Rank 4: Document MED-1706 - RSV: 4.665110705679276
+Rank 5: Document MED-160 - RSV: 4.6125639956466316
+
+Query: PLAIN-468 - ['is', 'vitamin', 'd3', 'cholecalciferol', 'preferable', 'to', 'd2', 'ergocalciferol']
+Rank 1: Document MED-4569 - RSV: 25.08623243048536
+Rank 2: Document MED-4573 - RSV: 25.08623243048536
+Rank 3: Document MED-3991 - RSV: 18.670437734669164
+Rank 4: Document MED-3990 - RSV: 13.449458184461372
+Rank 5: Document MED-3989 - RSV: 10.887456869260186
+
+Query: PLAIN-478 - ['accidents']
+Rank 1: Document MED-2309 - RSV: 6.195500433263489
+Rank 2: Document MED-1644 - RSV: 6.031165794116638
+Rank 3: Document MED-5258 - RSV: 6.031165794116638
+Rank 4: Document MED-4983 - RSV: 5.875323788290006
+Rank 5: Document MED-1144 - RSV: 5.850129765879774
+
+Query: PLAIN-488 - ['adenovirus', '36']
+Rank 1: Document MED-1809 - RSV: 7.225987456174249
+Rank 2: Document MED-4769 - RSV: 7.225987456174249
+Rank 3: Document MED-1804 - RSV: 7.144889113865032
+Rank 4: Document MED-1803 - RSV: 6.456497793278066
+Rank 5: Document MED-1808 - RSV: 6.144895398677763
+
+Query: PLAIN-499 - ['africanamerican']
+Rank 1: Document MED-1 - RSV: 0.0
+Rank 2: Document MED-10 - RSV: 0.0
+Rank 3: Document MED-100 - RSV: 0.0
+Rank 4: Document MED-1000 - RSV: 0.0
+Rank 5: Document MED-1001 - RSV: 0.0
+
+Query: PLAIN-510 - ['airport', 'scanners']
+Rank 1: Document MED-1 - RSV: 0.0
+Rank 2: Document MED-10 - RSV: 0.0
+Rank 3: Document MED-100 - RSV: 0.0
+Rank 4: Document MED-1000 - RSV: 0.0
+Rank 5: Document MED-1001 - RSV: 0.0
+
+Query: PLAIN-520 - ['alli']
+Rank 1: Document MED-1 - RSV: 0.0
+Rank 2: Document MED-10 - RSV: 0.0
+Rank 3: Document MED-100 - RSV: 0.0
+Rank 4: Document MED-1000 - RSV: 0.0
+Rank 5: Document MED-1001 - RSV: 0.0
+
+Query: PLAIN-531 - ['alternative', 'medicine']
+Rank 1: Document MED-3726 - RSV: 7.6047730730563
+Rank 2: Document MED-1525 - RSV: 7.360810385099853
+Rank 3: Document MED-3607 - RSV: 7.3272305185867275
+Rank 4: Document MED-4358 - RSV: 7.260981619139857
+Rank 5: Document MED-4374 - RSV: 7.163824415846628
+
+Query: PLAIN-541 - ['american', 'dental', 'association']
+Rank 1: Document MED-4018 - RSV: 7.204432370703603
+Rank 2: Document MED-4034 - RSV: 7.204432370703603
+Rank 3: Document MED-3600 - RSV: 6.910131253734622
+Rank 4: Document MED-3619 - RSV: 6.910131253734622
+Rank 5: Document MED-1988 - RSV: 6.56805029988065
+
+Query: PLAIN-551 - ['amnesia']
+Rank 1: Document MED-1 - RSV: 0.0
+Rank 2: Document MED-10 - RSV: 0.0
+Rank 3: Document MED-100 - RSV: 0.0
+Rank 4: Document MED-1000 - RSV: 0.0
+Rank 5: Document MED-1001 - RSV: 0.0
+
+Query: PLAIN-561 - ['aneurysm']
+Rank 1: Document MED-3180 - RSV: 9.320659741333651
+Rank 2: Document MED-4555 - RSV: 6.904800847811811
+Rank 3: Document MED-1 - RSV: 0.0
+Rank 4: Document MED-10 - RSV: 0.0
+Rank 5: Document MED-100 - RSV: 0.0
+
+Query: PLAIN-571 - ['anisakis']
+Rank 1: Document MED-4742 - RSV: 6.604144226516707
+Rank 2: Document MED-2338 - RSV: 6.572875061208214
+Rank 3: Document MED-2346 - RSV: 6.191759095695006
+Rank 4: Document MED-771 - RSV: 6.191759095695006
+Rank 5: Document MED-2339 - RSV: 6.004294843727232
+
+Query: PLAIN-583 - ['antinutrients']
+Rank 1: Document MED-1 - RSV: 0.0
+Rank 2: Document MED-10 - RSV: 0.0
+Rank 3: Document MED-100 - RSV: 0.0
+Rank 4: Document MED-1000 - RSV: 0.0
+Rank 5: Document MED-1001 - RSV: 0.0
+
+Query: PLAIN-593 - ['apnea']
+Rank 1: Document MED-4401 - RSV: 8.302801046256782
+Rank 2: Document MED-4402 - RSV: 8.302801046256782
+Rank 3: Document MED-957 - RSV: 2.509870691478848
+Rank 4: Document MED-1 - RSV: 0.0
+Rank 5: Document MED-10 - RSV: 0.0
+
+Query: PLAIN-603 - ['arkansas']
+Rank 1: Document MED-1957 - RSV: 8.763547929449526
+Rank 2: Document MED-1960 - RSV: 8.620042466273986
+Rank 3: Document MED-3769 - RSV: 7.584990271594096
+Rank 4: Document MED-1 - RSV: 0.0
+Rank 5: Document MED-10 - RSV: 0.0
+
+Query: PLAIN-613 - ['ascorbic', 'acid']
+Rank 1: Document MED-1158 - RSV: 8.800108423179863
+Rank 2: Document MED-2983 - RSV: 8.5087190680158
+Rank 3: Document MED-2191 - RSV: 7.939143425022857
+Rank 4: Document MED-909 - RSV: 7.818367271395671
+Rank 5: Document MED-4901 - RSV: 7.625037698504736
+
+Query: PLAIN-623 - ['atkins', 'diet']
+Rank 1: Document MED-4880 - RSV: 8.875648280354572
+Rank 2: Document MED-4515 - RSV: 8.008589728127628
+Rank 3: Document MED-1263 - RSV: 7.53986560830934
+Rank 4: Document MED-1674 - RSV: 7.53986560830934
+Rank 5: Document MED-5063 - RSV: 2.014718989576666
+
+Query: PLAIN-634 - ['avocados']
+Rank 1: Document MED-4619 - RSV: 8.04885395534596
+Rank 2: Document MED-1378 - RSV: 7.269486079150399
+Rank 3: Document MED-1 - RSV: 0.0
+Rank 4: Document MED-10 - RSV: 0.0
+Rank 5: Document MED-100 - RSV: 0.0
+
+Query: PLAIN-645 - ['bagels']
+Rank 1: Document MED-1 - RSV: 0.0
+Rank 2: Document MED-10 - RSV: 0.0
+Rank 3: Document MED-100 - RSV: 0.0
+Rank 4: Document MED-1000 - RSV: 0.0
+Rank 5: Document MED-1001 - RSV: 0.0
+
+Query: PLAIN-660 - ['beans']
+Rank 1: Document MED-2141 - RSV: 5.608450268932459
+Rank 2: Document MED-2147 - RSV: 5.379136927233014
+Rank 3: Document MED-2144 - RSV: 5.082280122522712
+Rank 4: Document MED-719 - RSV: 4.816474783569627
+Rank 5: Document MED-724 - RSV: 4.816474783569627
+
+Query: PLAIN-671 - ['benzene']
+Rank 1: Document MED-4857 - RSV: 7.046481826670342
+Rank 2: Document MED-144 - RSV: 6.392308090020691
+Rank 3: Document MED-2677 - RSV: 6.392308090020691
+Rank 4: Document MED-1654 - RSV: 6.308640262680328
+Rank 5: Document MED-4602 - RSV: 6.308640262680328
+
+Query: PLAIN-681 - ['betel', 'nuts']
+Rank 1: Document MED-4014 - RSV: 8.048896751694446
+Rank 2: Document MED-4030 - RSV: 8.048896751694446
+Rank 3: Document MED-5017 - RSV: 7.658558426165035
+Rank 4: Document MED-2230 - RSV: 4.459717766555793
+Rank 5: Document MED-4149 - RSV: 4.459717766555793
+
+Query: PLAIN-691 - ['bioavailability']
+Rank 1: Document MED-3933 - RSV: 4.7921258635971675
+Rank 2: Document MED-2072 - RSV: 4.501218100889276
+Rank 3: Document MED-2983 - RSV: 4.501218100889276
+Rank 4: Document MED-4453 - RSV: 4.501218100889276
+Rank 5: Document MED-4454 - RSV: 4.501218100889276
+
+Query: PLAIN-701 - ['black', 'raspberries']
+Rank 1: Document MED-2280 - RSV: 9.989062126925637
+Rank 2: Document MED-3720 - RSV: 9.100969139899247
+Rank 3: Document MED-639 - RSV: 9.100969139899247
+Rank 4: Document MED-264 - RSV: 8.423397344016655
+Rank 5: Document MED-2922 - RSV: 8.423397344016655
+
+Query: PLAIN-711 - ['blood', 'clots']
+Rank 1: Document MED-1692 - RSV: 8.490688562759534
+Rank 2: Document MED-2077 - RSV: 8.490688562759534
+Rank 3: Document MED-4141 - RSV: 2.6803094532806817
+Rank 4: Document MED-1694 - RSV: 2.4719160341471103
+Rank 5: Document MED-2043 - RSV: 2.4719160341471103
+
+Query: PLAIN-721 - ['bmaa']
+Rank 1: Document MED-1290 - RSV: 7.743997061869051
+Rank 2: Document MED-1288 - RSV: 6.844594244218695
+Rank 3: Document MED-1265 - RSV: 6.468936818518838
+Rank 4: Document MED-1275 - RSV: 6.329971628652044
+Rank 5: Document MED-1287 - RSV: 6.329971628652044
+
+Query: PLAIN-731 - ['bone', 'fractures']
+Rank 1: Document MED-1337 - RSV: 9.260006438472134
+Rank 2: Document MED-5145 - RSV: 9.088685915959859
+Rank 3: Document MED-3222 - RSV: 9.046841731970748
+Rank 4: Document MED-3229 - RSV: 9.046841731970748
+Rank 5: Document MED-412 - RSV: 9.046841731970748
+
+Query: PLAIN-741 - ['bph']
+Rank 1: Document MED-4237 - RSV: 7.660756003909153
+Rank 2: Document MED-4235 - RSV: 7.3089479547499785
+Rank 3: Document MED-4234 - RSV: 6.235171635481374
+Rank 4: Document MED-4231 - RSV: 6.204786265842077
+Rank 5: Document MED-4236 - RSV: 6.204786265842077
+
+Query: PLAIN-751 - ['brca', 'genes']
+Rank 1: Document MED-3135 - RSV: 11.86963514569823
+Rank 2: Document MED-355 - RSV: 11.86963514569823
+Rank 3: Document MED-3129 - RSV: 7.773163866283883
+Rank 4: Document MED-356 - RSV: 7.773163866283883
+Rank 5: Document MED-2328 - RSV: 5.013811541654472
+
+Query: PLAIN-761 - ['breast', 'pain']
+Rank 1: Document MED-3797 - RSV: 7.456924482942455
+Rank 2: Document MED-666 - RSV: 6.4443601754374304
+Rank 3: Document MED-3795 - RSV: 6.1748508365479555
+Rank 4: Document MED-1049 - RSV: 5.083687792362229
+Rank 5: Document MED-3800 - RSV: 4.776535643326601
+
+Query: PLAIN-771 - ['bronchiolitis', 'obliterans']
+Rank 1: Document MED-3386 - RSV: 17.311849241674278
+Rank 2: Document MED-3387 - RSV: 15.832228403182004
+Rank 3: Document MED-484 - RSV: 15.832228403182004
+Rank 4: Document MED-3385 - RSV: 14.099897735368023
+Rank 5: Document MED-483 - RSV: 14.099897735368023
+
+Query: PLAIN-782 - ['bush', 'administration']
+Rank 1: Document MED-1055 - RSV: 9.591552276510125
+Rank 2: Document MED-299 - RSV: 4.412502331291057
+Rank 3: Document MED-2994 - RSV: 4.412502331291057
+Rank 4: Document MED-3933 - RSV: 4.2569527785374905
+Rank 5: Document MED-1519 - RSV: 4.232087848443633
+
+Query: PLAIN-792 - ['cadaverine']
+Rank 1: Document MED-4547 - RSV: 7.621596822193546
+Rank 2: Document MED-4958 - RSV: 7.270699560842863
+Rank 3: Document MED-4546 - RSV: 6.388344126358092
+Rank 4: Document MED-1 - RSV: 0.0
+Rank 5: Document MED-10 - RSV: 0.0
+
+Query: PLAIN-806 - ['caloric', 'restriction']
+Rank 1: Document MED-2502 - RSV: 9.431469371679391
+Rank 2: Document MED-58 - RSV: 9.431469371679391
+Rank 3: Document MED-2500 - RSV: 8.363947223035247
+Rank 4: Document MED-2519 - RSV: 8.363947223035247
+Rank 5: Document MED-65 - RSV: 8.363947223035247
+
+Query: PLAIN-817 - ['canker', 'sores']
+Rank 1: Document MED-1 - RSV: 0.0
+Rank 2: Document MED-10 - RSV: 0.0
+Rank 3: Document MED-100 - RSV: 0.0
+Rank 4: Document MED-1000 - RSV: 0.0
+Rank 5: Document MED-1001 - RSV: 0.0
+
+Query: PLAIN-827 - ['carcinogens']
+Rank 1: Document MED-1414 - RSV: 6.070474460872503
+Rank 2: Document MED-5207 - RSV: 6.070474460872503
+Rank 3: Document MED-4194 - RSV: 5.389502976704666
+Rank 4: Document MED-4391 - RSV: 5.3608663423330425
+Rank 5: Document MED-4470 - RSV: 5.116205886308628
+
+Query: PLAIN-838 - ['carrageenan']
+Rank 1: Document MED-3499 - RSV: 6.686324535648145
+Rank 2: Document MED-3496 - RSV: 6.486934218606594
+Rank 3: Document MED-550 - RSV: 6.486934218606594
+Rank 4: Document MED-3494 - RSV: 6.121821255710459
+Rank 5: Document MED-548 - RSV: 6.121821255710459
+
+Query: PLAIN-850 - ['cauliflower']
+Rank 1: Document MED-4455 - RSV: 6.9340164747836015
+Rank 2: Document MED-2066 - RSV: 6.450704414549782
+Rank 3: Document MED-2075 - RSV: 6.16426498275468
+Rank 4: Document MED-2064 - RSV: 6.056687635940513
+Rank 5: Document MED-3199 - RSV: 5.877194581579605
+
+Query: PLAIN-860 - ['center', 'for', 'food', 'safety']
+Rank 1: Document MED-4714 - RSV: 6.522658998686979
+Rank 2: Document MED-1767 - RSV: 6.387616456340926
+Rank 3: Document MED-1778 - RSV: 6.387616456340926
+Rank 4: Document MED-3448 - RSV: 6.35472503030687
+Rank 5: Document MED-514 - RSV: 6.35472503030687
+
+Query: PLAIN-872 - ['chanterelle', 'mushrooms']
+Rank 1: Document MED-3989 - RSV: 15.404673194393169
+Rank 2: Document MED-3985 - RSV: 7.274555191857603
+Rank 3: Document MED-5171 - RSV: 7.232311145375937
+Rank 4: Document MED-3991 - RSV: 6.446202927453493
+Rank 5: Document MED-3712 - RSV: 6.189896603789125
+
+Query: PLAIN-882 - ['chernobyl']
+Rank 1: Document MED-3616 - RSV: 8.088952211066184
+Rank 2: Document MED-3622 - RSV: 8.088952211066184
+Rank 3: Document MED-606 - RSV: 8.088952211066184
+Rank 4: Document MED-3632 - RSV: 6.854300905926913
+Rank 5: Document MED-612 - RSV: 6.854300905926913
+
+Query: PLAIN-892 - ['chickpeas']
+Rank 1: Document MED-2008 - RSV: 7.151027438917388
+Rank 2: Document MED-3132 - RSV: 6.978466606004302
+Rank 3: Document MED-2148 - RSV: 6.420692728030688
+Rank 4: Document MED-4347 - RSV: 6.254067978570843
+Rank 5: Document MED-2010 - RSV: 5.621860295398597
+
+Query: PLAIN-902 - ['chlorophyll']
+Rank 1: Document MED-4197 - RSV: 7.602189041131249
+Rank 2: Document MED-1132 - RSV: 6.878870543153158
+Rank 3: Document MED-4849 - RSV: 6.878870543153158
+Rank 4: Document MED-3555 - RSV: 6.536797667226893
+Rank 5: Document MED-588 - RSV: 6.536797667226893
+
+Query: PLAIN-913 - ['cinnamon']
+Rank 1: Document MED-3813 - RSV: 6.879122017075655
+Rank 2: Document MED-206 - RSV: 6.840947742986561
+Rank 3: Document MED-2780 - RSV: 6.840947742986561
+Rank 4: Document MED-4415 - RSV: 6.5501577089250995
+Rank 5: Document MED-5084 - RSV: 6.1884578173642755
+
+Query: PLAIN-924 - ['cocaine']
+Rank 1: Document MED-3044 - RSV: 6.7358437369028055
+Rank 2: Document MED-316 - RSV: 6.7358437369028055
+Rank 3: Document MED-1 - RSV: 0.0
+Rank 4: Document MED-10 - RSV: 0.0
+Rank 5: Document MED-100 - RSV: 0.0
+
+Query: PLAIN-934 - ['coffee']
+Rank 1: Document MED-1628 - RSV: 5.477433690120404
+Rank 2: Document MED-5251 - RSV: 5.409476756939203
+Rank 3: Document MED-2158 - RSV: 4.812414437484304
+Rank 4: Document MED-2163 - RSV: 4.708476333049244
+Rank 5: Document MED-4821 - RSV: 4.683189553862734
+
+Query: PLAIN-946 - ['coma']
+Rank 1: Document MED-4381 - RSV: 7.476780699071282
+Rank 2: Document MED-866 - RSV: 6.950748396683272
+Rank 3: Document MED-4380 - RSV: 6.195242015340811
+Rank 4: Document MED-1570 - RSV: 4.986223491746724
+Rank 5: Document MED-855 - RSV: 3.9814850158712485
+
+Query: PLAIN-956 - ['cooking', 'methods']
+Rank 1: Document MED-2535 - RSV: 5.982282762525903
+Rank 2: Document MED-2554 - RSV: 5.982282762525903
+Rank 3: Document MED-2572 - RSV: 5.982282762525903
+Rank 4: Document MED-93 - RSV: 5.982282762525903
+Rank 5: Document MED-884 - RSV: 5.918027299591762
+
+Query: PLAIN-966 - ['cortisol']
+Rank 1: Document MED-3671 - RSV: 6.236629965077545
+Rank 2: Document MED-628 - RSV: 6.236629965077545
+Rank 3: Document MED-4323 - RSV: 5.928196000395812
+Rank 4: Document MED-4190 - RSV: 5.648831732080756
+Rank 5: Document MED-4192 - RSV: 5.648831732080756
+
+Query: PLAIN-977 - ['crib', 'death']
+Rank 1: Document MED-3717 - RSV: 3.8189060867957574
+Rank 2: Document MED-4427 - RSV: 3.4881753102950404
+Rank 3: Document MED-3249 - RSV: 3.4681516965940244
+Rank 4: Document MED-428 - RSV: 3.4681516965940244
+Rank 5: Document MED-201 - RSV: 3.371385737824592
+
+Query: PLAIN-987 - ['cumin']
+Rank 1: Document MED-206 - RSV: 7.8531116865501875
+Rank 2: Document MED-2780 - RSV: 7.8531116865501875
+Rank 3: Document MED-231 - RSV: 5.724665434625889
+Rank 4: Document MED-233 - RSV: 5.724665434625889
+Rank 5: Document MED-2828 - RSV: 5.724665434625889
+
+Query: PLAIN-997 - ['czechoslovakia']
+Rank 1: Document MED-1 - RSV: 0.0
+Rank 2: Document MED-10 - RSV: 0.0
+Rank 3: Document MED-100 - RSV: 0.0
+Rank 4: Document MED-1000 - RSV: 0.0
+Rank 5: Document MED-1001 - RSV: 0.0
+
+Query: PLAIN-1008 - ['deafness']
+Rank 1: Document MED-1 - RSV: 0.0
+Rank 2: Document MED-10 - RSV: 0.0
+Rank 3: Document MED-100 - RSV: 0.0
+Rank 4: Document MED-1000 - RSV: 0.0
+Rank 5: Document MED-1001 - RSV: 0.0
+
+Query: PLAIN-1018 - ['dha']
+Rank 1: Document MED-4357 - RSV: 5.363023056587524
+Rank 2: Document MED-1835 - RSV: 5.177362382265059
+Rank 3: Document MED-5092 - RSV: 5.177362382265059
+Rank 4: Document MED-259 - RSV: 5.052427892416172
+Rank 5: Document MED-2914 - RSV: 5.052427892416172
+
+Query: PLAIN-1028 - ['dietary', 'scoring']
+Rank 1: Document MED-4178 - RSV: 7.719439086457119
+Rank 2: Document MED-1677 - RSV: 6.675680480141656
+Rank 3: Document MED-3248 - RSV: 6.675680480141656
+Rank 4: Document MED-427 - RSV: 6.675680480141656
+Rank 5: Document MED-181 - RSV: 6.264778122293818
+
+Query: PLAIN-1039 - ['domoic', 'acid']
+Rank 1: Document MED-4381 - RSV: 10.720112347331689
+Rank 2: Document MED-4380 - RSV: 8.882658606211702
+Rank 3: Document MED-3261 - RSV: 3.0483264933658334
+Rank 4: Document MED-3275 - RSV: 3.0483264933658334
+Rank 5: Document MED-440 - RSV: 3.0483264933658334
+
+Query: PLAIN-1050 - ['dr', 'dean', 'ornish']
+Rank 1: Document MED-1713 - RSV: 6.971521020621352
+Rank 2: Document MED-1727 - RSV: 6.971521020621352
+Rank 3: Document MED-195 - RSV: 6.971521020621352
+Rank 4: Document MED-2763 - RSV: 6.971521020621352
+Rank 5: Document MED-1116 - RSV: 6.806712655398242
+
+Query: PLAIN-1066 - ['dr', 'walter', 'willett']
+Rank 1: Document MED-892 - RSV: 7.787751615496253
+Rank 2: Document MED-1713 - RSV: 6.971521020621352
+Rank 3: Document MED-1727 - RSV: 6.971521020621352
+Rank 4: Document MED-195 - RSV: 6.971521020621352
+Rank 5: Document MED-2763 - RSV: 6.971521020621352
+
+Query: PLAIN-1078 - ['duncan', 'hines']
+Rank 1: Document MED-1 - RSV: 0.0
+Rank 2: Document MED-10 - RSV: 0.0
+Rank 3: Document MED-100 - RSV: 0.0
+Rank 4: Document MED-1000 - RSV: 0.0
+Rank 5: Document MED-1001 - RSV: 0.0
+
+Query: PLAIN-1088 - ['ecmo']
+Rank 1: Document MED-2109 - RSV: 9.16549048334972
+Rank 2: Document MED-2110 - RSV: 7.466666494479113
+Rank 3: Document MED-1 - RSV: 0.0
+Rank 4: Document MED-10 - RSV: 0.0
+Rank 5: Document MED-100 - RSV: 0.0
+
+Query: PLAIN-1098 - ['eggnog']
+Rank 1: Document MED-1 - RSV: 0.0
+Rank 2: Document MED-10 - RSV: 0.0
+Rank 3: Document MED-100 - RSV: 0.0
+Rank 4: Document MED-1000 - RSV: 0.0
+Rank 5: Document MED-1001 - RSV: 0.0
+
+Query: PLAIN-1109 - ['endocrine', 'disruptors']
+Rank 1: Document MED-1074 - RSV: 10.992547791303638
+Rank 2: Document MED-4277 - RSV: 10.992547791303638
+Rank 3: Document MED-5323 - RSV: 10.992547791303638
+Rank 4: Document MED-1100 - RSV: 9.994146909254939
+Rank 5: Document MED-1777 - RSV: 9.994146909254939
+
+Query: PLAIN-1119 - ['energy', 'drinks']
+Rank 1: Document MED-1534 - RSV: 7.6342185731819905
+Rank 2: Document MED-1708 - RSV: 7.168724179716813
+Rank 3: Document MED-4011 - RSV: 6.78673700769218
+Rank 4: Document MED-4025 - RSV: 6.78673700769218
+Rank 5: Document MED-1710 - RSV: 6.553918922527329
+
+Query: PLAIN-1130 - ['ergothioneine']
+Rank 1: Document MED-4165 - RSV: 8.461034281051653
+Rank 2: Document MED-1 - RSV: 0.0
+Rank 3: Document MED-10 - RSV: 0.0
+Rank 4: Document MED-100 - RSV: 0.0
+Rank 5: Document MED-1000 - RSV: 0.0
+
+Query: PLAIN-1141 - ['evidencebased', 'medicine']
+Rank 1: Document MED-3625 - RSV: 4.735615208656569
+Rank 2: Document MED-610 - RSV: 4.735615208656569
+Rank 3: Document MED-2298 - RSV: 4.677935230665943
+Rank 4: Document MED-3213 - RSV: 4.539700895628943
+Rank 5: Document MED-3231 - RSV: 4.539700895628943
+
+Query: PLAIN-1151 - ['factory', 'farming', 'practices']
+Rank 1: Document MED-4489 - RSV: 9.101588707408464
+Rank 2: Document MED-1145 - RSV: 8.745753780953928
+Rank 3: Document MED-1155 - RSV: 8.745753780953928
+Rank 4: Document MED-1163 - RSV: 8.745753780953928
+Rank 5: Document MED-1181 - RSV: 8.745753780953928
+
+Query: PLAIN-1161 - ['fava', 'beans']
+Rank 1: Document MED-2141 - RSV: 5.608450268932459
+Rank 2: Document MED-2147 - RSV: 5.379136927233014
+Rank 3: Document MED-2144 - RSV: 5.082280122522712
+Rank 4: Document MED-719 - RSV: 4.816474783569627
+Rank 5: Document MED-724 - RSV: 4.816474783569627
+
+Query: PLAIN-1172 - ['fenugreek']
+Rank 1: Document MED-4150 - RSV: 11.205972423461688
+Rank 2: Document MED-1 - RSV: 0.0
+Rank 3: Document MED-10 - RSV: 0.0
+Rank 4: Document MED-100 - RSV: 0.0
+Rank 5: Document MED-1000 - RSV: 0.0
+
+Query: PLAIN-1183 - ['finland']
+Rank 1: Document MED-3856 - RSV: 6.227836703003977
+Rank 2: Document MED-1276 - RSV: 6.102150734901474
+Rank 3: Document MED-3981 - RSV: 6.102150734901474
+Rank 4: Document MED-4727 - RSV: 6.102150734901474
+Rank 5: Document MED-1201 - RSV: 6.041191127929137
+
+Query: PLAIN-1193 - ['flax', 'oil']
+Rank 1: Document MED-839 - RSV: 9.032618284326876
+Rank 2: Document MED-2378 - RSV: 8.41816251897739
+Rank 3: Document MED-793 - RSV: 8.41816251897739
+Rank 4: Document MED-3868 - RSV: 8.174866124716106
+Rank 5: Document MED-1826 - RSV: 6.556236132793978
+
+Query: PLAIN-1203 - ['folic', 'acid']
+Rank 1: Document MED-3261 - RSV: 10.524521942783702
+Rank 2: Document MED-3275 - RSV: 10.524521942783702
+Rank 3: Document MED-440 - RSV: 10.524521942783702
+Rank 4: Document MED-4600 - RSV: 9.166161605759381
+Rank 5: Document MED-1528 - RSV: 8.199864360724305
+
+Query: PLAIN-1214 - ['fosamax']
+Rank 1: Document MED-1 - RSV: 0.0
+Rank 2: Document MED-10 - RSV: 0.0
+Rank 3: Document MED-100 - RSV: 0.0
+Rank 4: Document MED-1000 - RSV: 0.0
+Rank 5: Document MED-1001 - RSV: 0.0
+
+Query: PLAIN-1225 - ['fructose']
+Rank 1: Document MED-2191 - RSV: 5.661605857506082
+Rank 2: Document MED-2195 - RSV: 5.661605857506082
+Rank 3: Document MED-2420 - RSV: 5.6038941674659215
+Rank 4: Document MED-8 - RSV: 5.6038941674659215
+Rank 5: Document MED-1672 - RSV: 5.38435217081685
+
+Query: PLAIN-1236 - ['galactosemia']
+Rank 1: Document MED-1341 - RSV: 7.52173457086288
+Rank 2: Document MED-1 - RSV: 0.0
+Rank 3: Document MED-10 - RSV: 0.0
+Rank 4: Document MED-100 - RSV: 0.0
+Rank 5: Document MED-1000 - RSV: 0.0
+
+Query: PLAIN-1249 - ['genetic', 'manipulation']
+Rank 1: Document MED-4854 - RSV: 6.9092400175613315
+Rank 2: Document MED-5018 - RSV: 6.288039203584074
+Rank 3: Document MED-3928 - RSV: 6.225843919512527
+Rank 4: Document MED-3269 - RSV: 5.822696044659255
+Rank 5: Document MED-3283 - RSV: 5.822696044659255
+
+Query: PLAIN-1262 - ['global', 'burden', 'of', 'disease', 'study']
+Rank 1: Document MED-983 - RSV: 9.458680719045647
+Rank 2: Document MED-4911 - RSV: 8.671197729456088
+Rank 3: Document MED-1550 - RSV: 8.37085132366213
+Rank 4: Document MED-1680 - RSV: 8.37085132366213
+Rank 5: Document MED-921 - RSV: 8.324662605244608
+
+Query: PLAIN-1275 - ['goji', 'berries']
+Rank 1: Document MED-4712 - RSV: 10.085639208059385
+Rank 2: Document MED-4366 - RSV: 6.782077330799253
+Rank 3: Document MED-248 - RSV: 6.687970293205532
+Rank 4: Document MED-2862 - RSV: 6.687970293205532
+Rank 5: Document MED-2872 - RSV: 6.687970293205532
+
+Query: PLAIN-1288 - ['grapes']
+Rank 1: Document MED-1538 - RSV: 6.107999071494279
+Rank 2: Document MED-4012 - RSV: 5.827820035504794
+Rank 3: Document MED-4029 - RSV: 5.827820035504794
+Rank 4: Document MED-1533 - RSV: 5.798267658116018
+Rank 5: Document MED-3728 - RSV: 5.654890329968222
+
+Query: PLAIN-1299 - ['growth', 'promoters']
+Rank 1: Document MED-2983 - RSV: 7.202919176993603
+Rank 2: Document MED-3135 - RSV: 6.755540039971343
+Rank 3: Document MED-355 - RSV: 6.755540039971343
+Rank 4: Document MED-4747 - RSV: 6.256015208114709
+Rank 5: Document MED-2106 - RSV: 5.981543192899063
+
+Query: PLAIN-1309 - ['halibut']
+Rank 1: Document MED-1 - RSV: 0.0
+Rank 2: Document MED-10 - RSV: 0.0
+Rank 3: Document MED-100 - RSV: 0.0
+Rank 4: Document MED-1000 - RSV: 0.0
+Rank 5: Document MED-1001 - RSV: 0.0
+
+Query: PLAIN-1320 - ['harvard', 'physicians', 'study', 'ii']
+Rank 1: Document MED-3932 - RSV: 8.633765961751276
+Rank 2: Document MED-1986 - RSV: 8.543227368320403
+Rank 3: Document MED-1377 - RSV: 7.9415998113274195
+Rank 4: Document MED-2761 - RSV: 7.860141717051619
+Rank 5: Document MED-4929 - RSV: 7.65438161575746
+
+Query: PLAIN-1331 - ['hearing']
+Rank 1: Document MED-1049 - RSV: 10.17517383926853
+Rank 2: Document MED-3391 - RSV: 7.043696009230173
+Rank 3: Document MED-3381 - RSV: 6.311746220854566
+Rank 4: Document MED-1 - RSV: 0.0
+Rank 5: Document MED-10 - RSV: 0.0
+
+Query: PLAIN-1342 - ['heme', 'iron']
+Rank 1: Document MED-4317 - RSV: 10.633467077736315
+Rank 2: Document MED-1077 - RSV: 10.424150039120931
+Rank 3: Document MED-4467 - RSV: 10.424150039120931
+Rank 4: Document MED-5326 - RSV: 10.424150039120931
+Rank 5: Document MED-2851 - RSV: 10.125182651637589
+
+Query: PLAIN-1353 - ['hernia']
+Rank 1: Document MED-976 - RSV: 10.374482748134822
+Rank 2: Document MED-2110 - RSV: 7.466666494479113
+Rank 3: Document MED-1 - RSV: 0.0
+Rank 4: Document MED-10 - RSV: 0.0
+Rank 5: Document MED-100 - RSV: 0.0
+
+Query: PLAIN-1363 - ['hiroshima']
+Rank 1: Document MED-3613 - RSV: 8.173877623833615
+Rank 2: Document MED-3620 - RSV: 8.173877623833615
+Rank 3: Document MED-605 - RSV: 8.173877623833615
+Rank 4: Document MED-1 - RSV: 0.0
+Rank 5: Document MED-10 - RSV: 0.0
+
+Query: PLAIN-1374 - ['hormonal', 'dysfunction']
+Rank 1: Document MED-3328 - RSV: 5.640408024805436
+Rank 2: Document MED-3335 - RSV: 5.640408024805436
+Rank 3: Document MED-3353 - RSV: 5.640408024805436
+Rank 4: Document MED-1036 - RSV: 5.223048489115191
+Rank 5: Document MED-5224 - RSV: 4.960851322395797
+
+Query: PLAIN-1387 - ['hyperactivity']
+Rank 1: Document MED-5063 - RSV: 8.333509904346753
+Rank 2: Document MED-1694 - RSV: 6.88813116024129
+Rank 3: Document MED-2078 - RSV: 6.88813116024129
+Rank 4: Document MED-2915 - RSV: 6.055195062452668
+Rank 5: Document MED-3013 - RSV: 6.055195062452668
+
+Query: PLAIN-1398 - ['igf1']
+Rank 1: Document MED-1 - RSV: 0.0
+Rank 2: Document MED-10 - RSV: 0.0
+Rank 3: Document MED-100 - RSV: 0.0
+Rank 4: Document MED-1000 - RSV: 0.0
+Rank 5: Document MED-1001 - RSV: 0.0
+
+Query: PLAIN-1409 - ['industrial', 'toxins']
+Rank 1: Document MED-1572 - RSV: 6.433626622927269
+Rank 2: Document MED-5101 - RSV: 6.26270417044821
+Rank 3: Document MED-2165 - RSV: 5.9168774713075
+Rank 4: Document MED-1274 - RSV: 5.800405274507524
+Rank 5: Document MED-1272 - RSV: 5.743871960389687
+
+Query: PLAIN-1419 - ['insects']
+Rank 1: Document MED-2327 - RSV: 7.08364793486539
+Rank 2: Document MED-2344 - RSV: 6.76049336405853
+Rank 3: Document MED-769 - RSV: 6.76049336405853
+Rank 4: Document MED-5156 - RSV: 6.551285548756887
+Rank 5: Document MED-4198 - RSV: 5.899294600005905
+
+Query: PLAIN-1429 - ['iowa', 'women', 's', 'health', 'study']
+Rank 1: Document MED-1559 - RSV: 11.096787502902881
+Rank 2: Document MED-1381 - RSV: 10.770735991403768
+Rank 3: Document MED-4057 - RSV: 9.853884943267058
+Rank 4: Document MED-4592 - RSV: 8.898463905136136
+Rank 5: Document MED-4594 - RSV: 8.898463905136136
+
+Query: PLAIN-1441 - ['japan']
+Rank 1: Document MED-5094 - RSV: 5.053798412870567
+Rank 2: Document MED-2385 - RSV: 4.882679551059496
+Rank 3: Document MED-799 - RSV: 4.882679551059496
+Rank 4: Document MED-5139 - RSV: 4.855280028155558
+Rank 5: Document MED-201 - RSV: 4.828186298231348
+
+Query: PLAIN-1453 - ['junk', 'food']
+Rank 1: Document MED-4366 - RSV: 8.209517010242077
+Rank 2: Document MED-1955 - RSV: 7.378885288183933
+Rank 3: Document MED-1057 - RSV: 7.109148752674253
+Rank 4: Document MED-1653 - RSV: 7.109148752674253
+Rank 5: Document MED-1995 - RSV: 7.109148752674253
+
+Query: PLAIN-1463 - ['kidney', 'beans']
+Rank 1: Document MED-2147 - RSV: 10.082663709223327
+Rank 2: Document MED-3122 - RSV: 8.934552643393673
+Rank 3: Document MED-3136 - RSV: 8.934552643393673
+Rank 4: Document MED-357 - RSV: 8.934552643393673
+Rank 5: Document MED-3132 - RSV: 8.330875646590949
+
+Query: PLAIN-1473 - ['kohlrabi']
+Rank 1: Document MED-4455 - RSV: 8.79913233648142
+Rank 2: Document MED-1 - RSV: 0.0
+Rank 3: Document MED-10 - RSV: 0.0
+Rank 4: Document MED-100 - RSV: 0.0
+Rank 5: Document MED-1000 - RSV: 0.0
+
+Query: PLAIN-1485 - ['lard']
+Rank 1: Document MED-2099 - RSV: 9.511793164747393
+Rank 2: Document MED-1 - RSV: 0.0
+Rank 3: Document MED-10 - RSV: 0.0
+Rank 4: Document MED-100 - RSV: 0.0
+Rank 5: Document MED-1000 - RSV: 0.0
+
+Query: PLAIN-1496 - ['leeks']
+Rank 1: Document MED-1 - RSV: 0.0
+Rank 2: Document MED-10 - RSV: 0.0
+Rank 3: Document MED-100 - RSV: 0.0
+Rank 4: Document MED-1000 - RSV: 0.0
+Rank 5: Document MED-1001 - RSV: 0.0
+
+Query: PLAIN-1506 - ['leucine']
+Rank 1: Document MED-4306 - RSV: 7.900525433930594
+Rank 2: Document MED-2117 - RSV: 6.2688368777553
+Rank 3: Document MED-5025 - RSV: 6.0649278221237255
+Rank 4: Document MED-2509 - RSV: 5.873866143292187
+Rank 5: Document MED-64 - RSV: 5.873866143292187
+
+Query: PLAIN-1516 - ['lindane']
+Rank 1: Document MED-930 - RSV: 8.775890476161285
+Rank 2: Document MED-4181 - RSV: 8.009820330337671
+Rank 3: Document MED-1 - RSV: 0.0
+Rank 4: Document MED-10 - RSV: 0.0
+Rank 5: Document MED-100 - RSV: 0.0
+
+Query: PLAIN-1527 - ['liver', 'disease']
+Rank 1: Document MED-2100 - RSV: 5.419151703346267
+Rank 2: Document MED-4641 - RSV: 5.419151703346267
+Rank 3: Document MED-2158 - RSV: 5.389245194539041
+Rank 4: Document MED-4817 - RSV: 5.216515824709747
+Rank 5: Document MED-1621 - RSV: 5.161373850862999
+
+Query: PLAIN-1537 - ['lowcarb', 'diets']
+Rank 1: Document MED-1466 - RSV: 3.1757693513050964
+Rank 2: Document MED-4306 - RSV: 3.1757693513050964
+Rank 3: Document MED-1609 - RSV: 2.927666644046946
+Rank 4: Document MED-3798 - RSV: 2.895352993103847
+Rank 5: Document MED-3189 - RSV: 2.8794621920852115
+
+Query: PLAIN-1547 - ['lyme', 'disease']
+Rank 1: Document MED-2360 - RSV: 10.57449683197001
+Rank 2: Document MED-781 - RSV: 10.57449683197001
+Rank 3: Document MED-2361 - RSV: 9.775142142922446
+Rank 4: Document MED-782 - RSV: 9.775142142922446
+Rank 5: Document MED-1965 - RSV: 2.0346752737797646
+
+Query: PLAIN-1557 - ['magnesium']
+Rank 1: Document MED-2248 - RSV: 5.83857548261456
+Rank 2: Document MED-4315 - RSV: 5.83857548261456
+Rank 3: Document MED-3911 - RSV: 5.620256281073351
+Rank 4: Document MED-3918 - RSV: 5.620256281073351
+Rank 5: Document MED-885 - RSV: 5.445716948957728
+
+Query: PLAIN-1568 - ['maple', 'syrup']
+Rank 1: Document MED-4150 - RSV: 18.60581132481381
+Rank 2: Document MED-5056 - RSV: 12.278980135367863
+Rank 3: Document MED-2054 - RSV: 6.874838410429865
+Rank 4: Document MED-1672 - RSV: 6.235171635481374
+Rank 5: Document MED-3734 - RSV: 5.808500752279998
+
+Query: PLAIN-1579 - ['mastitis']
+Rank 1: Document MED-4801 - RSV: 8.131788294721051
+Rank 2: Document MED-4667 - RSV: 7.888082113098952
+Rank 3: Document MED-739 - RSV: 7.888082113098952
+Rank 4: Document MED-1 - RSV: 0.0
+Rank 5: Document MED-10 - RSV: 0.0
+
+Query: PLAIN-1590 - ['medical', 'ethics']
+Rank 1: Document MED-748 - RSV: 12.027577160143947
+Rank 2: Document MED-3604 - RSV: 11.709728826365861
+Rank 3: Document MED-1240 - RSV: 7.043696009230173
+Rank 4: Document MED-1771 - RSV: 3.9228504472082366
+Rank 5: Document MED-2298 - RSV: 3.875069975720209
+
+Query: PLAIN-1601 - ['memory']
+Rank 1: Document MED-3774 - RSV: 5.726875108872878
+Rank 2: Document MED-3776 - RSV: 5.726875108872878
+Rank 3: Document MED-655 - RSV: 5.726875108872878
+Rank 4: Document MED-657 - RSV: 5.726875108872878
+Rank 5: Document MED-3772 - RSV: 5.154799076611731
+
+Query: PLAIN-1611 - ['mesquite']
+Rank 1: Document MED-1 - RSV: 0.0
+Rank 2: Document MED-10 - RSV: 0.0
+Rank 3: Document MED-100 - RSV: 0.0
+Rank 4: Document MED-1000 - RSV: 0.0
+Rank 5: Document MED-1001 - RSV: 0.0
+
+Query: PLAIN-1621 - ['mevacor']
+Rank 1: Document MED-1 - RSV: 0.0
+Rank 2: Document MED-10 - RSV: 0.0
+Rank 3: Document MED-100 - RSV: 0.0
+Rank 4: Document MED-1000 - RSV: 0.0
+Rank 5: Document MED-1001 - RSV: 0.0
+
+Query: PLAIN-1635 - ['milk']
+Rank 1: Document MED-4664 - RSV: 4.12558798525803
+Rank 2: Document MED-4882 - RSV: 4.12558798525803
+Rank 3: Document MED-1414 - RSV: 4.100765413840881
+Rank 4: Document MED-2488 - RSV: 3.9124442769235057
+Rank 5: Document MED-47 - RSV: 3.9124442769235057
+
+Query: PLAIN-1645 - ['molasses']
+Rank 1: Document MED-5056 - RSV: 7.395426642946628
+Rank 2: Document MED-1 - RSV: 0.0
+Rank 3: Document MED-10 - RSV: 0.0
+Rank 4: Document MED-100 - RSV: 0.0
+Rank 5: Document MED-1000 - RSV: 0.0
+
+Query: PLAIN-1656 - ['mouth', 'cancer']
+Rank 1: Document MED-4470 - RSV: 7.292312394478402
+Rank 2: Document MED-4434 - RSV: 6.530637398398878
+Rank 3: Document MED-4479 - RSV: 6.530637398398878
+Rank 4: Document MED-4819 - RSV: 6.530637398398878
+Rank 5: Document MED-3764 - RSV: 6.442861227829872
+
+Query: PLAIN-1667 - ['muscle', 'health']
+Rank 1: Document MED-3213 - RSV: 6.436027487360903
+Rank 2: Document MED-3231 - RSV: 6.436027487360903
+Rank 3: Document MED-3157 - RSV: 5.976823645499719
+Rank 4: Document MED-373 - RSV: 5.976823645499719
+Rank 5: Document MED-5170 - RSV: 5.578783282661033
+
+Query: PLAIN-1679 - ['myelopathy']
+Rank 1: Document MED-1 - RSV: 0.0
+Rank 2: Document MED-10 - RSV: 0.0
+Rank 3: Document MED-100 - RSV: 0.0
+Rank 4: Document MED-1000 - RSV: 0.0
+Rank 5: Document MED-1001 - RSV: 0.0
+
+Query: PLAIN-1690 - ['national', 'academy', 'of', 'sciences']
+Rank 1: Document MED-4599 - RSV: 14.51901719936875
+Rank 2: Document MED-4674 - RSV: 14.51901719936875
+Rank 3: Document MED-1878 - RSV: 13.271921911913282
+Rank 4: Document MED-2327 - RSV: 11.135724637585472
+Rank 5: Document MED-3726 - RSV: 11.030274240810545
+
+Query: PLAIN-1700 - ['native', 'americans']
+Rank 1: Document MED-5198 - RSV: 9.887267234773924
+Rank 2: Document MED-1417 - RSV: 9.622669613369338
+Rank 3: Document MED-5201 - RSV: 9.454001086409571
+Rank 4: Document MED-4555 - RSV: 9.019249121219408
+Rank 5: Document MED-1428 - RSV: 6.615226880438159
+
+Query: PLAIN-1710 - ['neurocysticercosis']
+Rank 1: Document MED-3180 - RSV: 6.706693524505229
+Rank 2: Document MED-3175 - RSV: 6.522649070262995
+Rank 3: Document MED-387 - RSV: 6.522649070262995
+Rank 4: Document MED-3178 - RSV: 6.281328781423672
+Rank 5: Document MED-382 - RSV: 6.281328781423672
+
+Query: PLAIN-1721 - ['nihaarp', 'study']
+Rank 1: Document MED-4141 - RSV: 0.9902935011525749
+Rank 2: Document MED-972 - RSV: 0.9776139373472502
+Rank 3: Document MED-1852 - RSV: 0.9713951412733477
+Rank 4: Document MED-1982 - RSV: 0.9713951412733477
+Rank 5: Document MED-5180 - RSV: 0.9472915049930496
+
+Query: PLAIN-1731 - ['norovirus']
+Rank 1: Document MED-3509 - RSV: 7.226535888949271
+Rank 2: Document MED-559 - RSV: 7.226535888949271
+Rank 3: Document MED-186 - RSV: 6.653616914319494
+Rank 4: Document MED-2749 - RSV: 6.653616914319494
+Rank 5: Document MED-181 - RSV: 5.960541947865386
+
+Query: PLAIN-1741 - ['nuts']
+Rank 1: Document MED-2230 - RSV: 4.459717766555793
+Rank 2: Document MED-4149 - RSV: 4.459717766555793
+Rank 3: Document MED-186 - RSV: 4.082580767515279
+Rank 4: Document MED-2749 - RSV: 4.082580767515279
+Rank 5: Document MED-1257 - RSV: 4.018857845457336
+
+Query: PLAIN-1752 - ['okra']
+Rank 1: Document MED-1 - RSV: 0.0
+Rank 2: Document MED-10 - RSV: 0.0
+Rank 3: Document MED-100 - RSV: 0.0
+Rank 4: Document MED-1000 - RSV: 0.0
+Rank 5: Document MED-1001 - RSV: 0.0
+
+Query: PLAIN-1762 - ['oral', 'intraepithelial', 'neoplasia']
+Rank 1: Document MED-865 - RSV: 13.109329406272195
+Rank 2: Document MED-3721 - RSV: 12.000944218460265
+Rank 3: Document MED-640 - RSV: 12.000944218460265
+Rank 4: Document MED-3716 - RSV: 11.90940491297712
+Rank 5: Document MED-759 - RSV: 11.211449731490756
+
+Query: PLAIN-1772 - ['organotins']
+Rank 1: Document MED-4727 - RSV: 8.333117831718857
+Rank 2: Document MED-4728 - RSV: 6.57495772638861
+Rank 3: Document MED-1 - RSV: 0.0
+Rank 4: Document MED-10 - RSV: 0.0
+Rank 5: Document MED-100 - RSV: 0.0
+
+Query: PLAIN-1784 - ['oxen', 'meat']
+Rank 1: Document MED-4799 - RSV: 3.294317926058876
+Rank 2: Document MED-4816 - RSV: 3.294317926058876
+Rank 3: Document MED-2365 - RSV: 3.2529328248304368
+Rank 4: Document MED-5207 - RSV: 3.115928571488478
+Rank 5: Document MED-4803 - RSV: 3.097292979071695
+
+Query: PLAIN-1794 - ['panama']
+Rank 1: Document MED-5042 - RSV: 8.966460365977088
+Rank 2: Document MED-5041 - RSV: 7.433063601688902
+Rank 3: Document MED-1 - RSV: 0.0
+Rank 4: Document MED-10 - RSV: 0.0
+Rank 5: Document MED-100 - RSV: 0.0
+
+Query: PLAIN-1805 - ['parkinson', 's', 'disease']
+Rank 1: Document MED-3933 - RSV: 7.767275926357466
+Rank 2: Document MED-1275 - RSV: 7.099851894164681
+Rank 3: Document MED-1287 - RSV: 7.099851894164681
+Rank 4: Document MED-3931 - RSV: 6.950540922959804
+Rank 5: Document MED-5196 - RSV: 6.914189308302689
+
+Query: PLAIN-1817 - ['peanut', 'butter']
+Rank 1: Document MED-4706 - RSV: 11.356037658231756
+Rank 2: Document MED-973 - RSV: 11.250007088439816
+Rank 3: Document MED-2150 - RSV: 11.09462245830506
+Rank 4: Document MED-4284 - RSV: 10.513759994746938
+Rank 5: Document MED-5085 - RSV: 6.813179437532313
+
+Query: PLAIN-1827 - ['peoria']
+Rank 1: Document MED-1 - RSV: 0.0
+Rank 2: Document MED-10 - RSV: 0.0
+Rank 3: Document MED-100 - RSV: 0.0
+Rank 4: Document MED-1000 - RSV: 0.0
+Rank 5: Document MED-1001 - RSV: 0.0
+
+Query: PLAIN-1837 - ['pesticides']
+Rank 1: Document MED-1162 - RSV: 5.298548286195027
+Rank 2: Document MED-1158 - RSV: 5.207821318006378
+Rank 3: Document MED-1143 - RSV: 5.007743756646815
+Rank 4: Document MED-4530 - RSV: 4.84809460798982
+Rank 5: Document MED-4535 - RSV: 4.84809460798982
+
+Query: PLAIN-1847 - ['philippines']
+Rank 1: Document MED-3992 - RSV: 7.086881360593186
+Rank 2: Document MED-4000 - RSV: 7.086881360593186
+Rank 3: Document MED-3603 - RSV: 6.832874788529336
+Rank 4: Document MED-3983 - RSV: 6.742254343514122
+Rank 5: Document MED-1 - RSV: 0.0
+
+Query: PLAIN-1857 - ['phytic', 'acid']
+Rank 1: Document MED-2541 - RSV: 8.466702595428172
+Rank 2: Document MED-2561 - RSV: 8.466702595428172
+Rank 3: Document MED-2578 - RSV: 8.466702595428172
+Rank 4: Document MED-92 - RSV: 8.466702595428172
+Rank 5: Document MED-5357 - RSV: 7.690327339617448
+
+Query: PLAIN-1867 - ['pineapples']
+Rank 1: Document MED-1 - RSV: 0.0
+Rank 2: Document MED-10 - RSV: 0.0
+Rank 3: Document MED-100 - RSV: 0.0
+Rank 4: Document MED-1000 - RSV: 0.0
+Rank 5: Document MED-1001 - RSV: 0.0
+
+Query: PLAIN-1877 - ['plantbased', 'diet']
+Rank 1: Document MED-5063 - RSV: 2.014718989576666
+Rank 2: Document MED-197 - RSV: 1.8294003702486274
+Rank 3: Document MED-2766 - RSV: 1.8294003702486274
+Rank 4: Document MED-2997 - RSV: 1.8294003702486274
+Rank 5: Document MED-300 - RSV: 1.8294003702486274
+
+Query: PLAIN-1887 - ['poisonous', 'plants']
+Rank 1: Document MED-111 - RSV: 6.57451329482983
+Rank 2: Document MED-2612 - RSV: 6.57451329482983
+Rank 3: Document MED-2824 - RSV: 6.57451329482983
+Rank 4: Document MED-2331 - RSV: 4.978065300543231
+Rank 5: Document MED-1694 - RSV: 4.888747595881529
+
+Query: PLAIN-1897 - ['polypropylene', 'plastic']
+Rank 1: Document MED-1312 - RSV: 7.0249569271801455
+Rank 2: Document MED-2559 - RSV: 6.883184020410586
+Rank 3: Document MED-84 - RSV: 6.883184020410586
+Rank 4: Document MED-115 - RSV: 6.780553626330262
+Rank 5: Document MED-2466 - RSV: 6.780553626330262
+
+Query: PLAIN-1909 - ['pork']
+Rank 1: Document MED-4803 - RSV: 5.188111579544775
+Rank 2: Document MED-4818 - RSV: 5.0668962046457064
+Rank 3: Document MED-3171 - RSV: 4.979637770158033
+Rank 4: Document MED-3647 - RSV: 4.923116197601155
+Rank 5: Document MED-3653 - RSV: 4.923116197601155
+
+Query: PLAIN-1919 - ['poultry', 'workers']
+Rank 1: Document MED-3304 - RSV: 9.212898819790873
+Rank 2: Document MED-3321 - RSV: 9.212898819790873
+Rank 3: Document MED-452 - RSV: 9.212898819790873
+Rank 4: Document MED-3303 - RSV: 7.786907920716145
+Rank 5: Document MED-3320 - RSV: 7.786907920716145
+
+Query: PLAIN-1929 - ['prenatal', 'vitamins']
+Rank 1: Document MED-4150 - RSV: 6.445960866118379
+Rank 2: Document MED-2915 - RSV: 5.327594637381502
+Rank 3: Document MED-3013 - RSV: 5.327594637381502
+Rank 4: Document MED-303 - RSV: 5.327594637381502
+Rank 5: Document MED-1586 - RSV: 5.086893789967244
+
+Query: PLAIN-1940 - ['prolactin']
+Rank 1: Document MED-3792 - RSV: 7.968925969963416
+Rank 2: Document MED-3797 - RSV: 7.790053064338126
+Rank 3: Document MED-2006 - RSV: 6.968825255086191
+Rank 4: Document MED-1198 - RSV: 6.480819314007616
+Rank 5: Document MED-4945 - RSV: 6.2194995682477145
+
+Query: PLAIN-1950 - ['prunes']
+Rank 1: Document MED-912 - RSV: 7.407463917259282
+Rank 2: Document MED-1950 - RSV: 7.080989051542643
+Rank 3: Document MED-1336 - RSV: 6.626669874412944
+Rank 4: Document MED-1795 - RSV: 6.626669874412944
+Rank 5: Document MED-3904 - RSV: 6.596439141902869
+
+Query: PLAIN-1962 - ['pumpkin']
+Rank 1: Document MED-4293 - RSV: 7.542509705672425
+Rank 2: Document MED-4295 - RSV: 7.542509705672425
+Rank 3: Document MED-18 - RSV: 7.021625553471297
+Rank 4: Document MED-2438 - RSV: 7.021625553471297
+Rank 5: Document MED-1 - RSV: 0.0
+
+Query: PLAIN-1972 - ['quinine']
+Rank 1: Document MED-2143 - RSV: 8.375374360144203
+Rank 2: Document MED-1442 - RSV: 8.249871184766935
+Rank 3: Document MED-1 - RSV: 0.0
+Rank 4: Document MED-10 - RSV: 0.0
+Rank 5: Document MED-100 - RSV: 0.0
+
+Query: PLAIN-1983 - ['rapamycin']
+Rank 1: Document MED-2137 - RSV: 6.070565644596465
+Rank 2: Document MED-2520 - RSV: 6.070565644596465
+Rank 3: Document MED-73 - RSV: 6.070565644596465
+Rank 4: Document MED-2133 - RSV: 6.035916907723928
+Rank 5: Document MED-2499 - RSV: 6.035916907723928
+
+Query: PLAIN-1995 - ['red', 'tea']
+Rank 1: Document MED-5305 - RSV: 7.113811475289884
+Rank 2: Document MED-4413 - RSV: 6.84688057514524
+Rank 3: Document MED-2186 - RSV: 6.7207888020607545
+Rank 4: Document MED-2200 - RSV: 6.7207888020607545
+Rank 5: Document MED-3929 - RSV: 6.5695580314429085
+
+Query: PLAIN-2009 - ['rhabdomyolysis']
+Rank 1: Document MED-5173 - RSV: 9.48714295456532
+Rank 2: Document MED-4961 - RSV: 8.178232723509531
+Rank 3: Document MED-3951 - RSV: 7.257094087298113
+Rank 4: Document MED-1733 - RSV: 7.117670715472368
+Rank 5: Document MED-4439 - RSV: 6.409607389374396
+
+Query: PLAIN-2019 - ['rickets']
+Rank 1: Document MED-4569 - RSV: 8.249871184766935
+Rank 2: Document MED-4573 - RSV: 8.249871184766935
+Rank 3: Document MED-1 - RSV: 0.0
+Rank 4: Document MED-10 - RSV: 0.0
+Rank 5: Document MED-100 - RSV: 0.0
+
+Query: PLAIN-2030 - ['rutin']
+Rank 1: Document MED-4045 - RSV: 6.18188119431295
+Rank 2: Document MED-4051 - RSV: 6.18188119431295
+Rank 3: Document MED-110 - RSV: 5.453723975984083
+Rank 4: Document MED-114 - RSV: 5.453723975984083
+Rank 5: Document MED-211 - RSV: 5.453723975984083
+
+Query: PLAIN-2040 - ['salmon']
+Rank 1: Document MED-5094 - RSV: 6.829896466031944
+Rank 2: Document MED-145 - RSV: 6.598639891456585
+Rank 3: Document MED-2678 - RSV: 6.598639891456585
+Rank 4: Document MED-4961 - RSV: 6.4529770328894696
+Rank 5: Document MED-4964 - RSV: 6.052177409117553
+
+Query: PLAIN-2051 - ['saturated', 'fat']
+Rank 1: Document MED-3249 - RSV: 6.890882321887402
+Rank 2: Document MED-428 - RSV: 6.890882321887402
+Rank 3: Document MED-3798 - RSV: 6.624682793084235
+Rank 4: Document MED-3862 - RSV: 6.552362146981691
+Rank 5: Document MED-5261 - RSV: 6.552362146981691
+
+Query: PLAIN-2061 - ['seafood']
+Rank 1: Document MED-4359 - RSV: 5.88475222051588
+Rank 2: Document MED-4960 - RSV: 5.606518420363084
+Rank 3: Document MED-3631 - RSV: 5.206499184405484
+Rank 4: Document MED-611 - RSV: 5.206499184405484
+Rank 5: Document MED-5101 - RSV: 5.040513622310697
+
+Query: PLAIN-2071 - ['serotonin']
+Rank 1: Document MED-4306 - RSV: 6.8731314162687225
+Rank 2: Document MED-1349 - RSV: 6.033176952795834
+Rank 3: Document MED-3532 - RSV: 6.033176952795834
+Rank 4: Document MED-568 - RSV: 6.033176952795834
+Rank 5: Document MED-4309 - RSV: 5.757833429885949
+
+Query: PLAIN-2081 - ['shelf', 'life']
+Rank 1: Document MED-2671 - RSV: 10.179460320042867
+Rank 2: Document MED-4303 - RSV: 8.803878065318624
+Rank 3: Document MED-147 - RSV: 8.321920724051406
+Rank 4: Document MED-2074 - RSV: 8.321920724051406
+Rank 5: Document MED-2687 - RSV: 8.321920724051406
+
+Query: PLAIN-2092 - ['sirtuins']
+Rank 1: Document MED-1432 - RSV: 7.402088736739563
+Rank 2: Document MED-1437 - RSV: 7.402088736739563
+Rank 3: Document MED-1440 - RSV: 7.152021896405578
+Rank 4: Document MED-1436 - RSV: 6.76049336405853
+Rank 5: Document MED-1434 - RSV: 6.465536892648379
+
+Query: PLAIN-2102 - ['smoking']
+Rank 1: Document MED-3099 - RSV: 3.646839568589305
+Rank 2: Document MED-340 - RSV: 3.646839568589305
+Rank 3: Document MED-3765 - RSV: 3.5226587846889674
+Rank 4: Document MED-1698 - RSV: 3.4831234561692406
+Rank 5: Document MED-1703 - RSV: 3.4831234561692406
+
+Query: PLAIN-2113 - ['soil', 'health']
+Rank 1: Document MED-1594 - RSV: 7.188455878354574
+Rank 2: Document MED-915 - RSV: 6.7493763536478415
+Rank 3: Document MED-2521 - RSV: 6.479741425943165
+Rank 4: Document MED-74 - RSV: 6.479741425943165
+Rank 5: Document MED-1755 - RSV: 6.2208146915715385
+
+Query: PLAIN-2124 - ['spearmint']
+Rank 1: Document MED-1525 - RSV: 7.569323151812314
+Rank 2: Document MED-1522 - RSV: 6.497362786657325
+Rank 3: Document MED-1 - RSV: 0.0
+Rank 4: Document MED-10 - RSV: 0.0
+Rank 5: Document MED-100 - RSV: 0.0
+
+Query: PLAIN-2134 - ['splenda']
+Rank 1: Document MED-1 - RSV: 0.0
+Rank 2: Document MED-10 - RSV: 0.0
+Rank 3: Document MED-100 - RSV: 0.0
+Rank 4: Document MED-1000 - RSV: 0.0
+Rank 5: Document MED-1001 - RSV: 0.0
+
+Query: PLAIN-2145 - ['st', 'john', 's', 'wort']
+Rank 1: Document MED-3911 - RSV: 18.785001593663342
+Rank 2: Document MED-3918 - RSV: 18.785001593663342
+Rank 3: Document MED-239 - RSV: 16.340891459872086
+Rank 4: Document MED-2856 - RSV: 16.340891459872086
+Rank 5: Document MED-2877 - RSV: 16.340891459872086
+
+Query: PLAIN-2156 - ['stevia']
+Rank 1: Document MED-4868 - RSV: 7.888082113098952
+Rank 2: Document MED-4867 - RSV: 7.407108459588523
+Rank 3: Document MED-5055 - RSV: 7.012418924543569
+Rank 4: Document MED-1 - RSV: 0.0
+Rank 5: Document MED-10 - RSV: 0.0
+
+Query: PLAIN-2167 - ['subsidies']
+Rank 1: Document MED-2488 - RSV: 8.300425950004177
+Rank 2: Document MED-47 - RSV: 8.300425950004177
+Rank 3: Document MED-199 - RSV: 6.596439141902869
+Rank 4: Document MED-2767 - RSV: 6.596439141902869
+Rank 5: Document MED-2998 - RSV: 6.596439141902869
+
+Query: PLAIN-2177 - ['sulfur']
+Rank 1: Document MED-1953 - RSV: 7.351146671302796
+Rank 2: Document MED-4320 - RSV: 6.115381449096357
+Rank 3: Document MED-4206 - RSV: 6.086149655481866
+Rank 4: Document MED-4687 - RSV: 6.086149655481866
+Rank 5: Document MED-3212 - RSV: 5.916463901801906
+
+Query: PLAIN-2187 - ['suppositories']
+Rank 1: Document MED-1248 - RSV: 9.373556997134557
+Rank 2: Document MED-1244 - RSV: 8.04885395534596
+Rank 3: Document MED-1 - RSV: 0.0
+Rank 4: Document MED-10 - RSV: 0.0
+Rank 5: Document MED-100 - RSV: 0.0
+
+Query: PLAIN-2197 - ['sweeteners']
+Rank 1: Document MED-5053 - RSV: 6.862092570159745
+Rank 2: Document MED-4120 - RSV: 6.618512974955639
+Rank 3: Document MED-1627 - RSV: 6.585120392172638
+Rank 4: Document MED-4868 - RSV: 6.519335987884427
+Rank 5: Document MED-1629 - RSV: 6.238871560409391
+
+Query: PLAIN-2209 - ['taro']
+Rank 1: Document MED-1 - RSV: 0.0
+Rank 2: Document MED-10 - RSV: 0.0
+Rank 3: Document MED-100 - RSV: 0.0
+Rank 4: Document MED-1000 - RSV: 0.0
+Rank 5: Document MED-1001 - RSV: 0.0
+
+Query: PLAIN-2220 - ['tempeh']
+Rank 1: Document MED-4039 - RSV: 6.886151289749463
+Rank 2: Document MED-4041 - RSV: 6.886151289749463
+Rank 3: Document MED-4473 - RSV: 6.886151289749463
+Rank 4: Document MED-4971 - RSV: 6.886151289749463
+Rank 5: Document MED-4976 - RSV: 6.886151289749463
+
+Query: PLAIN-2230 - ['thiamine']
+Rank 1: Document MED-4872 - RSV: 6.920232367853708
+Rank 2: Document MED-557 - RSV: 6.520224033789481
+Rank 3: Document MED-4716 - RSV: 6.311746220854566
+Rank 4: Document MED-1 - RSV: 0.0
+Rank 5: Document MED-10 - RSV: 0.0
+
+Query: PLAIN-2240 - ['titanium', 'dioxide']
+Rank 1: Document MED-3963 - RSV: 12.26817909740619
+Rank 2: Document MED-3960 - RSV: 12.213460050995966
+Rank 3: Document MED-1422 - RSV: 11.84368029745385
+Rank 4: Document MED-3964 - RSV: 11.84368029745385
+Rank 5: Document MED-5059 - RSV: 11.592970612173872
+
+Query: PLAIN-2250 - ['tongue', 'worm']
+Rank 1: Document MED-2346 - RSV: 7.366757078290179
+Rank 2: Document MED-771 - RSV: 7.366757078290179
+Rank 3: Document MED-2199 - RSV: 6.843540026360039
+Rank 4: Document MED-2210 - RSV: 6.843540026360039
+Rank 5: Document MED-5024 - RSV: 6.7744841892788905
+
+Query: PLAIN-2261 - ['trans', 'fats']
+Rank 1: Document MED-4600 - RSV: 10.522551810778625
+Rank 2: Document MED-2850 - RSV: 9.093710683067151
+Rank 3: Document MED-3998 - RSV: 9.00635644798426
+Rank 4: Document MED-4004 - RSV: 9.00635644798426
+Rank 5: Document MED-1558 - RSV: 8.554401493818265
+
+Query: PLAIN-2271 - ['tufts']
+Rank 1: Document MED-1 - RSV: 0.0
+Rank 2: Document MED-10 - RSV: 0.0
+Rank 3: Document MED-100 - RSV: 0.0
+Rank 4: Document MED-1000 - RSV: 0.0
+Rank 5: Document MED-1001 - RSV: 0.0
+
+Query: PLAIN-2281 - ['turnips']
+Rank 1: Document MED-1 - RSV: 0.0
+Rank 2: Document MED-10 - RSV: 0.0
+Rank 3: Document MED-100 - RSV: 0.0
+Rank 4: Document MED-1000 - RSV: 0.0
+Rank 5: Document MED-1001 - RSV: 0.0
+
+Query: PLAIN-2291 - ['ultraprocessed', 'foods']
+Rank 1: Document MED-1650 - RSV: 3.0798885174467188
+Rank 2: Document MED-1162 - RSV: 2.650643456244903
+Rank 3: Document MED-2096 - RSV: 2.620211808804291
+Rank 4: Document MED-2488 - RSV: 2.620211808804291
+Rank 5: Document MED-47 - RSV: 2.620211808804291
+
+Query: PLAIN-2301 - ['uterine', 'health']
+Rank 1: Document MED-3703 - RSV: 7.187071439959939
+Rank 2: Document MED-2122 - RSV: 7.086881360593186
+Rank 3: Document MED-2196 - RSV: 5.9296284630670995
+Rank 4: Document MED-2208 - RSV: 5.9296284630670995
+Rank 5: Document MED-1965 - RSV: 2.150819913317459
+
+Query: PLAIN-2311 - ['veal']
+Rank 1: Document MED-4801 - RSV: 7.85321577488108
+Rank 2: Document MED-1165 - RSV: 7.360502047586454
+Rank 3: Document MED-1756 - RSV: 5.9527727137600515
+Rank 4: Document MED-1978 - RSV: 5.9527727137600515
+Rank 5: Document MED-1 - RSV: 0.0
+
+Query: PLAIN-2321 - ['veggie', 'chicken']
+Rank 1: Document MED-840 - RSV: 8.262607644304177
+Rank 2: Document MED-4882 - RSV: 4.915888635214625
+Rank 3: Document MED-1962 - RSV: 4.886311033873336
+Rank 4: Document MED-4427 - RSV: 4.688830850803595
+Rank 5: Document MED-1809 - RSV: 4.608999714873737
+
+Query: PLAIN-2332 - ['viral', 'infections']
+Rank 1: Document MED-3509 - RSV: 10.511972216918977
+Rank 2: Document MED-559 - RSV: 10.511972216918977
+Rank 3: Document MED-3760 - RSV: 10.161968038220433
+Rank 4: Document MED-5281 - RSV: 10.105887492173691
+Rank 5: Document MED-3558 - RSV: 8.923930125410713
+
+Query: PLAIN-2343 - ['vitamin', 'k']
+Rank 1: Document MED-5132 - RSV: 4.2831621395835935
+Rank 2: Document MED-3531 - RSV: 3.9662881097912375
+Rank 3: Document MED-4373 - RSV: 3.9662881097912375
+Rank 4: Document MED-4684 - RSV: 3.9662881097912375
+Rank 5: Document MED-4685 - RSV: 3.9662881097912375
+
+Query: PLAIN-2354 - ['walnut', 'oil']
+Rank 1: Document MED-3392 - RSV: 9.417704829315575
+Rank 2: Document MED-3410 - RSV: 9.417704829315575
+Rank 3: Document MED-3432 - RSV: 9.417704829315575
+Rank 4: Document MED-487 - RSV: 9.417704829315575
+Rank 5: Document MED-493 - RSV: 9.417704829315575
+
+Query: PLAIN-2364 - ['weight', 'gain']
+Rank 1: Document MED-1809 - RSV: 7.605399100464751
+Rank 2: Document MED-4769 - RSV: 7.605399100464751
+Rank 3: Document MED-4724 - RSV: 7.478078763842208
+Rank 4: Document MED-3751 - RSV: 7.045599628508803
+Rank 5: Document MED-649 - RSV: 7.045599628508803
+
+Query: PLAIN-2375 - ['whiting']
+Rank 1: Document MED-1 - RSV: 0.0
+Rank 2: Document MED-10 - RSV: 0.0
+Rank 3: Document MED-100 - RSV: 0.0
+Rank 4: Document MED-1000 - RSV: 0.0
+Rank 5: Document MED-1001 - RSV: 0.0
+
+Query: PLAIN-2386 - ['worms']
+Rank 1: Document MED-2510 - RSV: 7.152021896405578
+Rank 2: Document MED-66 - RSV: 7.152021896405578
+Rank 3: Document MED-2346 - RSV: 6.609726185324513
+Rank 4: Document MED-771 - RSV: 6.609726185324513
+Rank 5: Document MED-1724 - RSV: 5.82967355786485
+
+Query: PLAIN-2396 - ['yale']
+Rank 1: Document MED-1 - RSV: 0.0
+Rank 2: Document MED-10 - RSV: 0.0
+Rank 3: Document MED-100 - RSV: 0.0
+Rank 4: Document MED-1000 - RSV: 0.0
+Rank 5: Document MED-1001 - RSV: 0.0
+
+Query: PLAIN-2408 - ['zoloft']
+Rank 1: Document MED-1 - RSV: 0.0
+Rank 2: Document MED-10 - RSV: 0.0
+Rank 3: Document MED-100 - RSV: 0.0
+Rank 4: Document MED-1000 - RSV: 0.0
+Rank 5: Document MED-1001 - RSV: 0.0
+
+Query: PLAIN-2430 - ['preventing', 'brain', 'loss', 'with', 'b', 'vitamins']
+Rank 1: Document MED-994 - RSV: 23.562417106563768
+Rank 2: Document MED-980 - RSV: 21.91539405056953
+Rank 3: Document MED-5128 - RSV: 20.163914565631547
+Rank 4: Document MED-271 - RSV: 17.984508944199444
+Rank 5: Document MED-2936 - RSV: 17.984508944199444
+
+Query: PLAIN-2430 - ['one', 'week', 'on', 'a', 'plantbased', 'diet', 'can', 'significantly', 'drop', 'blood', 'levels', 'of', 'homocysteine', 'a', 'toxin', 'associated', 'with', 'cognitive', 'decline', 'and', 'alzheimer', 's', 'disease', 'without', 'vitamin', 'b12', 'supplementation', 'though', 'a', 'longterm', 'plantbased', 'diet', 'could', 'make', 'things', 'worse']
+Rank 1: Document MED-994 - RSV: 23.562417106563768
+Rank 2: Document MED-980 - RSV: 21.91539405056953
+Rank 3: Document MED-5128 - RSV: 20.163914565631547
+Rank 4: Document MED-271 - RSV: 17.984508944199444
+Rank 5: Document MED-2936 - RSV: 17.984508944199444
+
+Query: PLAIN-2440 - ['dr', 'greger', 'has', 'scoured', 'the', 'world', 's', 'scholarly', 'literature', 'on', 'clinical', 'nutrition', 'and', 'developed', 'this', 'brandnew', 'live', 'presentation', 'on', 'the', 'latest', 'in', 'cuttingedge', 'research', 'on', 'how', 'a', 'healthy', 'diet', 'can', 'affect', 'some', 'of', 'our', 'most', 'common', 'medical', 'conditions']
+Rank 1: Document MED-1386 - RSV: 17.04504474141159
+Rank 2: Document MED-2052 - RSV: 15.690073438411487
+Rank 3: Document MED-823 - RSV: 15.677432751526867
+Rank 4: Document MED-3149 - RSV: 15.031534982881585
+Rank 5: Document MED-364 - RSV: 15.031534982881585
+
+Query: PLAIN-2440 - ['more', 'than', 'an', 'apple', 'a', 'day', 'combating', 'common', 'diseases']
+Rank 1: Document MED-1386 - RSV: 17.04504474141159
+Rank 2: Document MED-2052 - RSV: 15.690073438411487
+Rank 3: Document MED-823 - RSV: 15.677432751526867
+Rank 4: Document MED-3149 - RSV: 15.031534982881585
+Rank 5: Document MED-364 - RSV: 15.031534982881585
+
+Query: PLAIN-2450 - ['organic', 'food', 'consumption', 'appears', 'to', 'reduce', 'exposure', 'to', 'pesticide', 'residues', 'and', 'antibioticresistant', 'bacteria']
+Rank 1: Document MED-1151 - RSV: 20.928111302116747
+Rank 2: Document MED-1168 - RSV: 18.73959202512004
+Rank 3: Document MED-1178 - RSV: 18.73959202512004
+Rank 4: Document MED-1164 - RSV: 18.720830354911566
+Rank 5: Document MED-1162 - RSV: 18.49526017183035
+
+Query: PLAIN-2450 - ['are', 'organic', 'foods', 'safer']
+Rank 1: Document MED-1151 - RSV: 20.928111302116747
+Rank 2: Document MED-1168 - RSV: 18.73959202512004
+Rank 3: Document MED-1178 - RSV: 18.73959202512004
+Rank 4: Document MED-1164 - RSV: 18.720830354911566
+Rank 5: Document MED-1162 - RSV: 18.49526017183035
+
+Query: PLAIN-2460 - ['the', 'twin', 'vicious', 'cycles', 'explain', 'how', 'the', 'buildup', 'of', 'fat', 'in', 'the', 'cells', 'of', 'our', 'muscles', 'liver', 'and', 'pancreas', 'causes', 'type', '2', 'diabetes', 'which', 'explains', 'why', 'dietary', 'recommendations', 'for', 'diabetics', 'encourage', 'a', 'reduction', 'in', 'fat', 'intake']
+Rank 1: Document MED-1065 - RSV: 28.036079137031034
+Rank 2: Document MED-1237 - RSV: 28.036079137031034
+Rank 3: Document MED-5233 - RSV: 18.011519486125234
+Rank 4: Document MED-5007 - RSV: 15.444634755918182
+Rank 5: Document MED-1447 - RSV: 13.69888796204695
+
+Query: PLAIN-2460 - ['diabetes', 'as', 'a', 'disease', 'of', 'fat', 'toxicity']
+Rank 1: Document MED-1065 - RSV: 28.036079137031034
+Rank 2: Document MED-1237 - RSV: 28.036079137031034
+Rank 3: Document MED-5233 - RSV: 18.011519486125234
+Rank 4: Document MED-5007 - RSV: 15.444634755918182
+Rank 5: Document MED-1447 - RSV: 13.69888796204695
+
+Query: PLAIN-2470 - ['the', 'galactose', 'in', 'milk', 'may', 'explain', 'why', 'milk', 'consumption', 'is', 'associated', 'with', 'significantly', 'higher', 'risk', 'of', 'hip', 'fractures', 'cancer', 'and', 'premature', 'death']
+Rank 1: Document MED-5189 - RSV: 21.342814782491768
+Rank 2: Document MED-1338 - RSV: 20.077642254522893
+Rank 3: Document MED-1340 - RSV: 18.614025612913267
+Rank 4: Document MED-1337 - RSV: 17.27318780662354
+Rank 5: Document MED-3214 - RSV: 16.7982214416392
+
+Query: PLAIN-2470 - ['is', 'milk', 'good', 'for', 'our', 'bones']
+Rank 1: Document MED-5189 - RSV: 21.342814782491768
+Rank 2: Document MED-1338 - RSV: 20.077642254522893
+Rank 3: Document MED-1340 - RSV: 18.614025612913267
+Rank 4: Document MED-1337 - RSV: 17.27318780662354
+Rank 5: Document MED-3214 - RSV: 16.7982214416392
+
+Query: PLAIN-2480 - ['preventing', 'ulcerative', 'colitis', 'with', 'diet']
+Rank 1: Document MED-1184 - RSV: 19.088142477232523
+Rank 2: Document MED-3268 - RSV: 15.967661592622692
+Rank 3: Document MED-3282 - RSV: 15.967661592622692
+Rank 4: Document MED-441 - RSV: 15.967661592622692
+Rank 5: Document MED-723 - RSV: 14.996572714050423
+
+Query: PLAIN-2480 - ['the', 'toxic', 'rotten', 'egg', 'gas', 'hydrogen', 'sulfide', 'may', 'explain', 'why', 'animal', 'protein', 'is', 'associated', 'with', 'inflammatory', 'bowel', 'disease']
+Rank 1: Document MED-1184 - RSV: 19.088142477232523
+Rank 2: Document MED-3268 - RSV: 15.967661592622692
+Rank 3: Document MED-3282 - RSV: 15.967661592622692
+Rank 4: Document MED-441 - RSV: 15.967661592622692
+Rank 5: Document MED-723 - RSV: 14.996572714050423
+
+Query: PLAIN-2490 - ['the', 'actual', 'benefit', 'of', 'diet', 'vs', 'drugs']
+Rank 1: Document MED-3604 - RSV: 17.34093169170157
+Rank 2: Document MED-1777 - RSV: 12.328078378592338
+Rank 3: Document MED-5346 - RSV: 12.238195261944647
+Rank 4: Document MED-1485 - RSV: 12.0107829624648
+Rank 5: Document MED-1490 - RSV: 12.0107829624648
+
+Query: PLAIN-2490 - ['the', 'medical', 'profession', 'oversells', 'the', 'benefits', 'of', 'drugs', 'for', 'chronic', 'disease', 'since', 'so', 'few', 'patients', 'would', 'apparently', 'take', 'them', 'if', 'doctors', 'divulged', 'the', 'truth']
+Rank 1: Document MED-3604 - RSV: 17.34093169170157
+Rank 2: Document MED-1777 - RSV: 12.328078378592338
+Rank 3: Document MED-5346 - RSV: 12.238195261944647
+Rank 4: Document MED-1485 - RSV: 12.0107829624648
+Rank 5: Document MED-1490 - RSV: 12.0107829624648
+
+Query: PLAIN-2500 - ['dairy', 'industry', 'campaign', 'to', 'neutralize', 'the', 'negative', 'image', 'of', 'milkfat', 'among', 'regulators', 'and', 'health', 'professionals', 'as', 'related', 'to', 'heart', 'disease', 'seeks', 'to', 'undermine', 'latest', 'guidelines', 'from', 'the', 'american', 'heart', 'association', 'and', 'the', 'american', 'college', 'of', 'cardiology']
+Rank 1: Document MED-2155 - RSV: 24.837426598192504
+Rank 2: Document MED-5244 - RSV: 24.837426598192504
+Rank 3: Document MED-3393 - RSV: 24.00848214411449
+Rank 4: Document MED-3411 - RSV: 24.00848214411449
+Rank 5: Document MED-3433 - RSV: 24.00848214411449
+
+Query: PLAIN-2500 - ['the', 'saturated', 'fat', 'studies', 'buttering', 'up', 'the', 'public']
+Rank 1: Document MED-2155 - RSV: 24.837426598192504
+Rank 2: Document MED-5244 - RSV: 24.837426598192504
+Rank 3: Document MED-3393 - RSV: 24.00848214411449
+Rank 4: Document MED-3411 - RSV: 24.00848214411449
+Rank 5: Document MED-3433 - RSV: 24.00848214411449
+
+Query: PLAIN-2510 - ['coffee', 'and', 'artery', 'function']
+Rank 1: Document MED-5123 - RSV: 17.438268392114406
+Rank 2: Document MED-5245 - RSV: 16.875658601152168
+Rank 3: Document MED-1649 - RSV: 16.6836767982773
+Rank 4: Document MED-1640 - RSV: 15.789341104403455
+Rank 5: Document MED-897 - RSV: 15.746036039267786
+
+Query: PLAIN-2510 - ['the', 'new', 'dietary', 'guidelines', 'for', 'beverages', 'recommend', 'tea', 'and', 'coffee', 'second', 'only', 'to', 'water', 'in', 'healthfulness', 'but', 'what', 'about', 'concerns', 'they', 'might', 'impair', 'the', 'function', 'of', 'our', 'endothelium']
+Rank 1: Document MED-5123 - RSV: 17.438268392114406
+Rank 2: Document MED-5245 - RSV: 16.875658601152168
+Rank 3: Document MED-1649 - RSV: 16.6836767982773
+Rank 4: Document MED-1640 - RSV: 15.789341104403455
+Rank 5: Document MED-897 - RSV: 15.746036039267786
+
+Query: PLAIN-2520 - ['what', 'is', 'the', 'best', 'strategy', 'to', 'lower', 'the', 'level', 'of', 'the', 'cancerpromoting', 'growth', 'hormone', 'igf1']
+Rank 1: Document MED-1723 - RSV: 11.068373679500082
+Rank 2: Document MED-3259 - RSV: 9.965035989527788
+Rank 3: Document MED-3273 - RSV: 9.965035989527788
+Rank 4: Document MED-431 - RSV: 9.965035989527788
+Rank 5: Document MED-825 - RSV: 9.965035989527788
+
+Query: PLAIN-2520 - ['caloric', 'restriction', 'vs', 'plantbased', 'diets']
+Rank 1: Document MED-1723 - RSV: 11.068373679500082
+Rank 2: Document MED-3259 - RSV: 9.965035989527788
+Rank 3: Document MED-3273 - RSV: 9.965035989527788
+Rank 4: Document MED-431 - RSV: 9.965035989527788
+Rank 5: Document MED-825 - RSV: 9.965035989527788
+
+Query: PLAIN-2530 - ['infectobesity', 'adenovirus', '36', 'and', 'childhood', 'obesity']
+Rank 1: Document MED-1798 - RSV: 26.45552561197179
+Rank 2: Document MED-1808 - RSV: 20.52497938664762
+Rank 3: Document MED-4766 - RSV: 19.933179452579466
+Rank 4: Document MED-1804 - RSV: 19.890055373157217
+Rank 5: Document MED-1803 - RSV: 17.401348236391218
+
+Query: PLAIN-2530 - ['studies', 'on', 'more', 'than', 'a', 'thousand', 'children', 'suggest', 'that', 'a', 'viral', 'infection', 'may', 'play', 'a', 'role', 'in', 'childhood', 'obesity', 'by', 'increasing', 'both', 'the', 'number', 'and', 'size', 'of', 'fat', 'cells']
+Rank 1: Document MED-1798 - RSV: 26.45552561197179
+Rank 2: Document MED-1808 - RSV: 20.52497938664762
+Rank 3: Document MED-4766 - RSV: 19.933179452579466
+Rank 4: Document MED-1804 - RSV: 19.890055373157217
+Rank 5: Document MED-1803 - RSV: 17.401348236391218
+
+Query: PLAIN-2540 - ['how', 'do', 'american', 'egg', 'board', 'arguments', 'hold', 'up', 'to', 'scientific', 'scrutiny', 'such', 'as', 'the', 'concept', 'that', 'large', 'fluffy', 'ldl', 'cholesterol', 'is', 'protective', 'compared', 'to', 'small', 'dense', 'ldl']
+Rank 1: Document MED-1257 - RSV: 19.18898389708742
+Rank 2: Document MED-1884 - RSV: 16.740441085904372
+Rank 3: Document MED-1968 - RSV: 16.52887625503317
+Rank 4: Document MED-2381 - RSV: 15.306714902439182
+Rank 5: Document MED-796 - RSV: 15.306714902439182
+
+Query: PLAIN-2540 - ['does', 'cholesterol', 'size', 'matter']
+Rank 1: Document MED-1257 - RSV: 19.18898389708742
+Rank 2: Document MED-1884 - RSV: 16.740441085904372
+Rank 3: Document MED-1968 - RSV: 16.52887625503317
+Rank 4: Document MED-2381 - RSV: 15.306714902439182
+Rank 5: Document MED-796 - RSV: 15.306714902439182
+
+Query: PLAIN-2550 - ['barriers', 'to', 'heart', 'disease', 'prevention']
+Rank 1: Document MED-3402 - RSV: 16.995907247318012
+Rank 2: Document MED-3424 - RSV: 16.995907247318012
+Rank 3: Document MED-496 - RSV: 16.995907247318012
+Rank 4: Document MED-4301 - RSV: 16.741945167044776
+Rank 5: Document MED-2111 - RSV: 16.291728956227512
+
+Query: PLAIN-2550 - ['according', 'to', 'the', 'director', 'of', 'the', 'famous', 'framingham', 'heart', 'study', 'the', 'best', 'way', 'to', 'manage', 'cholesterol', 'and', 'heart', 'disease', 'risk', 'is', 'with', 'a', 'more', 'plantbased', 'diet', 'why', 'then', 'don', 't', 'more', 'doctors', 'advise', 'their', 'patients', 'to', 'change', 'their', 'diets']
+Rank 1: Document MED-3402 - RSV: 16.995907247318012
+Rank 2: Document MED-3424 - RSV: 16.995907247318012
+Rank 3: Document MED-496 - RSV: 16.995907247318012
+Rank 4: Document MED-4301 - RSV: 16.741945167044776
+Rank 5: Document MED-2111 - RSV: 16.291728956227512
+
+Query: PLAIN-2560 - ['childhood', 'constipation', 'and', 'cow', 's', 'milk']
+Rank 1: Document MED-2055 - RSV: 26.18080139928595
+Rank 2: Document MED-1031 - RSV: 23.574583336900734
+Rank 3: Document MED-2063 - RSV: 23.52063051435993
+Rank 4: Document MED-2062 - RSV: 22.788665074665587
+Rank 5: Document MED-1025 - RSV: 20.669047506307187
+
+Query: PLAIN-2560 - ['the', 'elimination', 'of', 'all', 'dairy', 'products', 'was', 'found', 'to', 'cure', 'constipation', 'in', 'up', 'to', '100', 'of', 'kids', 'tested', 'leading', 'to', 'a', 'resolution', 'of', 'rectal', 'inflammation', 'and', 'complications', 'such', 'as', 'anal', 'fissures']
+Rank 1: Document MED-2055 - RSV: 26.18080139928595
+Rank 2: Document MED-1031 - RSV: 23.574583336900734
+Rank 3: Document MED-2063 - RSV: 23.52063051435993
+Rank 4: Document MED-2062 - RSV: 22.788665074665587
+Rank 5: Document MED-1025 - RSV: 20.669047506307187
+
+Query: PLAIN-2570 - ['diabetics', 'should', 'take', 'their', 'pulses']
+Rank 1: Document MED-3583 - RSV: 33.82085452068133
+Rank 2: Document MED-5079 - RSV: 17.389701835215288
+Rank 3: Document MED-2410 - RSV: 15.047918712211738
+Rank 4: Document MED-813 - RSV: 15.047918712211738
+Rank 5: Document MED-2147 - RSV: 14.022503614955674
+
+Query: PLAIN-2570 - ['there', 'is', 'a', 'reason', 'that', 'professional', 'diabetes', 'associations', 'recommend', 'bean', 'chickpea', 'split', 'pea', 'and', 'lentil', 'consumption', 'as', 'a', 'means', 'of', 'optimizing', 'diabetes', 'control']
+Rank 1: Document MED-3583 - RSV: 33.82085452068133
+Rank 2: Document MED-5079 - RSV: 17.389701835215288
+Rank 3: Document MED-2410 - RSV: 15.047918712211738
+Rank 4: Document MED-813 - RSV: 15.047918712211738
+Rank 5: Document MED-2147 - RSV: 14.022503614955674
+
+Query: PLAIN-2580 - ['what', 'effect', 'do', 'corporate', 'sponsorships', 'from', 'food', 'companies', 'have', 'on', 'the', 'american', 'academy', 'of', 'family', 'physicians', 'and', 'the', 'registered', 'dietitian', 'organization', 'formally', 'known', 'as', 'the', 'american', 'dietetic', 'association']
+Rank 1: Document MED-1451 - RSV: 15.747037609179351
+Rank 2: Document MED-5018 - RSV: 14.627309555006478
+Rank 3: Document MED-749 - RSV: 14.379492187224933
+Rank 4: Document MED-4494 - RSV: 14.283082650323145
+Rank 5: Document MED-2298 - RSV: 14.136997446907635
+
+Query: PLAIN-2580 - ['academy', 'of', 'nutrition', 'and', 'dietetics', 'conflicts', 'of', 'interest']
+Rank 1: Document MED-1451 - RSV: 15.747037609179351
+Rank 2: Document MED-5018 - RSV: 14.627309555006478
+Rank 3: Document MED-749 - RSV: 14.379492187224933
+Rank 4: Document MED-4494 - RSV: 14.283082650323145
+Rank 5: Document MED-2298 - RSV: 14.136997446907635
+
+Query: PLAIN-2590 - ['do', 'vegetarians', 'get', 'enough', 'protein']
+Rank 1: Document MED-2294 - RSV: 20.095664803545134
+Rank 2: Document MED-2108 - RSV: 17.221147133730184
+Rank 3: Document MED-1134 - RSV: 15.872663309798822
+Rank 4: Document MED-3905 - RSV: 14.609674414251199
+Rank 5: Document MED-5175 - RSV: 14.609674414251199
+
+Query: PLAIN-2590 - ['nutritional', 'quality', 'indices', 'show', 'plantbased', 'diets', 'are', 'the', 'healthiest', 'but', 'do', 'vegetarians', 'and', 'vegans', 'reach', 'the', 'recommended', 'daily', 'intake', 'of', 'protein']
+Rank 1: Document MED-2294 - RSV: 20.095664803545134
+Rank 2: Document MED-2108 - RSV: 17.221147133730184
+Rank 3: Document MED-1134 - RSV: 15.872663309798822
+Rank 4: Document MED-3905 - RSV: 14.609674414251199
+Rank 5: Document MED-5175 - RSV: 14.609674414251199
+
+Query: PLAIN-2600 - ['eggs', 'and', 'arterial', 'function']
+Rank 1: Document MED-4429 - RSV: 16.628159193319355
+Rank 2: Document MED-4893 - RSV: 12.513582107153105
+Rank 3: Document MED-286 - RSV: 10.984628705312575
+Rank 4: Document MED-2973 - RSV: 10.984628705312575
+Rank 5: Document MED-1337 - RSV: 10.94897299803019
+
+Query: PLAIN-2600 - ['even', 'studies', 'funded', 'by', 'the', 'american', 'egg', 'board', 'show', 'our', 'arteries', 'benefit', 'from', 'not', 'eating', 'eggs']
+Rank 1: Document MED-4429 - RSV: 16.628159193319355
+Rank 2: Document MED-4893 - RSV: 12.513582107153105
+Rank 3: Document MED-286 - RSV: 10.984628705312575
+Rank 4: Document MED-2973 - RSV: 10.984628705312575
+Rank 5: Document MED-1337 - RSV: 10.94897299803019
+
+Query: PLAIN-2610 - ['whole', 'fruits', 'and', 'vegetables', 'were', 'compared', 'to', 'both', 'antioxidant', 'pills', 'as', 'well', 'as', 'supplements', 'containing', 'fruits', 'and', 'vegetable', 'extracts', 'for', 'their', 'ability', 'to', 'treat', 'seasonal', 'allergies', 'improve', 'lung', 'function', 'and', 'control', 'asthma']
+Rank 1: Document MED-1197 - RSV: 18.303194792026055
+Rank 2: Document MED-5360 - RSV: 18.303194792026055
+Rank 3: Document MED-2459 - RSV: 17.921322954813586
+Rank 4: Document MED-32 - RSV: 17.921322954813586
+Rank 5: Document MED-1543 - RSV: 17.70117692970789
+
+Query: PLAIN-2610 - ['treating', 'asthma', 'with', 'plants', 'vs', 'supplements']
+Rank 1: Document MED-1197 - RSV: 18.303194792026055
+Rank 2: Document MED-5360 - RSV: 18.303194792026055
+Rank 3: Document MED-2459 - RSV: 17.921322954813586
+Rank 4: Document MED-32 - RSV: 17.921322954813586
+Rank 5: Document MED-1543 - RSV: 17.70117692970789
+
+Query: PLAIN-2620 - ['phytates', 'for', 'the', 'treatment', 'of', 'cancer']
+Rank 1: Document MED-1611 - RSV: 17.25906669110445
+Rank 2: Document MED-2817 - RSV: 14.150881014104536
+Rank 3: Document MED-2808 - RSV: 13.23656845848377
+Rank 4: Document MED-3726 - RSV: 12.704381246830316
+Rank 5: Document MED-2539 - RSV: 11.3207361142621
+
+Query: PLAIN-2620 - ['do', 'the', 'anticancer', 'effects', 'of', 'phytates', 'in', 'a', 'petri', 'dish', 'translate', 'out', 'into', 'clinical', 'studies', 'on', 'cancer', 'prevention', 'and', 'treatment']
+Rank 1: Document MED-1611 - RSV: 17.25906669110445
+Rank 2: Document MED-2817 - RSV: 14.150881014104536
+Rank 3: Document MED-2808 - RSV: 13.23656845848377
+Rank 4: Document MED-3726 - RSV: 12.704381246830316
+Rank 5: Document MED-2539 - RSV: 11.3207361142621
+
+Query: PLAIN-2630 - ['alkylphenol', 'endocrine', 'disruptors', 'and', 'allergies']
+Rank 1: Document MED-4728 - RSV: 16.93889178301103
+Rank 2: Document MED-4548 - RSV: 16.62373920188105
+Rank 3: Document MED-132 - RSV: 16.534304028817527
+Rank 4: Document MED-2470 - RSV: 16.534304028817527
+Rank 5: Document MED-2628 - RSV: 16.534304028817527
+
+Query: PLAIN-2630 - ['the', 'dramatic', 'rise', 'of', 'allergic', 'diseases', 'such', 'as', 'eczema', 'and', 'seasonal', 'allergies', 'may', 'be', 'related', 'to', 'dietary', 'exposure', 'to', 'endocrinedisruptor', 'xenoestrogens', 'such', 'as', 'alkylphenol', 'industrial', 'pollutants']
+Rank 1: Document MED-4728 - RSV: 16.93889178301103
+Rank 2: Document MED-4548 - RSV: 16.62373920188105
+Rank 3: Document MED-132 - RSV: 16.534304028817527
+Rank 4: Document MED-2470 - RSV: 16.534304028817527
+Rank 5: Document MED-2628 - RSV: 16.534304028817527
+
+Query: PLAIN-2640 - ['the', 'meat', 'industry', 'sued', 'the', 'federal', 'government', 'winning', 'the', 'right', 'to', 'sell', 'food', 'known', 'to', 'be', 'contaminated', 'with', 'food', 'poisoning', 'bacteria']
+Rank 1: Document MED-4355 - RSV: 18.265163871845264
+Rank 2: Document MED-299 - RSV: 15.761996819026123
+Rank 3: Document MED-2994 - RSV: 15.761996819026123
+Rank 4: Document MED-5077 - RSV: 15.010791755840728
+Rank 5: Document MED-1568 - RSV: 14.909893224531606
+
+Query: PLAIN-2640 - ['chicken', 'salmonella', 'thanks', 'to', 'meat', 'industry', 'lawsuit']
+Rank 1: Document MED-4355 - RSV: 18.265163871845264
+Rank 2: Document MED-299 - RSV: 15.761996819026123
+Rank 3: Document MED-2994 - RSV: 15.761996819026123
+Rank 4: Document MED-5077 - RSV: 15.010791755840728
+Rank 5: Document MED-1568 - RSV: 14.909893224531606
+
+Query: PLAIN-2650 - ['the', 'yellow', 'pigment', 'curcumin', 'in', 'the', 'spice', 'turmeric', 'may', 'work', 'as', 'good', 'or', 'better', 'than', 'antiinflammatory', 'drugs', 'and', 'pain', 'killers', 'for', 'the', 'treatment', 'of', 'knee', 'osteoarthritis']
+Rank 1: Document MED-220 - RSV: 31.612065733915916
+Rank 2: Document MED-2789 - RSV: 31.612065733915916
+Rank 3: Document MED-2800 - RSV: 31.612065733915916
+Rank 4: Document MED-109 - RSV: 25.320865386744636
+Rank 5: Document MED-2608 - RSV: 25.320865386744636
+
+Query: PLAIN-2650 - ['turmeric', 'curcumin', 'and', 'osteoarthritis']
+Rank 1: Document MED-220 - RSV: 31.612065733915916
+Rank 2: Document MED-2789 - RSV: 31.612065733915916
+Rank 3: Document MED-2800 - RSV: 31.612065733915916
+Rank 4: Document MED-109 - RSV: 25.320865386744636
+Rank 5: Document MED-2608 - RSV: 25.320865386744636
+
+Query: PLAIN-2660 - ['how', 'long', 'to', 'detox', 'from', 'fish', 'before', 'pregnancy']
+Rank 1: Document MED-5238 - RSV: 12.576240197697764
+Rank 2: Document MED-5108 - RSV: 11.900946366479161
+Rank 3: Document MED-5354 - RSV: 11.622207417078993
+Rank 4: Document MED-1102 - RSV: 10.843058351811429
+Rank 5: Document MED-3590 - RSV: 10.843058351811429
+
+Query: PLAIN-2660 - ['how', 'many', 'months', 'does', 'it', 'take', 'to', 'clear', '99', 'of', 'the', 'mercury', 'and', 'other', 'industrial', 'toxins', 'from', 'one', 's', 'body', 'and', 'what', 'role', 'might', 'our', 'fat', 'stores', 'play', 'in', 'holding', 'on', 'to', 'fatsoluble', 'pollutants']
+Rank 1: Document MED-5238 - RSV: 12.576240197697764
+Rank 2: Document MED-5108 - RSV: 11.900946366479161
+Rank 3: Document MED-5354 - RSV: 11.622207417078993
+Rank 4: Document MED-1102 - RSV: 10.843058351811429
+Rank 5: Document MED-3590 - RSV: 10.843058351811429
+
+Query: PLAIN-2670 - ['concern', 'that', 'one', 'of', 'the', 'most', 'commonly', 'consumed', 'food', 'colorings', 'may', 'cause', 'cancer', 'has', 'led', 'to', 'changes', 'in', 'soft', 'drink', 'formulation', 'in', 'california']
+Rank 1: Document MED-299 - RSV: 19.467738084689834
+Rank 2: Document MED-2994 - RSV: 19.467738084689834
+Rank 3: Document MED-3326 - RSV: 13.038293102687621
+Rank 4: Document MED-3343 - RSV: 13.038293102687621
+Rank 5: Document MED-3351 - RSV: 13.038293102687621
+
+Query: PLAIN-2670 - ['is', 'caramel', 'color', 'carcinogenic']
+Rank 1: Document MED-299 - RSV: 19.467738084689834
+Rank 2: Document MED-2994 - RSV: 19.467738084689834
+Rank 3: Document MED-3326 - RSV: 13.038293102687621
+Rank 4: Document MED-3343 - RSV: 13.038293102687621
+Rank 5: Document MED-3351 - RSV: 13.038293102687621
+
+Query: PLAIN-2680 - ['counteracting', 'the', 'effects', 'of', 'dioxins', 'through', 'diet']
+Rank 1: Document MED-3101 - RSV: 22.751505360759527
+Rank 2: Document MED-3112 - RSV: 22.751505360759527
+Rank 3: Document MED-342 - RSV: 22.751505360759527
+Rank 4: Document MED-348 - RSV: 22.751505360759527
+Rank 5: Document MED-3100 - RSV: 17.683128769162746
+
+Query: PLAIN-2680 - ['phytonutrients', 'in', 'certain', 'plant', 'foods', 'may', 'block', 'the', 'toxic', 'effects', 'of', 'industrial', 'pollutants', 'like', 'dioxins', 'through', 'the', 'ah', 'receptor', 'system']
+Rank 1: Document MED-3101 - RSV: 22.751505360759527
+Rank 2: Document MED-3112 - RSV: 22.751505360759527
+Rank 3: Document MED-342 - RSV: 22.751505360759527
+Rank 4: Document MED-348 - RSV: 22.751505360759527
+Rank 5: Document MED-3100 - RSV: 17.683128769162746
+
+Query: PLAIN-2690 - ['chronic', 'headaches', 'and', 'pork', 'tapeworms']
+Rank 1: Document MED-3515 - RSV: 17.980288996576693
+Rank 2: Document MED-563 - RSV: 17.980288996576693
+Rank 3: Document MED-3169 - RSV: 16.511839168107688
+Rank 4: Document MED-383 - RSV: 16.511839168107688
+Rank 5: Document MED-3660 - RSV: 14.489235405216496
+
+Query: PLAIN-2690 - ['chronic', 'headaches', 'such', 'as', 'migraines', 'or', 'tension', 'headache', 'symptoms', 'may', 'be', 'a', 'sign', 'of', 'pork', 'tapeworms', 'in', 'the', 'brain']
+Rank 1: Document MED-3515 - RSV: 17.980288996576693
+Rank 2: Document MED-563 - RSV: 17.980288996576693
+Rank 3: Document MED-3169 - RSV: 16.511839168107688
+Rank 4: Document MED-383 - RSV: 16.511839168107688
+Rank 5: Document MED-3660 - RSV: 14.489235405216496
+
+Query: PLAIN-2700 - ['by', 'age', '10', 'nearly', 'all', 'kids', 'have', 'fatty', 'streaks', 'in', 'their', 'arteries', 'this', 'is', 'the', 'first', 'sign', 'of', 'atherosclerosis', 'the', 'leading', 'cause', 'of', 'death', 'in', 'the', 'united', 'states', 'so', 'the', 'question', 'for', 'most', 'of', 'us', 'is', 'not', 'whether', 'we', 'should', 'eat', 'healthy', 'to', 'prevent', 'heart', 'disease', 'but', 'whether', 'we', 'want', 'to', 'reverse', 'the', 'heart', 'disease', 'we', 'may', 'already', 'have']
+Rank 1: Document MED-3254 - RSV: 33.05480429013333
+Rank 2: Document MED-429 - RSV: 33.05480429013333
+Rank 3: Document MED-2113 - RSV: 26.793886333715633
+Rank 4: Document MED-4244 - RSV: 26.793886333715633
+Rank 5: Document MED-4248 - RSV: 26.793886333715633
+
+Query: PLAIN-2700 - ['heart', 'disease', 'starts', 'in', 'childhood']
+Rank 1: Document MED-3254 - RSV: 33.05480429013333
+Rank 2: Document MED-429 - RSV: 33.05480429013333
+Rank 3: Document MED-2113 - RSV: 26.793886333715633
+Rank 4: Document MED-4244 - RSV: 26.793886333715633
+Rank 5: Document MED-4248 - RSV: 26.793886333715633
+
+Query: PLAIN-2710 - ['in', 'response', 'to', 'definitive', 'evidence', 'showing', 'artificial', 'colors', 'may', 'increase', 'inattentiveness', 'impulsivity', 'and', 'hyperactivity', 'among', 'young', 'children', 'a', 'call', 'has', 'been', 'made', 'by', 'consumer', 'groups', 'to', 'ban', 'food', 'dyes']
+Rank 1: Document MED-3380 - RSV: 31.51281601917757
+Rank 2: Document MED-478 - RSV: 31.51281601917757
+Rank 3: Document MED-3382 - RSV: 24.033249395685978
+Rank 4: Document MED-480 - RSV: 24.033249395685978
+Rank 5: Document MED-3382 - RSV: 20.352069409985692
+
+Query: PLAIN-2710 - ['artificial', 'food', 'colors', 'and', 'adhd']
+Rank 1: Document MED-3380 - RSV: 31.51281601917757
+Rank 2: Document MED-478 - RSV: 31.51281601917757
+Rank 3: Document MED-3382 - RSV: 24.033249395685978
+Rank 4: Document MED-480 - RSV: 24.033249395685978
+Rank 5: Document MED-3382 - RSV: 20.352069409985692
+
+Query: PLAIN-2720 - ['phytonutrients', 'in', 'citrus', 'such', 'as', 'hesperidin', 'may', 'increase', 'blood', 'flow', 'sufficient', 'to', 'warm', 'the', 'hands', 'and', 'feet', 'of', 'those', 'with', 'cold', 'sensitivity']
+Rank 1: Document MED-5142 - RSV: 13.868658797085352
+Rank 2: Document MED-1030 - RSV: 13.335852053777568
+Rank 3: Document MED-3319 - RSV: 12.753166085980132
+Rank 4: Document MED-1516 - RSV: 12.241869177755643
+Rank 5: Document MED-3479 - RSV: 12.16487110584811
+
+Query: PLAIN-2720 - ['keeping', 'your', 'hands', 'warm', 'with', 'citrus']
+Rank 1: Document MED-5142 - RSV: 13.868658797085352
+Rank 2: Document MED-1030 - RSV: 13.335852053777568
+Rank 3: Document MED-3319 - RSV: 12.753166085980132
+Rank 4: Document MED-1516 - RSV: 12.241869177755643
+Rank 5: Document MED-3479 - RSV: 12.16487110584811
+
+Query: PLAIN-2730 - ['antiangiogenesis', 'cutting', 'off', 'tumor', 'supply', 'lines']
+Rank 1: Document MED-3553 - RSV: 17.147019464840334
+Rank 2: Document MED-3548 - RSV: 16.48430789432954
+Rank 3: Document MED-3263 - RSV: 15.097769822470347
+Rank 4: Document MED-3277 - RSV: 15.097769822470347
+Rank 5: Document MED-435 - RSV: 15.097769822470347
+
+Query: PLAIN-2730 - ['cancer', 'cells', 'are', 'commonly', 'present', 'in', 'the', 'body', 'but', 'cannot', 'grow', 'into', 'tumors', 'without', 'hooking', 'up', 'a', 'blood', 'supply', 'angiogenesis', 'inhibitors', 'in', 'plant', 'foods', 'may', 'help', 'prevent', 'this', 'from', 'happening']
+Rank 1: Document MED-3553 - RSV: 17.147019464840334
+Rank 2: Document MED-3548 - RSV: 16.48430789432954
+Rank 3: Document MED-3263 - RSV: 15.097769822470347
+Rank 4: Document MED-3277 - RSV: 15.097769822470347
+Rank 5: Document MED-435 - RSV: 15.097769822470347
+
+Query: PLAIN-2740 - ['cancer', 'risk', 'from', 'ct', 'scan', 'radiation']
+Rank 1: Document MED-3627 - RSV: 16.597955423302338
+Rank 2: Document MED-273 - RSV: 16.378795256821476
+Rank 3: Document MED-2931 - RSV: 16.378795256821476
+Rank 4: Document MED-2940 - RSV: 16.378795256821476
+Rank 5: Document MED-3623 - RSV: 16.13993674172988
+
+Query: PLAIN-2740 - ['pediatric', 'cat', 'scans', 'are', 'estimated', 'to', 'cause', 'hundreds', 'of', 'cancer', 'deaths', 'every', 'year']
+Rank 1: Document MED-3627 - RSV: 16.597955423302338
+Rank 2: Document MED-273 - RSV: 16.378795256821476
+Rank 3: Document MED-2931 - RSV: 16.378795256821476
+Rank 4: Document MED-2940 - RSV: 16.378795256821476
+Rank 5: Document MED-3623 - RSV: 16.13993674172988
+
+Query: PLAIN-2750 - ['preventing', 'the', 'common', 'cold', 'with', 'probiotics']
+Rank 1: Document MED-2495 - RSV: 17.310626113597586
+Rank 2: Document MED-53 - RSV: 17.310626113597586
+Rank 3: Document MED-2497 - RSV: 17.22626760610179
+Rank 4: Document MED-56 - RSV: 17.22626760610179
+Rank 5: Document MED-3692 - RSV: 17.221704080478567
+
+Query: PLAIN-2750 - ['though', 'prebiotics', 'may', 'be', 'preferable', 'probiotics', 'may', 'reduce', 'the', 'risk', 'of', 'upper', 'respiratory', 'tract', 'infections']
+Rank 1: Document MED-2495 - RSV: 17.310626113597586
+Rank 2: Document MED-53 - RSV: 17.310626113597586
+Rank 3: Document MED-2497 - RSV: 17.22626760610179
+Rank 4: Document MED-56 - RSV: 17.22626760610179
+Rank 5: Document MED-3692 - RSV: 17.221704080478567
+
+Query: PLAIN-2760 - ['eating', 'healthy', 'on', 'a', 'budget']
+Rank 1: Document MED-3769 - RSV: 25.875620068372605
+Rank 2: Document MED-2187 - RSV: 22.716829127149172
+Rank 3: Document MED-2201 - RSV: 22.716829127149172
+Rank 4: Document MED-3770 - RSV: 22.3163984321412
+Rank 5: Document MED-4366 - RSV: 22.307476701541518
+
+Query: PLAIN-2760 - ['when', 'measured', 'on', 'a', 'cost', 'per', 'serving', 'cost', 'per', 'weight', 'or', 'cost', 'per', 'nutrition', 'basis', 'fruits', 'and', 'vegetables', 'beat', 'out', 'meat', 'and', 'junk', 'food']
+Rank 1: Document MED-3769 - RSV: 25.875620068372605
+Rank 2: Document MED-2187 - RSV: 22.716829127149172
+Rank 3: Document MED-2201 - RSV: 22.716829127149172
+Rank 4: Document MED-3770 - RSV: 22.3163984321412
+Rank 5: Document MED-4366 - RSV: 22.307476701541518
+
+Query: PLAIN-2770 - ['flaxseeds', 'breast', 'cancer', 'survival', 'clinical', 'evidence']
+Rank 1: Document MED-3826 - RSV: 21.256508173705363
+Rank 2: Document MED-3836 - RSV: 21.256508173705363
+Rank 3: Document MED-1832 - RSV: 17.02702106008437
+Rank 4: Document MED-1825 - RSV: 16.167607662762556
+Rank 5: Document MED-3846 - RSV: 15.239331136190895
+
+Query: PLAIN-2770 - ['a', 'randomized', 'doubleblind', 'placebocontrolled', 'clinical', 'trial', 'of', 'flaxseeds', 'in', 'breast', 'cancer', 'patients', 'finds', 'flax', 'appears', 'to', 'have', 'the', 'potential', 'to', 'reduce', 'tumor', 'growth', 'in', 'just', 'a', 'matter', 'of', 'weeks']
+Rank 1: Document MED-3826 - RSV: 21.256508173705363
+Rank 2: Document MED-3836 - RSV: 21.256508173705363
+Rank 3: Document MED-1832 - RSV: 17.02702106008437
+Rank 4: Document MED-1825 - RSV: 16.167607662762556
+Rank 5: Document MED-3846 - RSV: 15.239331136190895
+
+Query: PLAIN-2780 - ['do', 'fruit', 'nut', 'bars', 'cause', 'weight', 'gain']
+Rank 1: Document MED-2595 - RSV: 20.695127552630407
+Rank 2: Document MED-3259 - RSV: 17.86536121160405
+Rank 3: Document MED-3273 - RSV: 17.86536121160405
+Rank 4: Document MED-431 - RSV: 17.86536121160405
+Rank 5: Document MED-3896 - RSV: 17.231067923080047
+
+Query: PLAIN-2780 - ['despite', 'the', 'caloric', 'density', 'of', 'both', 'nuts', 'and', 'dried', 'fruit', 'they', 'do', 'not', 'appear', 'to', 'lead', 'to', 'the', 'expected', 'weight', 'gain']
+Rank 1: Document MED-2595 - RSV: 20.695127552630407
+Rank 2: Document MED-3259 - RSV: 17.86536121160405
+Rank 3: Document MED-3273 - RSV: 17.86536121160405
+Rank 4: Document MED-431 - RSV: 17.86536121160405
+Rank 5: Document MED-3896 - RSV: 17.231067923080047
+
+Query: PLAIN-2790 - ['titanium', 'dioxide', 'inflammatory', 'bowel', 'disease']
+Rank 1: Document MED-3960 - RSV: 28.023268660804455
+Rank 2: Document MED-3970 - RSV: 22.40445517811772
+Rank 3: Document MED-3963 - RSV: 22.35443809530176
+Rank 4: Document MED-1422 - RSV: 18.872218452518116
+Rank 5: Document MED-3964 - RSV: 18.872218452518116
+
+Query: PLAIN-2790 - ['people', 'eating', 'conventional', 'diets', 'may', 'ingest', 'a', 'trillion', 'microparticles', 'of', 'the', 'food', 'whitening', 'additive', 'titanium', 'dioxide', 'every', 'day', 'what', 'implication', 'might', 'this', 'have', 'for', 'inflammation', 'in', 'the', 'gut']
+Rank 1: Document MED-3960 - RSV: 28.023268660804455
+Rank 2: Document MED-3970 - RSV: 22.40445517811772
+Rank 3: Document MED-3963 - RSV: 22.35443809530176
+Rank 4: Document MED-1422 - RSV: 18.872218452518116
+Rank 5: Document MED-3964 - RSV: 18.872218452518116
+
+Query: PLAIN-2800 - ['prolonged', 'liver', 'function', 'enhancement', 'from', 'broccoli']
+Rank 1: Document MED-4155 - RSV: 13.361407356320843
+Rank 2: Document MED-4156 - RSV: 13.361407356320843
+Rank 3: Document MED-5206 - RSV: 12.847050401122306
+Rank 4: Document MED-2435 - RSV: 12.451356110365955
+Rank 5: Document MED-2075 - RSV: 11.339223329147405
+
+Query: PLAIN-2800 - ['the', 'boost', 'in', 'detoxifying', 'enzymes', 'triggered', 'by', 'cruciferous', 'vegetable', 'consumption', 'may', 'last', 'for', 'weeks']
+Rank 1: Document MED-4155 - RSV: 13.361407356320843
+Rank 2: Document MED-4156 - RSV: 13.361407356320843
+Rank 3: Document MED-5206 - RSV: 12.847050401122306
+Rank 4: Document MED-2435 - RSV: 12.451356110365955
+Rank 5: Document MED-2075 - RSV: 11.339223329147405
+
+Query: PLAIN-2810 - ['why', 'the', 'spike', 'in', 'antioxidant', 'levels', 'in', 'our', 'bloodstream', 'after', 'drinking', 'apple', 'juice', 'might', 'not', 'be', 'a', 'good', 'thing']
+Rank 1: Document MED-2491 - RSV: 16.559943724469324
+Rank 2: Document MED-49 - RSV: 16.559943724469324
+Rank 3: Document MED-2491 - RSV: 13.672411486032983
+Rank 4: Document MED-49 - RSV: 13.672411486032983
+Rank 5: Document MED-4267 - RSV: 13.493911765625736
+
+Query: PLAIN-2810 - ['apple', 'juice', 'may', 'be', 'worse', 'than', 'sugar', 'water']
+Rank 1: Document MED-2491 - RSV: 16.559943724469324
+Rank 2: Document MED-49 - RSV: 16.559943724469324
+Rank 3: Document MED-2491 - RSV: 13.672411486032983
+Rank 4: Document MED-49 - RSV: 13.672411486032983
+Rank 5: Document MED-4267 - RSV: 13.493911765625736
+
+Query: PLAIN-2820 - ['preventing', 'strokes', 'with', 'diet']
+Rank 1: Document MED-4770 - RSV: 12.61671169859414
+Rank 2: Document MED-4771 - RSV: 12.61671169859414
+Rank 3: Document MED-1233 - RSV: 11.996961051367421
+Rank 4: Document MED-4706 - RSV: 11.942318031402968
+Rank 5: Document MED-1329 - RSV: 9.92112013957462
+
+Query: PLAIN-2820 - ['increasing', 'the', 'intake', 'of', 'potassiumrich', 'foods', 'is', 'associated', 'with', 'a', 'significantly', 'lower', 'stroke', 'risk']
+Rank 1: Document MED-4770 - RSV: 12.61671169859414
+Rank 2: Document MED-4771 - RSV: 12.61671169859414
+Rank 3: Document MED-1233 - RSV: 11.996961051367421
+Rank 4: Document MED-4706 - RSV: 11.942318031402968
+Rank 5: Document MED-1329 - RSV: 9.92112013957462
+
+Query: PLAIN-2830 - ['neurobiology', 'of', 'artificial', 'sweeteners']
+Rank 1: Document MED-1452 - RSV: 13.550866344711377
+Rank 2: Document MED-1463 - RSV: 13.550866344711377
+Rank 3: Document MED-5053 - RSV: 12.87375252566843
+Rank 4: Document MED-4120 - RSV: 12.416780633071657
+Rank 5: Document MED-1627 - RSV: 12.354133875898686
+
+Query: PLAIN-2830 - ['the', 'disconnect', 'between', 'sweetness', 'sensations', 'coming', 'from', 'our', 'tongue', 'and', 'the', 'lack', 'of', 'a', 'caloric', 'feedback', 'loop', 'in', 'the', 'gut', 'may', 'result', 'in', 'overeating']
+Rank 1: Document MED-1452 - RSV: 13.550866344711377
+Rank 2: Document MED-1463 - RSV: 13.550866344711377
+Rank 3: Document MED-5053 - RSV: 12.87375252566843
+Rank 4: Document MED-4120 - RSV: 12.416780633071657
+Rank 5: Document MED-1627 - RSV: 12.354133875898686
+
+Query: PLAIN-2840 - ['the', 'spice', 'fenugreek', 'appears', 'to', 'significantly', 'improve', 'muscle', 'strength', 'and', 'weight', 'lifting', 'power', 'output', 'while', 'possessing', 'anticancer', 'properties', 'in', 'vitro']
+Rank 1: Document MED-760 - RSV: 15.696298719247945
+Rank 2: Document MED-4495 - RSV: 14.895764471331777
+Rank 3: Document MED-4506 - RSV: 14.895764471331777
+Rank 4: Document MED-3167 - RSV: 13.894840862391622
+Rank 5: Document MED-3466 - RSV: 13.894840862391622
+
+Query: PLAIN-2840 - ['benefits', 'of', 'fenugreek', 'seeds']
+Rank 1: Document MED-760 - RSV: 15.696298719247945
+Rank 2: Document MED-4495 - RSV: 14.895764471331777
+Rank 3: Document MED-4506 - RSV: 14.895764471331777
+Rank 4: Document MED-3167 - RSV: 13.894840862391622
+Rank 5: Document MED-3466 - RSV: 13.894840862391622
+
+Query: PLAIN-2850 - ['more', 'antibiotics', 'in', 'white', 'meat', 'or', 'dark', 'meat']
+Rank 1: Document MED-4166 - RSV: 34.10138711307128
+Rank 2: Document MED-1770 - RSV: 14.305555942452319
+Rank 3: Document MED-1962 - RSV: 14.178031896530433
+Rank 4: Document MED-4749 - RSV: 14.15174554623754
+Rank 5: Document MED-4187 - RSV: 12.394596643558673
+
+Query: PLAIN-2850 - ['concentrations', 'of', 'antibiotic', 'residues', 'vary', 'between', 'different', 'edible', 'muscle', 'tissues', 'in', 'poultry']
+Rank 1: Document MED-4166 - RSV: 34.10138711307128
+Rank 2: Document MED-1770 - RSV: 14.305555942452319
+Rank 3: Document MED-1962 - RSV: 14.178031896530433
+Rank 4: Document MED-4749 - RSV: 14.15174554623754
+Rank 5: Document MED-4187 - RSV: 12.394596643558673
+
+Query: PLAIN-2860 - ['canned', 'foods', 'and', 'sliced', 'turkey', 'were', 'found', 'to', 'be', 'contaminated', 'with', 'the', 'plastics', 'chemical', 'bpa', 'which', 'has', 'been', 'linked', 'to', 'cardiovascular', 'disease', 'diabetes', 'and', 'erectile', 'dysfunction']
+Rank 1: Document MED-4186 - RSV: 43.25100572223638
+Rank 2: Document MED-4186 - RSV: 25.426555367590588
+Rank 3: Document MED-4185 - RSV: 17.263826334875752
+Rank 4: Document MED-3419 - RSV: 15.175381598211121
+Rank 5: Document MED-3440 - RSV: 15.175381598211121
+
+Query: PLAIN-2860 - ['bpa', 'plastic', 'and', 'male', 'sexual', 'dysfunction']
+Rank 1: Document MED-4186 - RSV: 43.25100572223638
+Rank 2: Document MED-4186 - RSV: 25.426555367590588
+Rank 3: Document MED-4185 - RSV: 17.263826334875752
+Rank 4: Document MED-3419 - RSV: 15.175381598211121
+Rank 5: Document MED-3440 - RSV: 15.175381598211121
+
+Query: PLAIN-2870 - ['filled', 'full', 'of', 'lead']
+Rank 1: Document MED-1428 - RSV: 19.126023390124825
+Rank 2: Document MED-4201 - RSV: 16.72691029688373
+Rank 3: Document MED-2592 - RSV: 16.347488862444298
+Rank 4: Document MED-3592 - RSV: 15.995597645781299
+Rank 5: Document MED-599 - RSV: 15.995597645781299
+
+Query: PLAIN-2870 - ['standard', 'rifle', 'bullets', 'disperse', 'tiny', 'lead', 'fragments', 'throughout', 'the', 'flesh', 'of', 'wild', 'game', 'raising', 'public', 'health', 'concerns', 'about', 'lead', 'poisoning', 'in', 'those', 'that', 'consume', 'venison', 'based', 'on', 'a', 'study', 'of', 'whitetailed', 'deer', 'shot', 'by', 'hunters']
+Rank 1: Document MED-1428 - RSV: 19.126023390124825
+Rank 2: Document MED-4201 - RSV: 16.72691029688373
+Rank 3: Document MED-2592 - RSV: 16.347488862444298
+Rank 4: Document MED-3592 - RSV: 15.995597645781299
+Rank 5: Document MED-599 - RSV: 15.995597645781299
+
+Query: PLAIN-2880 - ['lower', 'cancer', 'rates', 'among', 'those', 'eating', 'a', 'plantbased', 'diet', 'may', 'be', 'a', 'result', 'of', 'reduced', 'blood', 'levels', 'of', 'igf1', 'and', 'enhanced', 'production', 'of', 'igf1', 'binding', 'protein']
+Rank 1: Document MED-1723 - RSV: 18.272428048909333
+Rank 2: Document MED-1477 - RSV: 14.849327296357158
+Rank 3: Document MED-15 - RSV: 14.849327296357158
+Rank 4: Document MED-1874 - RSV: 14.849327296357158
+Rank 5: Document MED-2432 - RSV: 14.849327296357158
+
+Query: PLAIN-2880 - ['the', 'answer', 'to', 'the', 'pritikin', 'puzzle']
+Rank 1: Document MED-1723 - RSV: 18.272428048909333
+Rank 2: Document MED-1477 - RSV: 14.849327296357158
+Rank 3: Document MED-15 - RSV: 14.849327296357158
+Rank 4: Document MED-1874 - RSV: 14.849327296357158
+Rank 5: Document MED-2432 - RSV: 14.849327296357158
+
+Query: PLAIN-2890 - ['to', 'snack', 'or', 'not', 'to', 'snack']
+Rank 1: Document MED-3326 - RSV: 12.199516551708607
+Rank 2: Document MED-3343 - RSV: 12.199516551708607
+Rank 3: Document MED-3351 - RSV: 12.199516551708607
+Rank 4: Document MED-461 - RSV: 12.199516551708607
+Rank 5: Document MED-1538 - RSV: 11.417509153591368
+
+Query: PLAIN-2890 - ['a', 'review', 'of', 'the', 'best', 'available', 'science', 'examining', 'the', 'impact', 'of', 'eating', 'frequency', 'on', 'both', 'weight', 'and', 'health']
+Rank 1: Document MED-3326 - RSV: 12.199516551708607
+Rank 2: Document MED-3343 - RSV: 12.199516551708607
+Rank 3: Document MED-3351 - RSV: 12.199516551708607
+Rank 4: Document MED-461 - RSV: 12.199516551708607
+Rank 5: Document MED-1538 - RSV: 11.417509153591368
+
+Query: PLAIN-2900 - ['boosting', 'good', 'bacteria', 'in', 'the', 'colon', 'without', 'probiotics']
+Rank 1: Document MED-1413 - RSV: 19.00289576281575
+Rank 2: Document MED-4265 - RSV: 16.64815615248534
+Rank 3: Document MED-2469 - RSV: 16.60505154613381
+Rank 4: Document MED-39 - RSV: 16.60505154613381
+Rank 5: Document MED-4271 - RSV: 16.40970934123495
+
+Query: PLAIN-2900 - ['certain', 'good', 'bacteria', 'in', 'our', 'gut', 'can', 'turn', 'the', 'fiber', 'we', 'eat', 'into', 'an', 'antiinflammatory', 'anticancer', 'compound', 'called', 'butyrate', 'that', 'we', 'absorb', 'back', 'into', 'our', 'system', 'we', 'may', 'be', 'able', 'to', 'boost', 'the', 'number', 'of', 'butyrateproducing', 'bacteria', 'by', 'eating', 'a', 'plantbased', 'diet']
+Rank 1: Document MED-1413 - RSV: 19.00289576281575
+Rank 2: Document MED-4265 - RSV: 16.64815615248534
+Rank 3: Document MED-2469 - RSV: 16.60505154613381
+Rank 4: Document MED-39 - RSV: 16.60505154613381
+Rank 5: Document MED-4271 - RSV: 16.40970934123495
+
+Query: PLAIN-2910 - ['those', 'eating', 'plantbased', 'diets', 'get', 'the', 'most', 'phytosterols', 'but', 'there', 'is', 'still', 'room', 'for', 'improvement', 'to', 'maximize', 'cholesterol', 'reduction']
+Rank 1: Document MED-1970 - RSV: 10.889020161548004
+Rank 2: Document MED-2524 - RSV: 10.889020161548004
+Rank 3: Document MED-4296 - RSV: 10.621649267436393
+Rank 4: Document MED-4297 - RSV: 10.599315824888386
+Rank 5: Document MED-4298 - RSV: 10.599315824888386
+
+Query: PLAIN-2910 - ['optimal', 'phytosterol', 'dose']
+Rank 1: Document MED-1970 - RSV: 10.889020161548004
+Rank 2: Document MED-2524 - RSV: 10.889020161548004
+Rank 3: Document MED-4296 - RSV: 10.621649267436393
+Rank 4: Document MED-4297 - RSV: 10.599315824888386
+Rank 5: Document MED-4298 - RSV: 10.599315824888386
+
+Query: PLAIN-2920 - ['human', 'neurotransmitters', 'in', 'plants']
+Rank 1: Document MED-5365 - RSV: 21.993998593503935
+Rank 2: Document MED-3518 - RSV: 17.082276648784074
+Rank 3: Document MED-566 - RSV: 17.082276648784074
+Rank 4: Document MED-3526 - RSV: 16.25877714737458
+Rank 5: Document MED-4148 - RSV: 14.217496304896247
+
+Query: PLAIN-2920 - ['the', 'consumption', 'of', 'certain', 'fruits', 'is', 'suggested', 'as', 'a', 'potential', 'treatment', 'for', 'depression', 'given', 'the', 'presence', 'of', 'psychoactive', 'neurotransmitters', 'such', 'as', 'serotonin', 'dopamine', 'and', 'melatonin', 'in', 'many', 'plant', 'foods']
+Rank 1: Document MED-5365 - RSV: 21.993998593503935
+Rank 2: Document MED-3518 - RSV: 17.082276648784074
+Rank 3: Document MED-566 - RSV: 17.082276648784074
+Rank 4: Document MED-3526 - RSV: 16.25877714737458
+Rank 5: Document MED-4148 - RSV: 14.217496304896247
+
+Query: PLAIN-2930 - ['kiwifruit', 'for', 'irritable', 'bowel', 'syndrome']
+Rank 1: Document MED-4325 - RSV: 36.63660524822741
+Rank 2: Document MED-1016 - RSV: 31.460117318420934
+Rank 3: Document MED-1013 - RSV: 25.511096867705756
+Rank 4: Document MED-1049 - RSV: 25.27476034941531
+Rank 5: Document MED-1009 - RSV: 22.726935871241345
+
+Query: PLAIN-2930 - ['a', 'kiwi', 'fruit', 'intervention', 'was', 'found', 'to', 'improve', 'bowel', 'function', 'in', 'those', 'suffering', 'from', 'irritable', 'bowel', 'syndrome', 'with', 'constipation', 'this', 'was', 'accomplished', 'without', 'sideeffects', 'such', 'as', 'heart', 'attacks', 'and', 'stroke', 'associated', 'with', 'the', 'primary', 'drug', 'prescribed', 'to', 'treat', 'the', 'condition', 'tegaserod']
+Rank 1: Document MED-4325 - RSV: 36.63660524822741
+Rank 2: Document MED-1016 - RSV: 31.460117318420934
+Rank 3: Document MED-1013 - RSV: 25.511096867705756
+Rank 4: Document MED-1049 - RSV: 25.27476034941531
+Rank 5: Document MED-1009 - RSV: 22.726935871241345
+
+Query: PLAIN-2940 - ['dietary', 'treatment', 'of', 'crohn', 's', 'disease']
+Rank 1: Document MED-1576 - RSV: 28.449169727367707
+Rank 2: Document MED-1423 - RSV: 26.122763202643327
+Rank 3: Document MED-4342 - RSV: 26.122763202643327
+Rank 4: Document MED-2811 - RSV: 25.908167019563397
+Rank 5: Document MED-1422 - RSV: 25.273117882939683
+
+Query: PLAIN-2940 - ['meat', 'including', 'fish', 'cheese', 'and', 'animal', 'protein', 'intake', 'in', 'general', 'have', 'been', 'associated', 'with', 'an', 'increased', 'risk', 'of', 'inflammatory', 'bowel', 'disease', 'ibd', 'in', 'the', 'meantime', 'plantbased', 'diets', 'may', 'not', 'only', 'help', 'prevent', 'such', 'conditions', 'but', 'treat', 'them', 'as', 'well', 'resulting', 'in', 'the', 'longest', 'recorded', 'remission', 'rates', 'for', 'crohn', 's', 'disease']
+Rank 1: Document MED-1576 - RSV: 28.449169727367707
+Rank 2: Document MED-1423 - RSV: 26.122763202643327
+Rank 3: Document MED-4342 - RSV: 26.122763202643327
+Rank 4: Document MED-2811 - RSV: 25.908167019563397
+Rank 5: Document MED-1422 - RSV: 25.273117882939683
+
+Query: PLAIN-2950 - ['unsafe', 'at', 'any', 'feed']
+Rank 1: Document MED-180 - RSV: 26.45436823317665
+Rank 2: Document MED-2733 - RSV: 26.45436823317665
+Rank 3: Document MED-2742 - RSV: 26.45436823317665
+Rank 4: Document MED-2833 - RSV: 26.320320759362072
+Rank 5: Document MED-3564 - RSV: 26.320320759362072
+
+Query: PLAIN-2950 - ['in', 'a', 'national', 'survey', 'fewer', 'than', 'half', 'of', 'the', 'participants', 'realized', 'meat', 'contaminated', 'with', 'fecal', 'foodpoisoning', 'bacteria', 'such', 'as', 'salmonella', 'can', 'still', 'legally', 'be', 'sold', 'rather', 'than', 'producing', 'safe', 'products', 'the', 'meat', 'industry', 'shifts', 'the', 'responsibility', 'for', 'safety', 'onto', 'the', 'consumer']
+Rank 1: Document MED-180 - RSV: 26.45436823317665
+Rank 2: Document MED-2733 - RSV: 26.45436823317665
+Rank 3: Document MED-2742 - RSV: 26.45436823317665
+Rank 4: Document MED-2833 - RSV: 26.320320759362072
+Rank 5: Document MED-3564 - RSV: 26.320320759362072
+
+Query: PLAIN-2960 - ['the', 'accuracy', 'of', 'medical', 'advice', 'given', 'by', 'staff', 'at', 'natural', 'food', 'stores', 'is', 'compared', 'to', 'that', 'by', 'staff', 'at', 'community', 'pharmacies', 'based', 'on', 'the', 'balance', 'of', 'available', 'scientific', 'evidence']
+Rank 1: Document MED-4372 - RSV: 26.95395456926145
+Rank 2: Document MED-4372 - RSV: 20.323340329880782
+Rank 3: Document MED-4251 - RSV: 19.64660184894766
+Rank 4: Document MED-3754 - RSV: 19.362762152473746
+Rank 5: Document MED-4368 - RSV: 17.766054875530518
+
+Query: PLAIN-2960 - ['pharmacists', 'versus', 'health', 'food', 'store', 'employees', 'who', 'gives', 'better', 'advice']
+Rank 1: Document MED-4372 - RSV: 26.95395456926145
+Rank 2: Document MED-4372 - RSV: 20.323340329880782
+Rank 3: Document MED-4251 - RSV: 19.64660184894766
+Rank 4: Document MED-3754 - RSV: 19.362762152473746
+Rank 5: Document MED-4368 - RSV: 17.766054875530518
+
+Query: PLAIN-2970 - ['risk', 'of', 'developing', 'cataracts', 'was', 'compared', 'in', 'meateaters', 'fisheaters', 'vegetarians', 'and', 'vegans']
+Rank 1: Document MED-1091 - RSV: 13.542759670798393
+Rank 2: Document MED-4326 - RSV: 13.542759670798393
+Rank 3: Document MED-5340 - RSV: 13.542759670798393
+Rank 4: Document MED-4683 - RSV: 13.301016633710155
+Rank 5: Document MED-1106 - RSV: 11.659913637626538
+
+Query: PLAIN-2970 - ['preventing', 'cataracts', 'with', 'diet']
+Rank 1: Document MED-1091 - RSV: 13.542759670798393
+Rank 2: Document MED-4326 - RSV: 13.542759670798393
+Rank 3: Document MED-5340 - RSV: 13.542759670798393
+Rank 4: Document MED-4683 - RSV: 13.301016633710155
+Rank 5: Document MED-1106 - RSV: 11.659913637626538
+
+Query: PLAIN-2981 - ['cheese', 'manufacturers', 'use', 'spiderlike', 'insects', 'and', 'fly', 'larvae', 'to', 'impart', 'particular', 'flavors', 'and', 'aromas', 'to', 'certain', 'cheeses']
+Rank 1: Document MED-5156 - RSV: 12.80741134481649
+Rank 2: Document MED-147 - RSV: 12.796633168477108
+Rank 3: Document MED-2687 - RSV: 12.796633168477108
+Rank 4: Document MED-2700 - RSV: 12.796633168477108
+Rank 5: Document MED-4198 - RSV: 12.185914751320782
+
+Query: PLAIN-2981 - ['cheese', 'mites', 'and', 'maggots']
+Rank 1: Document MED-5156 - RSV: 12.80741134481649
+Rank 2: Document MED-147 - RSV: 12.796633168477108
+Rank 3: Document MED-2687 - RSV: 12.796633168477108
+Rank 4: Document MED-2700 - RSV: 12.796633168477108
+Rank 5: Document MED-4198 - RSV: 12.185914751320782
+
+Query: PLAIN-2991 - ['high', 'cholesterol', 'can', 'lead', 'to', 'atherosclerosis', 'in', 'the', 'vertebral', 'arteries', 'that', 'nourish', 'our', 'spine', 'and', 'result', 'in', 'disc', 'degeneration', 'and', 'lower', 'back', 'pain', 'a', 'leading', 'cause', 'of', 'disability']
+Rank 1: Document MED-1663 - RSV: 43.98994854824994
+Rank 2: Document MED-1662 - RSV: 33.39194482682948
+Rank 3: Document MED-4424 - RSV: 33.39194482682948
+Rank 4: Document MED-1660 - RSV: 27.299884313008825
+Rank 5: Document MED-1664 - RSV: 24.674495896715698
+
+Query: PLAIN-2991 - ['cholesterol', 'and', 'lower', 'back', 'pain']
+Rank 1: Document MED-1663 - RSV: 43.98994854824994
+Rank 2: Document MED-1662 - RSV: 33.39194482682948
+Rank 3: Document MED-4424 - RSV: 33.39194482682948
+Rank 4: Document MED-1660 - RSV: 27.299884313008825
+Rank 5: Document MED-1664 - RSV: 24.674495896715698
+
+Query: PLAIN-3001 - ['epic', 'findings', 'on', 'lymphoma']
+Rank 1: Document MED-4435 - RSV: 25.191528552942575
+Rank 2: Document MED-4436 - RSV: 25.191528552942575
+Rank 3: Document MED-3187 - RSV: 25.070036594015406
+Rank 4: Document MED-3782 - RSV: 25.070036594015406
+Rank 5: Document MED-393 - RSV: 25.070036594015406
+
+Query: PLAIN-3001 - ['in', 'a', 'study', 'of', 'a', 'half', 'million', 'people', 'which', 'was', 'most', 'associated', 'with', 'the', 'risk', 'of', 'developing', 'lymphoma', 'red', 'meat', 'processed', 'meat', 'poultry', 'offal', 'eggs', 'or', 'milk']
+Rank 1: Document MED-4435 - RSV: 25.191528552942575
+Rank 2: Document MED-4436 - RSV: 25.191528552942575
+Rank 3: Document MED-3187 - RSV: 25.070036594015406
+Rank 4: Document MED-3782 - RSV: 25.070036594015406
+Rank 5: Document MED-393 - RSV: 25.070036594015406
+
+Query: PLAIN-3014 - ['sometimes', 'the', 'enzyme', 'myth', 'is', 'true']
+Rank 1: Document MED-5075 - RSV: 15.035720935677432
+Rank 2: Document MED-5127 - RSV: 14.887939873333895
+Rank 3: Document MED-2075 - RSV: 14.755721970796039
+Rank 4: Document MED-2066 - RSV: 14.369860397442908
+Rank 5: Document MED-2071 - RSV: 14.165090245073603
+
+Query: PLAIN-3014 - ['there', 'are', 'a', 'few', 'examples', 'of', 'plant', 'enzymes', 'having', 'physiologically', 'relevant', 'impacts', 'on', 'the', 'human', 'diet', 'and', 'the', 'formation', 'of', 'sulforaphane', 'in', 'broccoli', 'is', 'one', 'of', 'them']
+Rank 1: Document MED-5075 - RSV: 15.035720935677432
+Rank 2: Document MED-5127 - RSV: 14.887939873333895
+Rank 3: Document MED-2075 - RSV: 14.755721970796039
+Rank 4: Document MED-2066 - RSV: 14.369860397442908
+Rank 5: Document MED-2071 - RSV: 14.165090245073603
+
+Query: PLAIN-3026 - ['the', 'addition', 'of', 'vitamin', 'c', 'to', 'processed', 'cured', 'meats', 'such', 'as', 'bacon', 'may', 'actually', 'make', 'them', 'more', 'carcinogenic']
+Rank 1: Document MED-1077 - RSV: 18.247979687203888
+Rank 2: Document MED-4467 - RSV: 18.247979687203888
+Rank 3: Document MED-5326 - RSV: 18.247979687203888
+Rank 4: Document MED-4493 - RSV: 15.831374086452495
+Rank 5: Document MED-5034 - RSV: 15.774759618860788
+
+Query: PLAIN-3026 - ['vitamin', 'cenriched', 'bacon']
+Rank 1: Document MED-1077 - RSV: 18.247979687203888
+Rank 2: Document MED-4467 - RSV: 18.247979687203888
+Rank 3: Document MED-5326 - RSV: 18.247979687203888
+Rank 4: Document MED-4493 - RSV: 15.831374086452495
+Rank 5: Document MED-5034 - RSV: 15.774759618860788
+
+Query: PLAIN-3037 - ['randomized', 'doubleblind', 'placebocontrolled', 'crossover', 'studies', 'convinced', 'the', 'scientific', 'establishment', 'that', 'nitraterich', 'vegetables', 'such', 'as', 'beets', 'could', 'noticeably', 'improve', 'athletic', 'performance']
+Rank 1: Document MED-4495 - RSV: 13.17660525099601
+Rank 2: Document MED-4506 - RSV: 13.17660525099601
+Rank 3: Document MED-168 - RSV: 11.858579923865468
+Rank 4: Document MED-2716 - RSV: 11.858579923865468
+Rank 5: Document MED-1520 - RSV: 10.824565701382152
+
+Query: PLAIN-3037 - ['out', 'of', 'the', 'lab', 'onto', 'the', 'track']
+Rank 1: Document MED-4495 - RSV: 13.17660525099601
+Rank 2: Document MED-4506 - RSV: 13.17660525099601
+Rank 3: Document MED-168 - RSV: 11.858579923865468
+Rank 4: Document MED-2716 - RSV: 11.858579923865468
+Rank 5: Document MED-1520 - RSV: 10.824565701382152
+
+Query: PLAIN-3053 - ['the', 'four', 'most', 'antioxidantpacked', 'natural', 'substances', 'so', 'far', 'tested', 'are', 'cloves', 'amla', 'indian', 'gooseberries', 'triphala', 'a', 'combination', 'of', 'amla', 'bibhitaki', 'and', 'haritaki', 'fruits', 'and', 'dragon', 's', 'blood']
+Rank 1: Document MED-4544 - RSV: 19.95372990711573
+Rank 2: Document MED-704 - RSV: 19.95372990711573
+Rank 3: Document MED-4538 - RSV: 19.114185868520345
+Rank 4: Document MED-4534 - RSV: 15.787339365394686
+Rank 5: Document MED-909 - RSV: 15.467493633133765
+
+Query: PLAIN-3053 - ['dragon', 's', 'blood']
+Rank 1: Document MED-4544 - RSV: 19.95372990711573
+Rank 2: Document MED-704 - RSV: 19.95372990711573
+Rank 3: Document MED-4538 - RSV: 19.114185868520345
+Rank 4: Document MED-4534 - RSV: 15.787339365394686
+Rank 5: Document MED-909 - RSV: 15.467493633133765
+
+Query: PLAIN-3063 - ['better', 'than', 'goji', 'berries']
+Rank 1: Document MED-5084 - RSV: 12.8607577600376
+Rank 2: Document MED-277 - RSV: 10.755119416143017
+Rank 3: Document MED-281 - RSV: 10.755119416143017
+Rank 4: Document MED-283 - RSV: 10.755119416143017
+Rank 5: Document MED-2949 - RSV: 10.755119416143017
+
+Query: PLAIN-3063 - ['there', 'are', 'some', 'dried', 'fruits', 'even', 'more', 'antioxidantpacked', 'than', 'goji', 'berries']
+Rank 1: Document MED-5084 - RSV: 12.8607577600376
+Rank 2: Document MED-277 - RSV: 10.755119416143017
+Rank 3: Document MED-281 - RSV: 10.755119416143017
+Rank 4: Document MED-283 - RSV: 10.755119416143017
+Rank 5: Document MED-2949 - RSV: 10.755119416143017
+
+Query: PLAIN-3074 - ['how', 'to', 'help', 'prevent', 'abdominal', 'aortic', 'aneurysms']
+Rank 1: Document MED-4555 - RSV: 26.445018045921916
+Rank 2: Document MED-4555 - RSV: 15.472667676209051
+Rank 3: Document MED-3367 - RSV: 14.875452651595293
+Rank 4: Document MED-3376 - RSV: 14.875452651595293
+Rank 5: Document MED-473 - RSV: 14.875452651595293
+
+Query: PLAIN-3074 - ['what', 'dietary', 'behaviors', 'may', 'cut', 'the', 'odds', 'of', 'developing', 'of', 'an', 'abdominal', 'aortic', 'aneurysm', 'aaa', 'in', 'half']
+Rank 1: Document MED-4555 - RSV: 26.445018045921916
+Rank 2: Document MED-4555 - RSV: 15.472667676209051
+Rank 3: Document MED-3367 - RSV: 14.875452651595293
+Rank 4: Document MED-3376 - RSV: 14.875452651595293
+Rank 5: Document MED-473 - RSV: 14.875452651595293
+
+Query: PLAIN-3085 - ['people', 'respond', 'differently', 'to', 'the', 'same', 'level', 'of', 'vitamin', 'd', 'supplementation', 'making', 'it', 'difficult', 'to', 'formulate', 'onesizefitsall', 'guidelines']
+Rank 1: Document MED-716 - RSV: 15.481258927282946
+Rank 2: Document MED-4660 - RSV: 11.200026098124471
+Rank 3: Document MED-715 - RSV: 11.189315461759065
+Rank 4: Document MED-919 - RSV: 11.189315461759065
+Rank 5: Document MED-1488 - RSV: 10.787359814162185
+
+Query: PLAIN-3085 - ['the', 'difficulty', 'of', 'arriving', 'at', 'a', 'vitamin', 'd', 'recommendation']
+Rank 1: Document MED-716 - RSV: 15.481258927282946
+Rank 2: Document MED-4660 - RSV: 11.200026098124471
+Rank 3: Document MED-715 - RSV: 11.189315461759065
+Rank 4: Document MED-919 - RSV: 11.189315461759065
+Rank 5: Document MED-1488 - RSV: 10.787359814162185
+
+Query: PLAIN-3097 - ['ginger', 'and', 'apple', 'juice', 'appear', 'to', 'protect', 'human', 'nerve', 'cells', 'from', 'the', 'neurotoxic', 'alzheimer', 's', 'plaque', 'protein', 'amyloid', 'beta', 'in', 'a', 'petri', 'dish']
+Rank 1: Document MED-4579 - RSV: 31.605281869186065
+Rank 2: Document MED-4586 - RSV: 31.605281869186065
+Rank 3: Document MED-4590 - RSV: 31.605281869186065
+Rank 4: Document MED-4591 - RSV: 17.707110898436873
+Rank 5: Document MED-1941 - RSV: 16.999918092161995
+
+Query: PLAIN-3097 - ['amyloid', 'and', 'apple', 'juice']
+Rank 1: Document MED-4579 - RSV: 31.605281869186065
+Rank 2: Document MED-4586 - RSV: 31.605281869186065
+Rank 3: Document MED-4590 - RSV: 31.605281869186065
+Rank 4: Document MED-4591 - RSV: 17.707110898436873
+Rank 5: Document MED-1941 - RSV: 16.999918092161995
+
+Query: PLAIN-3116 - ['the', 'success', 'story', 'in', 'finland', 'shows', 'that', 'sciencebased', 'dietary', 'guidelines', 'can', 'save', 'millions', 'of', 'lives']
+Rank 1: Document MED-4806 - RSV: 10.907818279647127
+Rank 2: Document MED-2072 - RSV: 10.851234293310796
+Rank 3: Document MED-4453 - RSV: 10.851234293310796
+Rank 4: Document MED-4454 - RSV: 10.851234293310796
+Rank 5: Document MED-5101 - RSV: 9.934207724008012
+
+Query: PLAIN-3116 - ['dietary', 'guidelines', 'from', 'dairies', 'to', 'berries']
+Rank 1: Document MED-4806 - RSV: 10.907818279647127
+Rank 2: Document MED-2072 - RSV: 10.851234293310796
+Rank 3: Document MED-4453 - RSV: 10.851234293310796
+Rank 4: Document MED-4454 - RSV: 10.851234293310796
+Rank 5: Document MED-5101 - RSV: 9.934207724008012
+
+Query: PLAIN-3131 - ['persin', 'a', 'natural', 'toxin', 'found', 'in', 'avocados', 'appears', 'so', 'effective', 'at', 'killing', 'breast', 'cancer', 'cells', 'that', 'it', 'is', 'being', 'considered', 'as', 'a', 'chemotherapy', 'agent']
+Rank 1: Document MED-3724 - RSV: 14.973564907981178
+Rank 2: Document MED-3686 - RSV: 14.540976590717552
+Rank 3: Document MED-2537 - RSV: 13.53062449670486
+Rank 4: Document MED-2556 - RSV: 13.53062449670486
+Rank 5: Document MED-2574 - RSV: 13.53062449670486
+
+Query: PLAIN-3131 - ['are', 'avocados', 'good', 'for', 'you']
+Rank 1: Document MED-3724 - RSV: 14.973564907981178
+Rank 2: Document MED-3686 - RSV: 14.540976590717552
+Rank 3: Document MED-2537 - RSV: 13.53062449670486
+Rank 4: Document MED-2556 - RSV: 13.53062449670486
+Rank 5: Document MED-2574 - RSV: 13.53062449670486
+
+Query: PLAIN-3141 - ['relieving', 'yourself', 'of', 'excess', 'estrogen']
+Rank 1: Document MED-1593 - RSV: 16.70413403388057
+Rank 2: Document MED-2100 - RSV: 16.08875613747032
+Rank 3: Document MED-4641 - RSV: 16.08875613747032
+Rank 4: Document MED-3905 - RSV: 15.607348568892931
+Rank 5: Document MED-5175 - RSV: 15.607348568892931
+
+Query: PLAIN-3141 - ['women', 'eating', 'vegetarian', 'may', 'have', 'lower', 'breast', 'cancer', 'rates', 'because', 'they', 'have', 'larger', 'bowel', 'movements']
+Rank 1: Document MED-1593 - RSV: 16.70413403388057
+Rank 2: Document MED-2100 - RSV: 16.08875613747032
+Rank 3: Document MED-4641 - RSV: 16.08875613747032
+Rank 4: Document MED-3905 - RSV: 15.607348568892931
+Rank 5: Document MED-5175 - RSV: 15.607348568892931
+
+Query: PLAIN-3151 - ['excessive', 'intake', 'of', 'kelp', 'kombu', 'or', 'thyroidcontaining', 'sausages', 'can', 'lead', 'to', 'iodine', 'toxicity']
+Rank 1: Document MED-4664 - RSV: 22.3365891204878
+Rank 2: Document MED-4663 - RSV: 17.1878397936706
+Rank 3: Document MED-4660 - RSV: 14.625737416606892
+Rank 4: Document MED-3447 - RSV: 9.828897428838303
+Rank 5: Document MED-513 - RSV: 9.828897428838303
+
+Query: PLAIN-3151 - ['too', 'much', 'iodine', 'can', 'be', 'as', 'bad', 'as', 'too', 'little']
+Rank 1: Document MED-4664 - RSV: 22.3365891204878
+Rank 2: Document MED-4663 - RSV: 17.1878397936706
+Rank 3: Document MED-4660 - RSV: 14.625737416606892
+Rank 4: Document MED-3447 - RSV: 9.828897428838303
+Rank 5: Document MED-513 - RSV: 9.828897428838303
+
+Query: PLAIN-3161 - ['is', 'milk', 'and', 'mucus', 'a', 'myth']
+Rank 1: Document MED-4677 - RSV: 14.860864761393865
+Rank 2: Document MED-1416 - RSV: 11.556865438931089
+Rank 3: Document MED-1416 - RSV: 10.437599041509285
+Rank 4: Document MED-2063 - RSV: 10.341534231978109
+Rank 5: Document MED-4677 - RSV: 10.100138685366698
+
+Query: PLAIN-3161 - ['do', 'dairy', 'products', 'contribute', 'to', 'increased', 'mucus', 'phlegm', 'production']
+Rank 1: Document MED-4677 - RSV: 14.860864761393865
+Rank 2: Document MED-1416 - RSV: 11.556865438931089
+Rank 3: Document MED-1416 - RSV: 10.437599041509285
+Rank 4: Document MED-2063 - RSV: 10.341534231978109
+Rank 5: Document MED-4677 - RSV: 10.100138685366698
+
+Query: PLAIN-3171 - ['convergence', 'of', 'evidence']
+Rank 1: Document MED-3509 - RSV: 15.6836747137477
+Rank 2: Document MED-559 - RSV: 15.6836747137477
+Rank 3: Document MED-1699 - RSV: 13.88637095473264
+Rank 4: Document MED-5069 - RSV: 13.019611627615854
+Rank 5: Document MED-276 - RSV: 13.005079525056127
+
+Query: PLAIN-3171 - ['profile', 'of', 'an', 'editorial', 'published', 'by', 'dr', 'dean', 'ornish', 'in', 'the', 'american', 'journal', 'of', 'cardiology', 'describing', 'the', 'optimal', 'diet', 'and', 'how', 'simple', 'choices', 'can', 'be', 'as', 'powerful', 'as', 'drugs', 'and', 'surgery']
+Rank 1: Document MED-3509 - RSV: 15.6836747137477
+Rank 2: Document MED-559 - RSV: 15.6836747137477
+Rank 3: Document MED-1699 - RSV: 13.88637095473264
+Rank 4: Document MED-5069 - RSV: 13.019611627615854
+Rank 5: Document MED-276 - RSV: 13.005079525056127
+
+Query: PLAIN-3181 - ['is', 'dragon', 'fruit', 'good', 'for', 'you']
+Rank 1: Document MED-4366 - RSV: 11.320793165392146
+Rank 2: Document MED-2317 - RSV: 10.153711071394053
+Rank 3: Document MED-2322 - RSV: 10.153711071394053
+Rank 4: Document MED-3490 - RSV: 9.10789417730994
+Rank 5: Document MED-546 - RSV: 9.10789417730994
+
+Query: PLAIN-3181 - ['the', 'role', 'this', 'exotic', 'fruit', 'plays', 'in', 'health', 'promotion']
+Rank 1: Document MED-4366 - RSV: 11.320793165392146
+Rank 2: Document MED-2317 - RSV: 10.153711071394053
+Rank 3: Document MED-2322 - RSV: 10.153711071394053
+Rank 4: Document MED-3490 - RSV: 9.10789417730994
+Rank 5: Document MED-546 - RSV: 9.10789417730994
+
+Query: PLAIN-3191 - ['researchers', 'test', 'molecularly', 'distilled', 'fish', 'oil', 'supplements', 'for', 'industrial', 'pollutants']
+Rank 1: Document MED-4943 - RSV: 14.121077386149299
+Rank 2: Document MED-4624 - RSV: 10.557710464565467
+Rank 3: Document MED-4730 - RSV: 10.557710464565467
+Rank 4: Document MED-3662 - RSV: 10.340446213680888
+Rank 5: Document MED-3662 - RSV: 10.340446213680888
+
+Query: PLAIN-3191 - ['is', 'distilled', 'fish', 'oil', 'toxinfree']
+Rank 1: Document MED-4943 - RSV: 14.121077386149299
+Rank 2: Document MED-4624 - RSV: 10.557710464565467
+Rank 3: Document MED-4730 - RSV: 10.557710464565467
+Rank 4: Document MED-3662 - RSV: 10.340446213680888
+Rank 5: Document MED-3662 - RSV: 10.340446213680888
+
+Query: PLAIN-3201 - ['the', 'hormones', 'present', 'in', 'cow', 's', 'milk', 'may', 'help', 'explain', 'the', 'association', 'between', 'certain', 'diseases', 'and', 'dairy', 'consumption']
+Rank 1: Document MED-4753 - RSV: 17.656633827871794
+Rank 2: Document MED-202 - RSV: 17.610649161772862
+Rank 3: Document MED-2771 - RSV: 17.610649161772862
+Rank 4: Document MED-4677 - RSV: 16.079208916956684
+Rank 5: Document MED-2125 - RSV: 15.181104492250514
+
+Query: PLAIN-3201 - ['acne', 'cancer', 'connection']
+Rank 1: Document MED-4753 - RSV: 17.656633827871794
+Rank 2: Document MED-202 - RSV: 17.610649161772862
+Rank 3: Document MED-2771 - RSV: 17.610649161772862
+Rank 4: Document MED-4677 - RSV: 16.079208916956684
+Rank 5: Document MED-2125 - RSV: 15.181104492250514
+
+Query: PLAIN-3211 - ['overdosing', 'on', 'greens']
+Rank 1: Document MED-2064 - RSV: 10.64654653932779
+Rank 2: Document MED-3097 - RSV: 9.604702238551848
+Rank 3: Document MED-3109 - RSV: 9.604702238551848
+Rank 4: Document MED-338 - RSV: 9.604702238551848
+Rank 5: Document MED-347 - RSV: 9.604702238551848
+
+Query: PLAIN-3211 - ['raw', 'cruciferous', 'vegetables', 'how', 'much', 'is', 'too', 'much']
+Rank 1: Document MED-2064 - RSV: 10.64654653932779
+Rank 2: Document MED-3097 - RSV: 9.604702238551848
+Rank 3: Document MED-3109 - RSV: 9.604702238551848
+Rank 4: Document MED-338 - RSV: 9.604702238551848
+Rank 5: Document MED-347 - RSV: 9.604702238551848
+
+Query: PLAIN-3221 - ['a', 'provocative', 'theory', 'published', 'in', 'the', 'journal', 'of', 'the', 'american', 'college', 'of', 'nutrition', 'attempts', 'to', 'explain', 'the', 'dramatic', 'rise', 'in', 'alzheimer', 's', 'disease']
+Rank 1: Document MED-4788 - RSV: 21.005718647900625
+Rank 2: Document MED-4790 - RSV: 21.005718647900625
+Rank 3: Document MED-1022 - RSV: 15.163240318865645
+Rank 4: Document MED-1096 - RSV: 15.163240318865645
+Rank 5: Document MED-1655 - RSV: 15.163240318865645
+
+Query: PLAIN-3221 - ['dietary', 'theory', 'of', 'alzheimer', 's']
+Rank 1: Document MED-4788 - RSV: 21.005718647900625
+Rank 2: Document MED-4790 - RSV: 21.005718647900625
+Rank 3: Document MED-1022 - RSV: 15.163240318865645
+Rank 4: Document MED-1096 - RSV: 15.163240318865645
+Rank 5: Document MED-1655 - RSV: 15.163240318865645
+
+Query: PLAIN-3231 - ['meat', 'consumption', 'may', 'increase', 'one', 's', 'risk', 'of', 'a', 'variety', 'of', 'blood', 'cancers']
+Rank 1: Document MED-1106 - RSV: 11.357292183684475
+Rank 2: Document MED-1114 - RSV: 11.072224005744694
+Rank 3: Document MED-4089 - RSV: 10.50153932576607
+Rank 4: Document MED-201 - RSV: 10.31773985716666
+Rank 5: Document MED-2770 - RSV: 10.31773985716666
+
+Query: PLAIN-3231 - ['meat', 'multiple', 'myeloma']
+Rank 1: Document MED-1106 - RSV: 11.357292183684475
+Rank 2: Document MED-1114 - RSV: 11.072224005744694
+Rank 3: Document MED-4089 - RSV: 10.50153932576607
+Rank 4: Document MED-201 - RSV: 10.31773985716666
+Rank 5: Document MED-2770 - RSV: 10.31773985716666
+
+Query: PLAIN-3241 - ['apthous', 'ulcer', 'mystery', 'solved']
+Rank 1: Document MED-1295 - RSV: 8.548774785786797
+Rank 2: Document MED-3705 - RSV: 8.418061631318519
+Rank 3: Document MED-5008 - RSV: 8.018370103718938
+Rank 4: Document MED-4227 - RSV: 7.290134997372153
+Rank 5: Document MED-2843 - RSV: 7.221100636965919
+
+Query: PLAIN-3241 - ['a', 'dairyfree', 'diet', 'may', 'stop', 'the', 'recurrence', 'of', 'canker', 'sores']
+Rank 1: Document MED-1295 - RSV: 8.548774785786797
+Rank 2: Document MED-3705 - RSV: 8.418061631318519
+Rank 3: Document MED-5008 - RSV: 8.018370103718938
+Rank 4: Document MED-4227 - RSV: 7.290134997372153
+Rank 5: Document MED-2843 - RSV: 7.221100636965919
+
+Query: PLAIN-3251 - ['the', 'role', 'of', 'fruit', 'and', 'vegetable', 'consumption', 'in', 'preventing', 'cancer']
+Rank 1: Document MED-852 - RSV: 11.51478631662123
+Rank 2: Document MED-5082 - RSV: 11.292496455805013
+Rank 3: Document MED-5028 - RSV: 10.530187302144196
+Rank 4: Document MED-4010 - RSV: 9.919648594004661
+Rank 5: Document MED-4024 - RSV: 9.919648594004661
+
+Query: PLAIN-3251 - ['epic', 'study']
+Rank 1: Document MED-852 - RSV: 11.51478631662123
+Rank 2: Document MED-5082 - RSV: 11.292496455805013
+Rank 3: Document MED-5028 - RSV: 10.530187302144196
+Rank 4: Document MED-4010 - RSV: 9.919648594004661
+Rank 5: Document MED-4024 - RSV: 9.919648594004661
+
+Query: PLAIN-3261 - ['update', 'on', 'herbalife']
+Rank 1: Document MED-4873 - RSV: 26.188452883131703
+Rank 2: Document MED-5157 - RSV: 22.394032014822308
+Rank 3: Document MED-4927 - RSV: 21.62625154477447
+Rank 4: Document MED-4930 - RSV: 21.62625154477447
+Rank 5: Document MED-3491 - RSV: 15.339363572458039
+
+Query: PLAIN-3261 - ['the', 'liver', 'toxicity', 'associated', 'with', 'herbalife', 'supplements', 'may', 'be', 'due', 'to', 'vitamin', 'a', 'toxicity']
+Rank 1: Document MED-4873 - RSV: 26.188452883131703
+Rank 2: Document MED-5157 - RSV: 22.394032014822308
+Rank 3: Document MED-4927 - RSV: 21.62625154477447
+Rank 4: Document MED-4930 - RSV: 21.62625154477447
+Rank 5: Document MED-3491 - RSV: 15.339363572458039
+
+Query: PLAIN-3271 - ['saturated', 'fat', 'cancer', 'progression']
+Rank 1: Document MED-4386 - RSV: 10.6576754192881
+Rank 2: Document MED-4984 - RSV: 10.6576754192881
+Rank 3: Document MED-1556 - RSV: 10.44992658667029
+Rank 4: Document MED-1873 - RSV: 10.250122142868493
+Rank 5: Document MED-4449 - RSV: 10.248088829275074
+
+Query: PLAIN-3271 - ['does', 'cutting', 'down', 'on', 'saturated', 'fat', 'intake', 'improve', 'cancerfree', 'survival']
+Rank 1: Document MED-4386 - RSV: 10.6576754192881
+Rank 2: Document MED-4984 - RSV: 10.6576754192881
+Rank 3: Document MED-1556 - RSV: 10.44992658667029
+Rank 4: Document MED-1873 - RSV: 10.250122142868493
+Rank 5: Document MED-4449 - RSV: 10.248088829275074
+
+Query: PLAIN-3281 - ['what', 'is', 'the', 'number', 'one', 'source', 'of', 'aluminum', 'in', 'the', 'diet']
+Rank 1: Document MED-1844 - RSV: 9.293358546539329
+Rank 2: Document MED-4909 - RSV: 8.462143079559834
+Rank 3: Document MED-1850 - RSV: 8.24539079275477
+Rank 4: Document MED-4716 - RSV: 7.584768540470193
+Rank 5: Document MED-1841 - RSV: 7.449590145620667
+
+Query: PLAIN-3281 - ['aluminum', 'in', 'vaccines', 'vs', 'food']
+Rank 1: Document MED-1844 - RSV: 9.293358546539329
+Rank 2: Document MED-4909 - RSV: 8.462143079559834
+Rank 3: Document MED-1850 - RSV: 8.24539079275477
+Rank 4: Document MED-4716 - RSV: 7.584768540470193
+Rank 5: Document MED-1841 - RSV: 7.449590145620667
+
+Query: PLAIN-3292 - ['what', 'apparent', 'effect', 'does', 'taking', 'multivitamin', 'supplement', 'have', 'on', 'our', 'lifespan']
+Rank 1: Document MED-2760 - RSV: 13.071788502982418
+Rank 2: Document MED-2761 - RSV: 12.534092543542721
+Rank 3: Document MED-4645 - RSV: 11.571539879417632
+Rank 4: Document MED-4600 - RSV: 11.12221773553524
+Rank 5: Document MED-192 - RSV: 10.263743946199117
+
+Query: PLAIN-3292 - ['are', 'multivitamins', 'good', 'for', 'you']
+Rank 1: Document MED-2760 - RSV: 13.071788502982418
+Rank 2: Document MED-2761 - RSV: 12.534092543542721
+Rank 3: Document MED-4645 - RSV: 11.571539879417632
+Rank 4: Document MED-4600 - RSV: 11.12221773553524
+Rank 5: Document MED-192 - RSV: 10.263743946199117
+
+Query: PLAIN-3302 - ['fish', 'fog']
+Rank 1: Document MED-4945 - RSV: 17.717791297757298
+Rank 2: Document MED-4946 - RSV: 17.717791297757298
+Rank 3: Document MED-258 - RSV: 11.629698837726092
+Rank 4: Document MED-2902 - RSV: 11.629698837726092
+Rank 5: Document MED-3003 - RSV: 11.629698837726092
+
+Query: PLAIN-3302 - ['the', 'link', 'between', 'fish', 'consumption', 'and', 'neurobehavioral', 'abnormalities', 'in', 'adults', 'is', 'likely', 'related', 'to', 'mercury', 'toxicity']
+Rank 1: Document MED-4945 - RSV: 17.717791297757298
+Rank 2: Document MED-4946 - RSV: 17.717791297757298
+Rank 3: Document MED-258 - RSV: 11.629698837726092
+Rank 4: Document MED-2902 - RSV: 11.629698837726092
+Rank 5: Document MED-3003 - RSV: 11.629698837726092
+
+Query: PLAIN-3312 - ['sexually', 'transmitted', 'fish', 'toxin']
+Rank 1: Document MED-4360 - RSV: 22.96046613775382
+Rank 2: Document MED-3717 - RSV: 15.449292958893661
+Rank 3: Document MED-3561 - RSV: 11.517861831270045
+Rank 4: Document MED-4839 - RSV: 10.921529103960228
+Rank 5: Document MED-4328 - RSV: 10.901392432424991
+
+Query: PLAIN-3312 - ['there', 'are', 'neurotoxins', 'in', 'certain', 'fish', 'that', 'can', 'survive', 'cooking', 'and', 'cause', 'unusual', 'symptoms']
+Rank 1: Document MED-4360 - RSV: 22.96046613775382
+Rank 2: Document MED-3717 - RSV: 15.449292958893661
+Rank 3: Document MED-3561 - RSV: 11.517861831270045
+Rank 4: Document MED-4839 - RSV: 10.921529103960228
+Rank 5: Document MED-4328 - RSV: 10.901392432424991
+
+Query: PLAIN-3322 - ['veggies', 'vs', 'cancer']
+Rank 1: Document MED-1822 - RSV: 11.65058142782949
+Rank 2: Document MED-3825 - RSV: 11.65058142782949
+Rank 3: Document MED-3835 - RSV: 11.65058142782949
+Rank 4: Document MED-3843 - RSV: 11.65058142782949
+Rank 5: Document MED-5143 - RSV: 11.226269459352904
+
+Query: PLAIN-3322 - ['a', 'landmark', 'study', 'pitted', '34', 'common', 'vegetables', 'against', '8', 'different', 'lines', 'of', 'human', 'cancer', 'cells']
+Rank 1: Document MED-1822 - RSV: 11.65058142782949
+Rank 2: Document MED-3825 - RSV: 11.65058142782949
+Rank 3: Document MED-3835 - RSV: 11.65058142782949
+Rank 4: Document MED-3843 - RSV: 11.65058142782949
+Rank 5: Document MED-5143 - RSV: 11.226269459352904
+
+Query: PLAIN-3332 - ['does', 'moderate', 'alcohol', 'consumption', 'extend', 'the', 'lifespan', 'of', 'healthy', 'people']
+Rank 1: Document MED-1209 - RSV: 13.587914872135139
+Rank 2: Document MED-2498 - RSV: 13.46251290020411
+Rank 3: Document MED-59 - RSV: 13.46251290020411
+Rank 4: Document MED-758 - RSV: 12.595220810903886
+Rank 5: Document MED-5033 - RSV: 11.494843263214847
+
+Query: PLAIN-3332 - ['alcohol', 'risks', 'vs', 'benefits']
+Rank 1: Document MED-1209 - RSV: 13.587914872135139
+Rank 2: Document MED-2498 - RSV: 13.46251290020411
+Rank 3: Document MED-59 - RSV: 13.46251290020411
+Rank 4: Document MED-758 - RSV: 12.595220810903886
+Rank 5: Document MED-5033 - RSV: 11.494843263214847
+
+Query: PLAIN-3342 - ['the', 'impact', 'of', 'coconut', 'milk', 'and', 'flaked', 'coconut', 'on', 'cardiovascular', 'disease', 'risk']
+Rank 1: Document MED-5014 - RSV: 16.425455448978045
+Rank 2: Document MED-3992 - RSV: 15.39551150192447
+Rank 3: Document MED-4000 - RSV: 15.39551150192447
+Rank 4: Document MED-5015 - RSV: 14.155902050310763
+Rank 5: Document MED-3999 - RSV: 13.960646108115677
+
+Query: PLAIN-3342 - ['is', 'coconut', 'milk', 'good', 'for', 'you']
+Rank 1: Document MED-5014 - RSV: 16.425455448978045
+Rank 2: Document MED-3992 - RSV: 15.39551150192447
+Rank 3: Document MED-4000 - RSV: 15.39551150192447
+Rank 4: Document MED-5015 - RSV: 14.155902050310763
+Rank 5: Document MED-3999 - RSV: 13.960646108115677
+
+Query: PLAIN-3352 - ['which', 'food', 'was', 'found', 'to', 'improve', 'heart', 'rate', 'variability']
+Rank 1: Document MED-5026 - RSV: 10.913490280368382
+Rank 2: Document MED-5248 - RSV: 9.8968222359637
+Rank 3: Document MED-1656 - RSV: 9.650652780127109
+Rank 4: Document MED-1696 - RSV: 8.975683375990231
+Rank 5: Document MED-1367 - RSV: 8.790451896431824
+
+Query: PLAIN-3352 - ['boosting', 'heart', 'nerve', 'control']
+Rank 1: Document MED-5026 - RSV: 10.913490280368382
+Rank 2: Document MED-5248 - RSV: 9.8968222359637
+Rank 3: Document MED-1656 - RSV: 9.650652780127109
+Rank 4: Document MED-1696 - RSV: 8.975683375990231
+Rank 5: Document MED-1367 - RSV: 8.790451896431824
+
+Query: PLAIN-3362 - ['what', 'do', 'the', 'kuna', 'indians', 'drink', 'that', 'may', 'help', 'account', 'for', 'their', 'apparent', 'low', 'chronic', 'disease', 'rates']
+Rank 1: Document MED-5042 - RSV: 19.359876365947837
+Rank 2: Document MED-5041 - RSV: 15.55745472570683
+Rank 3: Document MED-2227 - RSV: 12.869512684339405
+Rank 4: Document MED-5292 - RSV: 10.494392219660543
+Rank 5: Document MED-4751 - RSV: 10.346341629820973
+
+Query: PLAIN-3362 - ['kuna', 'indian', 'secret']
+Rank 1: Document MED-5042 - RSV: 19.359876365947837
+Rank 2: Document MED-5041 - RSV: 15.55745472570683
+Rank 3: Document MED-2227 - RSV: 12.869512684339405
+Rank 4: Document MED-5292 - RSV: 10.494392219660543
+Rank 5: Document MED-4751 - RSV: 10.346341629820973
+
+Query: PLAIN-3372 - ['there', 'are', 'two', 'sweeteners', 'that', 'are', 'actually', 'good', 'for', 'you']
+Rank 1: Document MED-4126 - RSV: 8.024494420957355
+Rank 2: Document MED-1735 - RSV: 7.584990271594096
+Rank 3: Document MED-1743 - RSV: 7.584990271594096
+Rank 4: Document MED-4994 - RSV: 7.5128220613490715
+Rank 5: Document MED-5053 - RSV: 6.862092570159745
+
+Query: PLAIN-3372 - ['the', 'healthiest', 'sweetener']
+Rank 1: Document MED-4126 - RSV: 8.024494420957355
+Rank 2: Document MED-1735 - RSV: 7.584990271594096
+Rank 3: Document MED-1743 - RSV: 7.584990271594096
+Rank 4: Document MED-4994 - RSV: 7.5128220613490715
+Rank 5: Document MED-5053 - RSV: 6.862092570159745
+
+Query: PLAIN-3382 - ['the', 'effects', 'of', 'artificial', 'colors', 'on', 'impulsivity', 'inattentiveness', 'and', 'hyperactivity', 'among', 'young', 'children']
+Rank 1: Document MED-3380 - RSV: 22.446952264840007
+Rank 2: Document MED-478 - RSV: 22.446952264840007
+Rank 3: Document MED-3382 - RSV: 20.787131350837253
+Rank 4: Document MED-480 - RSV: 20.787131350837253
+Rank 5: Document MED-4655 - RSV: 15.692873913635477
+
+Query: PLAIN-3382 - ['are', 'artificial', 'colors', 'bad', 'for', 'you']
+Rank 1: Document MED-3380 - RSV: 22.446952264840007
+Rank 2: Document MED-478 - RSV: 22.446952264840007
+Rank 3: Document MED-3382 - RSV: 20.787131350837253
+Rank 4: Document MED-480 - RSV: 20.787131350837253
+Rank 5: Document MED-4655 - RSV: 15.692873913635477
+
+Query: PLAIN-3392 - ['which', 'should', 'you', 'choose', 'the', 'next', 'time', 'you', 'fly']
+Rank 1: Document MED-1956 - RSV: 10.406010519924681
+Rank 2: Document MED-1150 - RSV: 8.461186265158894
+Rank 3: Document MED-1162 - RSV: 7.797326418565976
+Rank 4: Document MED-1735 - RSV: 7.584990271594096
+Rank 5: Document MED-1743 - RSV: 7.584990271594096
+
+Query: PLAIN-3392 - ['healthiest', 'airplane', 'beverage']
+Rank 1: Document MED-1956 - RSV: 10.406010519924681
+Rank 2: Document MED-1150 - RSV: 8.461186265158894
+Rank 3: Document MED-1162 - RSV: 7.797326418565976
+Rank 4: Document MED-1735 - RSV: 7.584990271594096
+Rank 5: Document MED-1743 - RSV: 7.584990271594096
+
+Query: PLAIN-3402 - ['antioxidant', 'content', 'of', '300', 'foods']
+Rank 1: Document MED-4413 - RSV: 9.776985585916634
+Rank 2: Document MED-3734 - RSV: 9.509371135578048
+Rank 3: Document MED-5056 - RSV: 8.750866893653896
+Rank 4: Document MED-917 - RSV: 8.696622206346882
+Rank 5: Document MED-3654 - RSV: 8.669357348067404
+
+Query: PLAIN-3402 - ['ranking', 'foods', 'by', 'antioxidants', 'per', 'serving']
+Rank 1: Document MED-4413 - RSV: 9.776985585916634
+Rank 2: Document MED-3734 - RSV: 9.509371135578048
+Rank 3: Document MED-5056 - RSV: 8.750866893653896
+Rank 4: Document MED-917 - RSV: 8.696622206346882
+Rank 5: Document MED-3654 - RSV: 8.669357348067404
+
+Query: PLAIN-3412 - ['what', 'baggage', 'comes', 'along', 'with', 'the', 'calcium', 'in', 'milk']
+Rank 1: Document MED-4682 - RSV: 8.644919823380762
+Rank 2: Document MED-203 - RSV: 7.964282674476385
+Rank 3: Document MED-2772 - RSV: 7.964282674476385
+Rank 4: Document MED-202 - RSV: 7.358489721554548
+Rank 5: Document MED-2771 - RSV: 7.358489721554548
+
+Query: PLAIN-3412 - ['plant', 'vs', 'cow', 'calcium']
+Rank 1: Document MED-4682 - RSV: 8.644919823380762
+Rank 2: Document MED-203 - RSV: 7.964282674476385
+Rank 3: Document MED-2772 - RSV: 7.964282674476385
+Rank 4: Document MED-202 - RSV: 7.358489721554548
+Rank 5: Document MED-2771 - RSV: 7.358489721554548
+
+Query: PLAIN-3422 - ['there', 'are', 'two', 'vitamins', 'not', 'produced', 'by', 'plants', 'that', 'may', 'require', 'supplementation']
+Rank 1: Document MED-4373 - RSV: 13.81204347076502
+Rank 2: Document MED-988 - RSV: 11.213764001086666
+Rank 3: Document MED-1830 - RSV: 10.128050731145775
+Rank 4: Document MED-2761 - RSV: 10.037298843361537
+Rank 5: Document MED-4155 - RSV: 9.288256276053719
+
+Query: PLAIN-3422 - ['vitamin', 'supplements', 'worth', 'taking']
+Rank 1: Document MED-4373 - RSV: 13.81204347076502
+Rank 2: Document MED-988 - RSV: 11.213764001086666
+Rank 3: Document MED-1830 - RSV: 10.128050731145775
+Rank 4: Document MED-2761 - RSV: 10.037298843361537
+Rank 5: Document MED-4155 - RSV: 9.288256276053719
+
+Query: PLAIN-3432 - ['healthy', 'chocolate', 'milkshakes']
+Rank 1: Document MED-5040 - RSV: 15.217599861487493
+Rank 2: Document MED-5286 - RSV: 13.18328169108555
+Rank 3: Document MED-5287 - RSV: 12.98014410806581
+Rank 4: Document MED-5038 - RSV: 12.965623653232097
+Rank 5: Document MED-5283 - RSV: 12.914618165507967
+
+Query: PLAIN-3432 - ['recipes', 'for', 'ways', 'to', 'incorporate', 'cocoa', 'into', 'your', 'diet', 'without', 'the', 'saturated', 'fat', 'or', 'sugar', 'of', 'chocolate']
+Rank 1: Document MED-5040 - RSV: 15.217599861487493
+Rank 2: Document MED-5286 - RSV: 13.18328169108555
+Rank 3: Document MED-5287 - RSV: 12.98014410806581
+Rank 4: Document MED-5038 - RSV: 12.965623653232097
+Rank 5: Document MED-5283 - RSV: 12.914618165507967
+
+Query: PLAIN-3442 - ['the', 'wonders', 'of', 'dark', 'green', 'leafies']
+Rank 1: Document MED-3329 - RSV: 8.887401430853329
+Rank 2: Document MED-3354 - RSV: 8.887401430853329
+Rank 3: Document MED-462 - RSV: 8.887401430853329
+Rank 4: Document MED-759 - RSV: 8.481959994268118
+Rank 5: Document MED-3475 - RSV: 8.11189691516623
+
+Query: PLAIN-3442 - ['the', 'healthiest', 'vegetables']
+Rank 1: Document MED-3329 - RSV: 8.887401430853329
+Rank 2: Document MED-3354 - RSV: 8.887401430853329
+Rank 3: Document MED-462 - RSV: 8.887401430853329
+Rank 4: Document MED-759 - RSV: 8.481959994268118
+Rank 5: Document MED-3475 - RSV: 8.11189691516623
+
+Query: PLAIN-3452 - ['bowel', 'movement', 'frequency']
+Rank 1: Document MED-2294 - RSV: 16.140427521745337
+Rank 2: Document MED-1430 - RSV: 14.368563251050574
+Rank 3: Document MED-2100 - RSV: 13.963282289466905
+Rank 4: Document MED-4641 - RSV: 13.963282289466905
+Rank 5: Document MED-272 - RSV: 13.136315312947527
+
+Query: PLAIN-3452 - ['comparing', 'the', 'regularity', 'of', 'omnivores', 'vegetarians', 'and', 'vegans']
+Rank 1: Document MED-2294 - RSV: 16.140427521745337
+Rank 2: Document MED-1430 - RSV: 14.368563251050574
+Rank 3: Document MED-2100 - RSV: 13.963282289466905
+Rank 4: Document MED-4641 - RSV: 13.963282289466905
+Rank 5: Document MED-272 - RSV: 13.136315312947527
+
+Query: PLAIN-3462 - ['does', 'extra', 'virgin', 'olive', 'oil', 'have', 'the', 'same', 'adverse', 'effect', 'on', 'arterial', 'function', 'as', 'refined', 'oils', 'and', 'animal', 'fats']
+Rank 1: Document MED-4686 - RSV: 29.622871666404272
+Rank 2: Document MED-5261 - RSV: 24.058527266099475
+Rank 3: Document MED-5273 - RSV: 19.335264420357685
+Rank 4: Document MED-1373 - RSV: 19.085945829494108
+Rank 5: Document MED-1391 - RSV: 18.79127438145293
+
+Query: PLAIN-3462 - ['olive', 'oil', 'and', 'artery', 'function']
+Rank 1: Document MED-4686 - RSV: 29.622871666404272
+Rank 2: Document MED-5261 - RSV: 24.058527266099475
+Rank 3: Document MED-5273 - RSV: 19.335264420357685
+Rank 4: Document MED-1373 - RSV: 19.085945829494108
+Rank 5: Document MED-1391 - RSV: 18.79127438145293
+
+Query: PLAIN-3472 - ['how', 'doctors', 'responded', 'to', 'being', 'named', 'a', 'leading', 'killer']
+Rank 1: Document MED-2734 - RSV: 15.234443917708722
+Rank 2: Document MED-2744 - RSV: 15.234443917708722
+Rank 3: Document MED-958 - RSV: 13.599184255829922
+Rank 4: Document MED-186 - RSV: 13.320741204587254
+Rank 5: Document MED-2749 - RSV: 13.320741204587254
+
+Query: PLAIN-3472 - ['what', 'was', 'the', 'medical', 'community', 's', 'reaction', 'to', 'being', 'named', 'the', 'third', 'leading', 'cause', 'of', 'death', 'in', 'the', 'united', 'states']
+Rank 1: Document MED-2734 - RSV: 15.234443917708722
+Rank 2: Document MED-2744 - RSV: 15.234443917708722
+Rank 3: Document MED-958 - RSV: 13.599184255829922
+Rank 4: Document MED-186 - RSV: 13.320741204587254
+Rank 5: Document MED-2749 - RSV: 13.320741204587254
+
