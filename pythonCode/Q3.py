@@ -190,7 +190,7 @@ def getdocValue(word):
         return 1.0
     else:
         df =  index_combined[word][0]
-        return log(8808 / df)
+        return log(8808 / (df + 1))
     
 #  get the query value for a vector
 def getqueryValue(word):
@@ -198,7 +198,7 @@ def getqueryValue(word):
         return 1.0
     else: 
         df = index_combined[word][0]
-        return log(8808 / df)
+        return log(8808 / (df+1))
 
 # does normalisation
 def cosine_normalization_term(vector):
@@ -255,17 +255,21 @@ for query in queryList:
         doclist = []
         querylist = []
         for word, value in non_zero_words_dict.items():
+            queryval = getqueryValue(word)
+            if(word in index_map):
+                querylist.append(queryval)
             value = check_word_in_document(word, docid, index_map)
             if value != 0:
                 docval = getdocValue(word)
                 queryval = getqueryValue(word)
                 doclist.append(docval)
-                querylist.append(queryval)
+                # querylist.append(queryval)
                 new_similarity += docval * queryval * non_zero_words_dict[word]
-        if choice_doc == 3:
+        if choice_doc == '3':
             doc_norm = cosine_normalization_term(doclist)
             new_similarity = new_similarity / doc_norm
-        if choice_query == 3:
+            # print("doing")
+        if choice_query == '3':
             query_norm = cosine_normalization_term(querylist)
             new_similarity = new_similarity / query_norm 
         final_ranking[docid] = new_similarity

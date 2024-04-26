@@ -105,7 +105,7 @@ def getdocValue(word):
         return 1.0
     else:
         df =  index_combined[word][0]
-        return log(5371 / df)
+        return log(5371 / (df+1))
     
 #  get the query value for a vector
 def getqueryValue(word):
@@ -113,13 +113,22 @@ def getqueryValue(word):
         return 1.0
     else: 
         df = index_combined[word][0]
-        return log(5371 / df)
+        return log(5371 / (df+1))
 
 # does normalisation
 def cosine_normalization_term(vector):
     squared_sum = sum(x ** 2 for x in vector)
     normalization_term = math.sqrt(squared_sum)
     return normalization_term
+
+# def load_stopwords(stopwords_path):
+#     with open(stopwords_path, 'r', encoding='utf-8') as file:
+#         stopwords_list = file.read().splitlines()
+#     return set(stopwords_list)
+
+# current_directory = os.path.dirname(os.path.abspath(__file__))
+# stopwords_path = os.path.join(current_directory, '..', 'stopWords', 'stopwords.large')
+# stopwords_set = load_stopwords(stopwords_path)
 
 # ndcg values
 def calculate_ndcg_score(ranking, standard_ranking, k):
@@ -166,12 +175,15 @@ for query in queryList:
         doclist = []
         querylist = []
         for queryWord in word_list:
+            queryval = getqueryValue(queryWord)
+            if(queryWord in index_map):
+                querylist.append(queryval)
             value = check_word_in_document(queryWord, docid, index_map)
             if value != 0:
                 docval = getdocValue(queryWord)
                 queryval = getqueryValue(queryWord)
                 doclist.append(docval)
-                querylist.append(queryval)
+                # querylist.append(queryval)
                 similarity += value * docval * queryval
         if choice_doc == '3':
             doc_norm = cosine_normalization_term(doclist)
