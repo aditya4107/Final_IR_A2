@@ -8,7 +8,7 @@ sandeep:
 aditya:
 1) Q7
 2) requirements.txt
-3) Q8: synonyms
+3) Q8: synonyms - done
 
 siri:
 1) report
