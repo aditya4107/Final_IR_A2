@@ -22,7 +22,7 @@ def read_queries_from_file(file_path):
             queryList.append((query_id, query_text))
 
 processed_queries_folder = os.path.join(os.getcwd(),'pythonCode', 'processedQueries')
-files = ['dev_queries.txt', 'test_queries.txt', 'training_queries.txt']
+files = ['combined_dev_queries.txt', 'combined_test_queries.txt', 'combined_training_queries.txt']
 # files = ['test_queries.txt']
 
 for file_name in files:
