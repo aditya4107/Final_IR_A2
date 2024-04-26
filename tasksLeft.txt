@@ -7,7 +7,7 @@ sandeep:
 
 aditya:
 1) Q7
-2) Lucene
+2) requirements.txt
 3) Q8: synonyms
 
 siri:
