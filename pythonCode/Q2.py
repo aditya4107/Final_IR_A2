@@ -242,4 +242,3 @@ for query in queryList:
     #     print(f"Document ID: {doc_id}, Score: {score}")
     k = 10
     calculate_ndcg_for_ranking(sorted_ranking, query_id, k)
-    

@@ -345,11 +345,11 @@ for query in queryList:
 
     print(query_id)
     print(query_text)
-    for doc_id, score in sorted_ranking[:10]:
-        print(f"Document ID: {doc_id}, Score: {score}")
-    print()
+    # for doc_id, score in sorted_ranking[:10]:
+    #     print(f"Document ID: {doc_id}, Score: {score}")
+    # print()
     for doc_id, score in final_sorted_ranking[:10]:
         print(f"Document ID: {doc_id}, Score: {score}")
     k = 10
-    calculate_ndcg_for_ranking(sorted_ranking, query_id, k)
+    calculate_ndcg_for_ranking(final_sorted_ranking, query_id, k)
     # break
