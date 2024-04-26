@@ -1,5 +1,5 @@
 1) ndcg scores - sandeep
-2) Q7: pair and list - aditya.
+2) Q7: pair and list - aditya. - somehow done
 3) Q8: try it
-4) correct error in Q2, ntc : will take 30 mins - aditya
+4) correct error in Q2, ntc : will take 30 mins - aditya - done
 5) Q6 - sanaatan
