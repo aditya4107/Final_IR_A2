@@ -1,4 +1,5 @@
 Query: PLAIN-2
+NDCG: 0.9600370185256848
 Top Documents:
 Rank 1: Document ID: MED-2438, Predicted Relevance Score: 1.9114025527977623
 Rank 2: Document ID: MED-2427, Predicted Relevance Score: 1.9043325056713205
@@ -12,6 +13,7 @@ Rank 9: Document ID: MED-2436, Predicted Relevance Score: 1.8175755128978015
 Rank 10: Document ID: MED-2435, Predicted Relevance Score: 1.8169773331115278
 
 Query: PLAIN-12
+NDCG: 0.8154728956063096
 Top Documents:
 Rank 1: Document ID: MED-2513, Predicted Relevance Score: 1.9698981816811345
 Rank 2: Document ID: MED-2521, Predicted Relevance Score: 1.9457197125014492
@@ -25,6 +27,7 @@ Rank 9: Document ID: MED-5339, Predicted Relevance Score: 1.7276177376025903
 Rank 10: Document ID: MED-5322, Predicted Relevance Score: 1.7100668797571523
 
 Query: PLAIN-23
+NDCG: 0.5168364151408672
 Top Documents:
 Rank 1: Document ID: MED-2653, Predicted Relevance Score: 2.401418554169359
 Rank 2: Document ID: MED-3025, Predicted Relevance Score: 2.3617560227166905
@@ -38,6 +41,7 @@ Rank 9: Document ID: MED-2661, Predicted Relevance Score: 2.2976895626794462
 Rank 10: Document ID: MED-3588, Predicted Relevance Score: 2.2835121312000037
 
 Query: PLAIN-33
+NDCG: 0.6657279344606548
 Top Documents:
 Rank 1: Document ID: MED-2721, Predicted Relevance Score: 2.0619473737948724
 Rank 2: Document ID: MED-2718, Predicted Relevance Score: 2.0349000310396708
@@ -51,6 +55,7 @@ Rank 9: Document ID: MED-2723, Predicted Relevance Score: 1.8337099405505506
 Rank 10: Document ID: MED-4686, Predicted Relevance Score: 1.7968043282604458
 
 Query: PLAIN-44
+NDCG: 0.9614813707703919
 Top Documents:
 Rank 1: Document ID: MED-2815, Predicted Relevance Score: 2.081715557788393
 Rank 2: Document ID: MED-2782, Predicted Relevance Score: 2.0678910416324876
@@ -64,6 +69,7 @@ Rank 9: Document ID: MED-2787, Predicted Relevance Score: 1.9247208395942872
 Rank 10: Document ID: MED-2780, Predicted Relevance Score: 1.9184660706753476
 
 Query: PLAIN-56
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4523, Predicted Relevance Score: 2.194419400097562
 Rank 2: Document ID: MED-2966, Predicted Relevance Score: 2.1879226732968418
@@ -77,6 +83,7 @@ Rank 9: Document ID: MED-2972, Predicted Relevance Score: 2.033049838244318
 Rank 10: Document ID: MED-2899, Predicted Relevance Score: 2.0244020821500492
 
 Query: PLAIN-68
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-3888, Predicted Relevance Score: 2.075159393434098
 Rank 2: Document ID: MED-3086, Predicted Relevance Score: 2.0302749656648134
@@ -90,6 +97,7 @@ Rank 9: Document ID: MED-3089, Predicted Relevance Score: 1.9589490956534408
 Rank 10: Document ID: MED-3091, Predicted Relevance Score: 1.9550089856667425
 
 Query: PLAIN-78
+NDCG: 0.8060535026474613
 Top Documents:
 Rank 1: Document ID: MED-4912, Predicted Relevance Score: 2.0886602905090426
 Rank 2: Document ID: MED-3086, Predicted Relevance Score: 2.0538465537638166
@@ -103,6 +111,7 @@ Rank 9: Document ID: MED-3092, Predicted Relevance Score: 1.9751382909296882
 Rank 10: Document ID: MED-3963, Predicted Relevance Score: 1.9710453173110853
 
 Query: PLAIN-91
+NDCG: 0.5100185667340054
 Top Documents:
 Rank 1: Document ID: MED-3182, Predicted Relevance Score: 2.14580733886458
 Rank 2: Document ID: MED-3305, Predicted Relevance Score: 2.036752405421674
@@ -116,6 +125,7 @@ Rank 9: Document ID: MED-3180, Predicted Relevance Score: 1.9742083140612077
 Rank 10: Document ID: MED-3177, Predicted Relevance Score: 1.9712862898179462
 
 Query: PLAIN-102
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-3254, Predicted Relevance Score: 1.8077739749382693
 Rank 2: Document ID: MED-3253, Predicted Relevance Score: 1.7589955053372854
@@ -129,6 +139,7 @@ Rank 9: Document ID: MED-5323, Predicted Relevance Score: 1.612570187993172
 Rank 10: Document ID: MED-5332, Predicted Relevance Score: 1.5922307626105505
 
 Query: PLAIN-112
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-3376, Predicted Relevance Score: 2.1509734654253965
 Rank 2: Document ID: MED-3377, Predicted Relevance Score: 2.150331638067833
@@ -142,6 +153,7 @@ Rank 9: Document ID: MED-3387, Predicted Relevance Score: 2.042446165687486
 Rank 10: Document ID: MED-5062, Predicted Relevance Score: 2.0402487048130684
 
 Query: PLAIN-123
+NDCG: 0.8700388369294937
 Top Documents:
 Rank 1: Document ID: MED-3476, Predicted Relevance Score: 2.1018883481218933
 Rank 2: Document ID: MED-4029, Predicted Relevance Score: 2.0528764327126154
@@ -155,6 +167,7 @@ Rank 9: Document ID: MED-3474, Predicted Relevance Score: 1.9375976556260859
 Rank 10: Document ID: MED-4035, Predicted Relevance Score: 1.9313220825700341
 
 Query: PLAIN-133
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-5070, Predicted Relevance Score: 2.025109997237105
 Rank 2: Document ID: MED-5072, Predicted Relevance Score: 1.9768452547754851
@@ -168,6 +181,7 @@ Rank 9: Document ID: MED-4090, Predicted Relevance Score: 1.8482106399421745
 Rank 10: Document ID: MED-4652, Predicted Relevance Score: 1.8410750403495721
 
 Query: PLAIN-143
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-3606, Predicted Relevance Score: 2.080023198841251
 Rank 2: Document ID: MED-3617, Predicted Relevance Score: 2.0549598613919002
@@ -181,6 +195,7 @@ Rank 9: Document ID: MED-3608, Predicted Relevance Score: 1.9585722542516577
 Rank 10: Document ID: MED-3607, Predicted Relevance Score: 1.9556210566948848
 
 Query: PLAIN-153
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-3671, Predicted Relevance Score: 2.015111597585906
 Rank 2: Document ID: MED-3688, Predicted Relevance Score: 1.9971016863515496
@@ -194,6 +209,7 @@ Rank 9: Document ID: MED-3675, Predicted Relevance Score: 1.8943644696239241
 Rank 10: Document ID: MED-3690, Predicted Relevance Score: 1.8879428661136441
 
 Query: PLAIN-165
+NDCG: 0.9479358654723703
 Top Documents:
 Rank 1: Document ID: MED-3762, Predicted Relevance Score: 2.167384897894787
 Rank 2: Document ID: MED-3766, Predicted Relevance Score: 2.1380941551578303
@@ -207,6 +223,7 @@ Rank 9: Document ID: MED-3699, Predicted Relevance Score: 1.9686650992852988
 Rank 10: Document ID: MED-3764, Predicted Relevance Score: 1.9411794652397374
 
 Query: PLAIN-175
+NDCG: 0.7375509949791197
 Top Documents:
 Rank 1: Document ID: MED-3822, Predicted Relevance Score: 2.2450725762725248
 Rank 2: Document ID: MED-4958, Predicted Relevance Score: 2.1646402454139064
@@ -220,6 +237,7 @@ Rank 9: Document ID: MED-3817, Predicted Relevance Score: 1.9977698682443632
 Rank 10: Document ID: MED-4256, Predicted Relevance Score: 1.9914318692316102
 
 Query: PLAIN-186
+NDCG: 0.6963356399946319
 Top Documents:
 Rank 1: Document ID: MED-3904, Predicted Relevance Score: 1.930377517353309
 Rank 2: Document ID: MED-5339, Predicted Relevance Score: 1.8835151984804857
@@ -233,6 +251,7 @@ Rank 9: Document ID: MED-5323, Predicted Relevance Score: 1.7547557125965967
 Rank 10: Document ID: MED-5332, Predicted Relevance Score: 1.7344162872139752
 
 Query: PLAIN-196
+NDCG: 0.6885684795657985
 Top Documents:
 Rank 1: Document ID: MED-4167, Predicted Relevance Score: 2.2111983371832435
 Rank 2: Document ID: MED-4489, Predicted Relevance Score: 2.016203020588378
@@ -246,6 +265,7 @@ Rank 9: Document ID: MED-3962, Predicted Relevance Score: 1.9464153421159978
 Rank 10: Document ID: MED-3969, Predicted Relevance Score: 1.9424782863831953
 
 Query: PLAIN-207
+NDCG: 0.7716218385374528
 Top Documents:
 Rank 1: Document ID: MED-4974, Predicted Relevance Score: 2.0544478313582273
 Rank 2: Document ID: MED-4489, Predicted Relevance Score: 2.0281924467079473
@@ -259,6 +279,7 @@ Rank 9: Document ID: MED-4069, Predicted Relevance Score: 1.9641184247529009
 Rank 10: Document ID: MED-4973, Predicted Relevance Score: 1.9614054366651907
 
 Query: PLAIN-217
+NDCG: 0.6651506978964649
 Top Documents:
 Rank 1: Document ID: MED-4854, Predicted Relevance Score: 1.9810795612739556
 Rank 2: Document ID: MED-4849, Predicted Relevance Score: 1.9601235929044114
@@ -272,6 +293,7 @@ Rank 9: Document ID: MED-4847, Predicted Relevance Score: 1.8412565556630347
 Rank 10: Document ID: MED-5339, Predicted Relevance Score: 1.8404812311271
 
 Query: PLAIN-227
+NDCG: 0.7284473444418583
 Top Documents:
 Rank 1: Document ID: MED-5049, Predicted Relevance Score: 2.1868393662020105
 Rank 2: Document ID: MED-4468, Predicted Relevance Score: 2.034464759403163
@@ -285,6 +307,7 @@ Rank 9: Document ID: MED-4501, Predicted Relevance Score: 1.909864634848286
 Rank 10: Document ID: MED-4465, Predicted Relevance Score: 1.8986996317412226
 
 Query: PLAIN-238
+NDCG: 0.6580635406515443
 Top Documents:
 Rank 1: Document ID: MED-5070, Predicted Relevance Score: 2.048749015868852
 Rank 2: Document ID: MED-4489, Predicted Relevance Score: 2.016203020588378
@@ -298,6 +321,7 @@ Rank 9: Document ID: MED-4741, Predicted Relevance Score: 1.9487809342027427
 Rank 10: Document ID: MED-4804, Predicted Relevance Score: 1.9239681159954938
 
 Query: PLAIN-248
+NDCG: 0.6514573480703432
 Top Documents:
 Rank 1: Document ID: MED-5176, Predicted Relevance Score: 2.134251312751182
 Rank 2: Document ID: MED-4232, Predicted Relevance Score: 2.076256546335123
@@ -311,6 +335,7 @@ Rank 9: Document ID: MED-5339, Predicted Relevance Score: 1.7941484676241182
 Rank 10: Document ID: MED-4233, Predicted Relevance Score: 1.7850803381051406
 
 Query: PLAIN-259
+NDCG: 0.6800617591767423
 Top Documents:
 Rank 1: Document ID: MED-4644, Predicted Relevance Score: 2.0791088788785026
 Rank 2: Document ID: MED-4298, Predicted Relevance Score: 2.069710257957321
@@ -324,6 +349,7 @@ Rank 9: Document ID: MED-4638, Predicted Relevance Score: 1.744537260657895
 Rank 10: Document ID: MED-4846, Predicted Relevance Score: 1.7343645360759719
 
 Query: PLAIN-270
+NDCG: 0.707723548426077
 Top Documents:
 Rank 1: Document ID: MED-5178, Predicted Relevance Score: 2.1882764065299463
 Rank 2: Document ID: MED-5049, Predicted Relevance Score: 2.1868393662020105
@@ -337,6 +363,7 @@ Rank 9: Document ID: MED-4329, Predicted Relevance Score: 2.0544899369234586
 Rank 10: Document ID: MED-4540, Predicted Relevance Score: 2.0020776390701385
 
 Query: PLAIN-280
+NDCG: 0.6763696686907097
 Top Documents:
 Rank 1: Document ID: MED-4376, Predicted Relevance Score: 2.177634415184202
 Rank 2: Document ID: MED-5097, Predicted Relevance Score: 2.159278434041956
@@ -350,6 +377,7 @@ Rank 9: Document ID: MED-4547, Predicted Relevance Score: 1.9662032778252259
 Rank 10: Document ID: MED-4546, Predicted Relevance Score: 1.9557005093544368
 
 Query: PLAIN-291
+NDCG: 0.623067391851647
 Top Documents:
 Rank 1: Document ID: MED-4518, Predicted Relevance Score: 2.286911924527953
 Rank 2: Document ID: MED-4644, Predicted Relevance Score: 2.2611115367381225
@@ -363,6 +391,7 @@ Rank 9: Document ID: MED-4516, Predicted Relevance Score: 2.0680451564005193
 Rank 10: Document ID: MED-2103, Predicted Relevance Score: 2.055874706442719
 
 Query: PLAIN-307
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-919, Predicted Relevance Score: 2.0036630374480633
 Rank 2: Document ID: MED-4573, Predicted Relevance Score: 1.990471393332148
@@ -372,6 +401,7 @@ Rank 5: Document ID: MED-4575, Predicted Relevance Score: 1.6327879920003243
 Rank 6: Document ID: MED-716, Predicted Relevance Score: 1.551080553525715
 
 Query: PLAIN-320
+NDCG: 0.6800177281537099
 Top Documents:
 Rank 1: Document ID: MED-5178, Predicted Relevance Score: 2.376352326378257
 Rank 2: Document ID: MED-4771, Predicted Relevance Score: 2.2707145867570944
@@ -385,11 +415,13 @@ Rank 9: Document ID: MED-5112, Predicted Relevance Score: 2.1826470535847795
 Rank 10: Document ID: MED-5114, Predicted Relevance Score: 2.1766501504798517
 
 Query: PLAIN-332
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-759, Predicted Relevance Score: 2.5374662987095604
 Rank 2: Document ID: MED-760, Predicted Relevance Score: 2.2780478407410016
 
 Query: PLAIN-344
+NDCG: 0.9483275654184071
 Top Documents:
 Rank 1: Document ID: MED-2412, Predicted Relevance Score: 2.4497616384196825
 Rank 2: Document ID: MED-2409, Predicted Relevance Score: 2.4249415434606583
@@ -403,17 +435,20 @@ Rank 9: Document ID: MED-2385, Predicted Relevance Score: 2.31286136066577
 Rank 10: Document ID: MED-2647, Predicted Relevance Score: 2.301048969562522
 
 Query: PLAIN-358
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4324, Predicted Relevance Score: 1.97586120531864
 Rank 2: Document ID: MED-4556, Predicted Relevance Score: 1.8092979665393263
 Rank 3: Document ID: MED-4559, Predicted Relevance Score: 1.7477674352667183
 
 Query: PLAIN-371
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4618, Predicted Relevance Score: 2.20318474582947
 Rank 2: Document ID: MED-861, Predicted Relevance Score: 1.6264372129213291
 
 Query: PLAIN-383
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4676, Predicted Relevance Score: 2.0270029050313467
 Rank 2: Document ID: MED-4203, Predicted Relevance Score: 1.831066294713789
@@ -422,24 +457,28 @@ Rank 4: Document ID: MED-4299, Predicted Relevance Score: 1.6710876314360898
 Rank 5: Document ID: MED-4206, Predicted Relevance Score: 1.5727485507103651
 
 Query: PLAIN-395
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4390, Predicted Relevance Score: 1.7863530507001524
 Rank 2: Document ID: MED-892, Predicted Relevance Score: 1.7421071031552484
 Rank 3: Document ID: MED-4993, Predicted Relevance Score: 1.5102033979211136
 
 Query: PLAIN-407
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4936, Predicted Relevance Score: 2.0674517956271843
 Rank 2: Document ID: MED-4932, Predicted Relevance Score: 2.0505941996375845
 Rank 3: Document ID: MED-906, Predicted Relevance Score: 1.9415318832456223
 
 Query: PLAIN-418
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-917, Predicted Relevance Score: 2.076202655416626
 Rank 2: Document ID: MED-3714, Predicted Relevance Score: 1.9532554189440172
 Rank 3: Document ID: MED-4545, Predicted Relevance Score: 1.7785187360304189
 
 Query: PLAIN-430
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-5093, Predicted Relevance Score: 2.2764814882276534
 Rank 2: Document ID: MED-4936, Predicted Relevance Score: 2.1236951370433044
@@ -451,6 +490,7 @@ Rank 7: Document ID: MED-931, Predicted Relevance Score: 1.956883250724003
 Rank 8: Document ID: MED-5091, Predicted Relevance Score: 1.8686389085574682
 
 Query: PLAIN-441
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-941, Predicted Relevance Score: 1.936239170705146
 Rank 2: Document ID: MED-4701, Predicted Relevance Score: 1.8941313307573977
@@ -459,6 +499,7 @@ Rank 4: Document ID: MED-4703, Predicted Relevance Score: 1.635473041045148
 Rank 5: Document ID: MED-4702, Predicted Relevance Score: 1.5768815269438796
 
 Query: PLAIN-457
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-5159, Predicted Relevance Score: 1.8145348208121699
 Rank 2: Document ID: MED-952, Predicted Relevance Score: 1.754995174498782
@@ -467,6 +508,7 @@ Rank 4: Document ID: MED-5161, Predicted Relevance Score: 1.7066299887322456
 Rank 5: Document ID: MED-5160, Predicted Relevance Score: 1.6205587196779492
 
 Query: PLAIN-468
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-5135, Predicted Relevance Score: 1.8691966078704116
 Rank 2: Document ID: MED-5132, Predicted Relevance Score: 1.8557522091564185
@@ -480,6 +522,7 @@ Rank 9: Document ID: MED-961, Predicted Relevance Score: 1.671541076775469
 Rank 10: Document ID: MED-962, Predicted Relevance Score: 1.6528119763485978
 
 Query: PLAIN-478
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4222, Predicted Relevance Score: 1.795323416580481
 Rank 2: Document ID: MED-5339, Predicted Relevance Score: 1.7160355756231567
@@ -493,6 +536,7 @@ Rank 9: Document ID: MED-5363, Predicted Relevance Score: 1.5495782111701366
 Rank 10: Document ID: MED-5326, Predicted Relevance Score: 1.5341064912962186
 
 Query: PLAIN-488
+NDCG: 0.5310283444141833
 Top Documents:
 Rank 1: Document ID: MED-1799, Predicted Relevance Score: 2.0164461950995944
 Rank 2: Document ID: MED-4769, Predicted Relevance Score: 1.934032893659647
@@ -506,6 +550,7 @@ Rank 9: Document ID: MED-1806, Predicted Relevance Score: 1.7576393725716701
 Rank 10: Document ID: MED-1810, Predicted Relevance Score: 1.7528325232241508
 
 Query: PLAIN-499
+NDCG: 0.6085006640813008
 Top Documents:
 Rank 1: Document ID: MED-2900, Predicted Relevance Score: 2.0482063682991063
 Rank 2: Document ID: MED-1109, Predicted Relevance Score: 1.9963181069272689
@@ -519,6 +564,7 @@ Rank 9: Document ID: MED-1112, Predicted Relevance Score: 1.9240519925025208
 Rank 10: Document ID: MED-3875, Predicted Relevance Score: 1.9171826525136257
 
 Query: PLAIN-510
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-3617, Predicted Relevance Score: 2.0549598613919002
 Rank 2: Document ID: MED-3618, Predicted Relevance Score: 1.895599194517483
@@ -528,6 +574,7 @@ Rank 5: Document ID: MED-3622, Predicted Relevance Score: 1.8407372089396468
 Rank 6: Document ID: MED-3615, Predicted Relevance Score: 1.7475878454087195
 
 Query: PLAIN-520
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-5155, Predicted Relevance Score: 1.9708949890666347
 Rank 2: Document ID: MED-5339, Predicted Relevance Score: 1.7276177376025903
@@ -541,6 +588,7 @@ Rank 9: Document ID: MED-5363, Predicted Relevance Score: 1.5611603731495702
 Rank 10: Document ID: MED-5326, Predicted Relevance Score: 1.5456886532756522
 
 Query: PLAIN-531
+NDCG: 0.6372236584791946
 Top Documents:
 Rank 1: Document ID: MED-5178, Predicted Relevance Score: 2.1766942445505126
 Rank 2: Document ID: MED-2003, Predicted Relevance Score: 2.1699407269580524
@@ -554,6 +602,7 @@ Rank 9: Document ID: MED-3146, Predicted Relevance Score: 2.068609016152704
 Rank 10: Document ID: MED-2709, Predicted Relevance Score: 2.0588585402951622
 
 Query: PLAIN-541
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-3617, Predicted Relevance Score: 1.9119970468167622
 Rank 2: Document ID: MED-3618, Predicted Relevance Score: 1.7526363799423454
@@ -563,11 +612,13 @@ Rank 5: Document ID: MED-3621, Predicted Relevance Score: 1.7082377558423958
 Rank 6: Document ID: MED-3622, Predicted Relevance Score: 1.697774394364509
 
 Query: PLAIN-551
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4380, Predicted Relevance Score: 2.119832797626258
 Rank 2: Document ID: MED-4381, Predicted Relevance Score: 2.099640728655838
 
 Query: PLAIN-561
+NDCG: 0.6505354221931826
 Top Documents:
 Rank 1: Document ID: MED-3182, Predicted Relevance Score: 2.14580733886458
 Rank 2: Document ID: MED-3174, Predicted Relevance Score: 1.9922788540336456
@@ -581,6 +632,7 @@ Rank 9: Document ID: MED-3783, Predicted Relevance Score: 1.9306192557668655
 Rank 10: Document ID: MED-3784, Predicted Relevance Score: 1.9160347887118105
 
 Query: PLAIN-571
+NDCG: 0.7612926218738159
 Top Documents:
 Rank 1: Document ID: MED-4742, Predicted Relevance Score: 2.016138162464103
 Rank 2: Document ID: MED-2344, Predicted Relevance Score: 2.0075265135886298
@@ -594,6 +646,7 @@ Rank 9: Document ID: MED-2345, Predicted Relevance Score: 1.879721832198898
 Rank 10: Document ID: MED-4743, Predicted Relevance Score: 1.8660385265863488
 
 Query: PLAIN-583
+NDCG: 0.5823150139110672
 Top Documents:
 Rank 1: Document ID: MED-3086, Predicted Relevance Score: 2.0302749656648134
 Rank 2: Document ID: MED-4319, Predicted Relevance Score: 2.020622192618792
@@ -607,16 +660,19 @@ Rank 9: Document ID: MED-2987, Predicted Relevance Score: 1.934687834410001
 Rank 10: Document ID: MED-2570, Predicted Relevance Score: 1.9263433606192097
 
 Query: PLAIN-593
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4400, Predicted Relevance Score: 1.9234075189155764
 Rank 2: Document ID: MED-4399, Predicted Relevance Score: 1.9219300113241036
 Rank 3: Document ID: MED-4402, Predicted Relevance Score: 1.8630807602520787
 
 Query: PLAIN-603
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4413, Predicted Relevance Score: 1.9989620963759618
 
 Query: PLAIN-613
+NDCG: 0.5179304399342053
 Top Documents:
 Rank 1: Document ID: MED-1203, Predicted Relevance Score: 2.1447122365507734
 Rank 2: Document ID: MED-4488, Predicted Relevance Score: 2.0449613631325527
@@ -630,6 +686,7 @@ Rank 9: Document ID: MED-1201, Predicted Relevance Score: 1.8462819905255814
 Rank 10: Document ID: MED-1195, Predicted Relevance Score: 1.8326102650702483
 
 Query: PLAIN-623
+NDCG: 0.6905104999842016
 Top Documents:
 Rank 1: Document ID: MED-1554, Predicted Relevance Score: 2.1824072857319745
 Rank 2: Document ID: MED-3785, Predicted Relevance Score: 2.050876295084974
@@ -643,6 +700,7 @@ Rank 9: Document ID: MED-4883, Predicted Relevance Score: 1.9388137405660704
 Rank 10: Document ID: MED-3781, Predicted Relevance Score: 1.934601196676761
 
 Query: PLAIN-634
+NDCG: 0.7417006119482427
 Top Documents:
 Rank 1: Document ID: MED-4618, Predicted Relevance Score: 2.1455198503684216
 Rank 2: Document ID: MED-5169, Predicted Relevance Score: 2.0027817513195365
@@ -656,6 +714,7 @@ Rank 9: Document ID: MED-4619, Predicted Relevance Score: 1.8415922201820918
 Rank 10: Document ID: MED-5170, Predicted Relevance Score: 1.8371290577237314
 
 Query: PLAIN-645
+NDCG: 0.5554957745539336
 Top Documents:
 Rank 1: Document ID: MED-3146, Predicted Relevance Score: 2.0634262322197983
 Rank 2: Document ID: MED-2036, Predicted Relevance Score: 1.9955023133337009
@@ -669,6 +728,7 @@ Rank 9: Document ID: MED-2033, Predicted Relevance Score: 1.8782801127216937
 Rank 10: Document ID: MED-2019, Predicted Relevance Score: 1.8752092822384152
 
 Query: PLAIN-660
+NDCG: 0.5216901755749175
 Top Documents:
 Rank 1: Document ID: MED-2254, Predicted Relevance Score: 2.17485199864324
 Rank 2: Document ID: MED-2422, Predicted Relevance Score: 2.1316834329344068
@@ -682,14 +742,17 @@ Rank 9: Document ID: MED-2966, Predicted Relevance Score: 2.092723948877963
 Rank 10: Document ID: MED-1365, Predicted Relevance Score: 2.084644208837575
 
 Query: PLAIN-671
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4857, Predicted Relevance Score: 1.8795648386638222
 
 Query: PLAIN-681
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-5017, Predicted Relevance Score: 1.5850866244740507
 
 Query: PLAIN-691
+NDCG: 0.5102412279482679
 Top Documents:
 Rank 1: Document ID: MED-2188, Predicted Relevance Score: 2.1415680862204396
 Rank 2: Document ID: MED-2208, Predicted Relevance Score: 2.0402492966224086
@@ -703,6 +766,7 @@ Rank 9: Document ID: MED-2210, Predicted Relevance Score: 1.881787434151139
 Rank 10: Document ID: MED-2189, Predicted Relevance Score: 1.8793730703367777
 
 Query: PLAIN-701
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-3714, Predicted Relevance Score: 1.9532554189440172
 Rank 2: Document ID: MED-3715, Predicted Relevance Score: 1.9367952720722141
@@ -714,6 +778,7 @@ Rank 7: Document ID: MED-3719, Predicted Relevance Score: 1.764340705075165
 Rank 8: Document ID: MED-3718, Predicted Relevance Score: 1.6208901317686233
 
 Query: PLAIN-711
+NDCG: 0.7646364280997495
 Top Documents:
 Rank 1: Document ID: MED-1695, Predicted Relevance Score: 2.110092621777236
 Rank 2: Document ID: MED-1828, Predicted Relevance Score: 2.0636324004405378
@@ -727,6 +792,7 @@ Rank 9: Document ID: MED-398, Predicted Relevance Score: 1.978719278969941
 Rank 10: Document ID: MED-3207, Predicted Relevance Score: 1.978719278969941
 
 Query: PLAIN-721
+NDCG: 0.5767035945544955
 Top Documents:
 Rank 1: Document ID: MED-1268, Predicted Relevance Score: 2.06493578574522
 Rank 2: Document ID: MED-1267, Predicted Relevance Score: 2.046906026258595
@@ -740,6 +806,7 @@ Rank 9: Document ID: MED-1289, Predicted Relevance Score: 1.9748155113083663
 Rank 10: Document ID: MED-1279, Predicted Relevance Score: 1.9670749929897764
 
 Query: PLAIN-731
+NDCG: 0.6511500815682452
 Top Documents:
 Rank 1: Document ID: MED-3086, Predicted Relevance Score: 2.0302749656648134
 Rank 2: Document ID: MED-1339, Predicted Relevance Score: 2.0210387010245214
@@ -753,6 +820,7 @@ Rank 9: Document ID: MED-3092, Predicted Relevance Score: 1.9515667028306853
 Rank 10: Document ID: MED-2987, Predicted Relevance Score: 1.934687834410001
 
 Query: PLAIN-741
+NDCG: 0.7281426790256476
 Top Documents:
 Rank 1: Document ID: MED-5178, Predicted Relevance Score: 2.1882764065299463
 Rank 2: Document ID: MED-5176, Predicted Relevance Score: 2.0677205827296543
@@ -766,6 +834,7 @@ Rank 9: Document ID: MED-5177, Predicted Relevance Score: 1.8739118000407242
 Rank 10: Document ID: MED-4230, Predicted Relevance Score: 1.8213445394364218
 
 Query: PLAIN-751
+NDCG: 0.7479038754406165
 Top Documents:
 Rank 1: Document ID: MED-3143, Predicted Relevance Score: 2.0959088053951223
 Rank 2: Document ID: MED-3129, Predicted Relevance Score: 1.9888900813642916
@@ -779,6 +848,7 @@ Rank 9: Document ID: MED-3132, Predicted Relevance Score: 1.8537579497213077
 Rank 10: Document ID: MED-3127, Predicted Relevance Score: 1.83484128992389
 
 Query: PLAIN-761
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-3799, Predicted Relevance Score: 2.0486828082973343
 Rank 2: Document ID: MED-666, Predicted Relevance Score: 2.0065551322378306
@@ -792,17 +862,20 @@ Rank 9: Document ID: MED-3800, Predicted Relevance Score: 1.9075586274857659
 Rank 10: Document ID: MED-3791, Predicted Relevance Score: 1.8078172959704668
 
 Query: PLAIN-771
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-3387, Predicted Relevance Score: 2.0001595051652634
 Rank 2: Document ID: MED-3385, Predicted Relevance Score: 1.9788289123393743
 Rank 3: Document ID: MED-3386, Predicted Relevance Score: 1.852219178084421
 
 Query: PLAIN-782
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4992, Predicted Relevance Score: 1.9857730308528092
 Rank 2: Document ID: MED-4991, Predicted Relevance Score: 1.7274055521085188
 
 Query: PLAIN-792
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4958, Predicted Relevance Score: 1.9636111670844372
 Rank 2: Document ID: MED-4547, Predicted Relevance Score: 1.9505041594494477
@@ -812,6 +885,7 @@ Rank 5: Document ID: MED-4960, Predicted Relevance Score: 1.9100454531010314
 Rank 6: Document ID: MED-4959, Predicted Relevance Score: 1.8527500705200384
 
 Query: PLAIN-806
+NDCG: 0.5216901755749175
 Top Documents:
 Rank 1: Document ID: MED-3057, Predicted Relevance Score: 2.0990765357549037
 Rank 2: Document ID: MED-3051, Predicted Relevance Score: 2.0831740557453107
@@ -825,10 +899,12 @@ Rank 9: Document ID: MED-2513, Predicted Relevance Score: 1.9698981816811345
 Rank 10: Document ID: MED-3052, Predicted Relevance Score: 1.9578653906669303
 
 Query: PLAIN-817
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4841, Predicted Relevance Score: 1.6440976745210887
 
 Query: PLAIN-827
+NDCG: 0.5944998254029411
 Top Documents:
 Rank 1: Document ID: MED-1597, Predicted Relevance Score: 2.181272262710135
 Rank 2: Document ID: MED-4618, Predicted Relevance Score: 2.133937688388988
@@ -842,6 +918,7 @@ Rank 9: Document ID: MED-2653, Predicted Relevance Score: 2.1025063427223105
 Rank 10: Document ID: MED-4471, Predicted Relevance Score: 2.065178353854383
 
 Query: PLAIN-838
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-3500, Predicted Relevance Score: 2.0528029177240072
 Rank 2: Document ID: MED-3501, Predicted Relevance Score: 2.0099832160662783
@@ -854,6 +931,7 @@ Rank 8: Document ID: MED-3494, Predicted Relevance Score: 1.6452636548789068
 Rank 9: Document ID: MED-3499, Predicted Relevance Score: 1.6285348807844837
 
 Query: PLAIN-850
+NDCG: 0.6648383173741378
 Top Documents:
 Rank 1: Document ID: MED-2064, Predicted Relevance Score: 2.096284926331579
 Rank 2: Document ID: MED-3376, Predicted Relevance Score: 2.0853284598714357
@@ -867,16 +945,19 @@ Rank 9: Document ID: MED-4859, Predicted Relevance Score: 1.9840707969702371
 Rank 10: Document ID: MED-2075, Predicted Relevance Score: 1.9837010415529956
 
 Query: PLAIN-860
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-2490, Predicted Relevance Score: 2.1618246499727816
 Rank 2: Document ID: MED-2491, Predicted Relevance Score: 1.9382421685959754
 Rank 3: Document ID: MED-2492, Predicted Relevance Score: 1.8837510214481463
 
 Query: PLAIN-872
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4650, Predicted Relevance Score: 2.028596222858347
 
 Query: PLAIN-882
+NDCG: 0.5313446056632836
 Top Documents:
 Rank 1: Document ID: MED-3617, Predicted Relevance Score: 2.0549598613919002
 Rank 2: Document ID: MED-3628, Predicted Relevance Score: 1.9974341929861907
@@ -890,6 +971,7 @@ Rank 9: Document ID: MED-3634, Predicted Relevance Score: 1.8558243068113343
 Rank 10: Document ID: MED-3621, Predicted Relevance Score: 1.8512005704175334
 
 Query: PLAIN-892
+NDCG: 0.6620368860339275
 Top Documents:
 Rank 1: Document ID: MED-2254, Predicted Relevance Score: 2.17485199864324
 Rank 2: Document ID: MED-3143, Predicted Relevance Score: 2.0959088053951223
@@ -903,6 +985,7 @@ Rank 9: Document ID: MED-3129, Predicted Relevance Score: 1.9888900813642916
 Rank 10: Document ID: MED-2988, Predicted Relevance Score: 1.9828425190942764
 
 Query: PLAIN-902
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4196, Predicted Relevance Score: 1.951271411959471
 Rank 2: Document ID: MED-4194, Predicted Relevance Score: 1.937477392745282
@@ -910,6 +993,7 @@ Rank 3: Document ID: MED-4195, Predicted Relevance Score: 1.8999912094782971
 Rank 4: Document ID: MED-4197, Predicted Relevance Score: 1.8026848476319581
 
 Query: PLAIN-913
+NDCG: 0.7274273388319192
 Top Documents:
 Rank 1: Document ID: MED-759, Predicted Relevance Score: 2.138280004797188
 Rank 2: Document ID: MED-5084, Predicted Relevance Score: 2.098055536915112
@@ -923,6 +1007,7 @@ Rank 9: Document ID: MED-5000, Predicted Relevance Score: 1.9028344544550837
 Rank 10: Document ID: MED-3543, Predicted Relevance Score: 1.8836668282651585
 
 Query: PLAIN-924
+NDCG: 0.7200285765960784
 Top Documents:
 Rank 1: Document ID: MED-3057, Predicted Relevance Score: 2.0990765357549037
 Rank 2: Document ID: MED-3051, Predicted Relevance Score: 2.0831740557453107
@@ -936,6 +1021,7 @@ Rank 9: Document ID: MED-3052, Predicted Relevance Score: 1.9578653906669303
 Rank 10: Document ID: MED-3055, Predicted Relevance Score: 1.954156396963842
 
 Query: PLAIN-934
+NDCG: 0.7444702919422874
 Top Documents:
 Rank 1: Document ID: MED-5049, Predicted Relevance Score: 2.1868393662020105
 Rank 2: Document ID: MED-2178, Predicted Relevance Score: 2.070077058230191
@@ -949,6 +1035,7 @@ Rank 9: Document ID: MED-4774, Predicted Relevance Score: 2.016525380361812
 Rank 10: Document ID: MED-2161, Predicted Relevance Score: 2.016044591915928
 
 Query: PLAIN-946
+NDCG: 0.5946359552001419
 Top Documents:
 Rank 1: Document ID: MED-4380, Predicted Relevance Score: 2.119832797626258
 Rank 2: Document ID: MED-4381, Predicted Relevance Score: 2.099640728655838
@@ -962,6 +1049,7 @@ Rank 9: Document ID: MED-3306, Predicted Relevance Score: 1.9201300594460398
 Rank 10: Document ID: MED-3313, Predicted Relevance Score: 1.9101210725335758
 
 Query: PLAIN-956
+NDCG: 0.669826250984659
 Top Documents:
 Rank 1: Document ID: MED-3182, Predicted Relevance Score: 1.5529428403685244
 Rank 2: Document ID: MED-2188, Predicted Relevance Score: 1.548703587724384
@@ -975,6 +1063,7 @@ Rank 9: Document ID: MED-3377, Predicted Relevance Score: 1.5151804790495547
 Rank 10: Document ID: MED-2181, Predicted Relevance Score: 1.5051409195833323
 
 Query: PLAIN-966
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4103, Predicted Relevance Score: 1.8287623740708705
 Rank 2: Document ID: MED-5339, Predicted Relevance Score: 1.7276177376025903
@@ -988,23 +1077,27 @@ Rank 9: Document ID: MED-5363, Predicted Relevance Score: 1.5611603731495702
 Rank 10: Document ID: MED-4853, Predicted Relevance Score: 1.5501621946368798
 
 Query: PLAIN-977
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4400, Predicted Relevance Score: 1.9234075189155764
 Rank 2: Document ID: MED-4399, Predicted Relevance Score: 1.9219300113241036
 Rank 3: Document ID: MED-4402, Predicted Relevance Score: 1.8630807602520787
 
 Query: PLAIN-987
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-735, Predicted Relevance Score: 1.84983692382524
 Rank 2: Document ID: MED-2831, Predicted Relevance Score: 1.814569584222161
 Rank 3: Document ID: MED-2830, Predicted Relevance Score: 1.7580717872873814
 
 Query: PLAIN-997
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4184, Predicted Relevance Score: 1.8961594842041525
 Rank 2: Document ID: MED-5140, Predicted Relevance Score: 1.5324961777337545
 
 Query: PLAIN-1008
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4534, Predicted Relevance Score: 2.029980353693798
 Rank 2: Document ID: MED-4533, Predicted Relevance Score: 1.9699452997531566
@@ -1013,6 +1106,7 @@ Rank 4: Document ID: MED-4536, Predicted Relevance Score: 1.8033756609084752
 Rank 5: Document ID: MED-4532, Predicted Relevance Score: 1.7684150134198557
 
 Query: PLAIN-1018
+NDCG: 0.7035970117234255
 Top Documents:
 Rank 1: Document ID: MED-5093, Predicted Relevance Score: 2.1779514862893103
 Rank 2: Document ID: MED-5097, Predicted Relevance Score: 2.143579315666178
@@ -1026,15 +1120,18 @@ Rank 9: Document ID: MED-3012, Predicted Relevance Score: 2.0488222678331707
 Rank 10: Document ID: MED-4933, Predicted Relevance Score: 2.043464933329385
 
 Query: PLAIN-1028
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4686, Predicted Relevance Score: 2.031128257413009
 
 Query: PLAIN-1039
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4380, Predicted Relevance Score: 2.1601459901874867
 Rank 2: Document ID: MED-4381, Predicted Relevance Score: 2.1399539212170664
 
 Query: PLAIN-1050
+NDCG: 0.6732586108387697
 Top Documents:
 Rank 1: Document ID: MED-3729, Predicted Relevance Score: 2.029424833256285
 Rank 2: Document ID: MED-1921, Predicted Relevance Score: 2.025959794794681
@@ -1048,6 +1145,7 @@ Rank 9: Document ID: MED-1920, Predicted Relevance Score: 1.9394041737538419
 Rank 10: Document ID: MED-1397, Predicted Relevance Score: 1.9344014678253436
 
 Query: PLAIN-1066
+NDCG: 0.6457233117330065
 Top Documents:
 Rank 1: Document ID: MED-4002, Predicted Relevance Score: 2.051955241574056
 Rank 2: Document ID: MED-4000, Predicted Relevance Score: 2.021630521568771
@@ -1061,6 +1159,7 @@ Rank 9: Document ID: MED-5322, Predicted Relevance Score: 1.7100668797571523
 Rank 10: Document ID: MED-5333, Predicted Relevance Score: 1.6808543826731863
 
 Query: PLAIN-1078
+NDCG: 0.6242412631956105
 Top Documents:
 Rank 1: Document ID: MED-5339, Predicted Relevance Score: 1.7276177376025903
 Rank 2: Document ID: MED-5322, Predicted Relevance Score: 1.7100668797571523
@@ -1074,6 +1173,7 @@ Rank 9: Document ID: MED-5326, Predicted Relevance Score: 1.5456886532756522
 Rank 10: Document ID: MED-5331, Predicted Relevance Score: 1.5388748715197655
 
 Query: PLAIN-1088
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-2111, Predicted Relevance Score: 1.9261276079817837
 Rank 2: Document ID: MED-2110, Predicted Relevance Score: 1.8810774406542334
@@ -1082,6 +1182,7 @@ Rank 4: Document ID: MED-2112, Predicted Relevance Score: 1.8508188983923441
 Rank 5: Document ID: MED-4255, Predicted Relevance Score: 1.706896813527939
 
 Query: PLAIN-1098
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-3806, Predicted Relevance Score: 2.0113926224274117
 Rank 2: Document ID: MED-3807, Predicted Relevance Score: 2.005176901099599
@@ -1090,6 +1191,7 @@ Rank 4: Document ID: MED-3808, Predicted Relevance Score: 1.9848765896357041
 Rank 5: Document ID: MED-3809, Predicted Relevance Score: 1.5614099464582194
 
 Query: PLAIN-1109
+NDCG: 0.7626711513055738
 Top Documents:
 Rank 1: Document ID: MED-1597, Predicted Relevance Score: 2.1928544246895685
 Rank 2: Document ID: MED-2653, Predicted Relevance Score: 2.114088504701744
@@ -1103,6 +1205,7 @@ Rank 9: Document ID: MED-2661, Predicted Relevance Score: 2.0103595132118315
 Rank 10: Document ID: MED-4937, Predicted Relevance Score: 2.0003643579839556
 
 Query: PLAIN-1119
+NDCG: 0.6788959826019854
 Top Documents:
 Rank 1: Document ID: MED-3785, Predicted Relevance Score: 2.3249830811773755
 Rank 2: Document ID: MED-3783, Predicted Relevance Score: 2.271256771880795
@@ -1116,10 +1219,12 @@ Rank 9: Document ID: MED-5322, Predicted Relevance Score: 2.0507043958710818
 Rank 10: Document ID: MED-3790, Predicted Relevance Score: 2.0341412584240173
 
 Query: PLAIN-1130
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4165, Predicted Relevance Score: 1.9716733645907647
 
 Query: PLAIN-1141
+NDCG: 0.7397555239468224
 Top Documents:
 Rank 1: Document ID: MED-1500, Predicted Relevance Score: 2.0347859937631627
 Rank 2: Document ID: MED-2111, Predicted Relevance Score: 2.015960729738287
@@ -1133,6 +1238,7 @@ Rank 9: Document ID: MED-1506, Predicted Relevance Score: 1.9292918733002171
 Rank 10: Document ID: MED-1504, Predicted Relevance Score: 1.921777468896302
 
 Query: PLAIN-1151
+NDCG: 0.6785564440769338
 Top Documents:
 Rank 1: Document ID: MED-2698, Predicted Relevance Score: 2.109005417458497
 Rank 2: Document ID: MED-2693, Predicted Relevance Score: 2.0811335434670806
@@ -1146,10 +1252,12 @@ Rank 9: Document ID: MED-1958, Predicted Relevance Score: 2.0526424720261596
 Rank 10: Document ID: MED-1219, Predicted Relevance Score: 2.050545598929564
 
 Query: PLAIN-1161
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4281, Predicted Relevance Score: 1.7321553404059218
 
 Query: PLAIN-1172
+NDCG: 0.5936792004145703
 Top Documents:
 Rank 1: Document ID: MED-3526, Predicted Relevance Score: 2.1888520503565383
 Rank 2: Document ID: MED-3533, Predicted Relevance Score: 2.1206956952577265
@@ -1163,6 +1271,7 @@ Rank 9: Document ID: MED-3519, Predicted Relevance Score: 1.9773518986308416
 Rank 10: Document ID: MED-3521, Predicted Relevance Score: 1.9296346217819078
 
 Query: PLAIN-1183
+NDCG: 0.5767035945544955
 Top Documents:
 Rank 1: Document ID: MED-1268, Predicted Relevance Score: 2.06493578574522
 Rank 2: Document ID: MED-1267, Predicted Relevance Score: 2.046906026258595
@@ -1176,6 +1285,7 @@ Rank 9: Document ID: MED-1287, Predicted Relevance Score: 1.9367191626534164
 Rank 10: Document ID: MED-4071, Predicted Relevance Score: 1.9333199054056573
 
 Query: PLAIN-1193
+NDCG: 0.6387560628024715
 Top Documents:
 Rank 1: Document ID: MED-5178, Predicted Relevance Score: 2.1882764065299463
 Rank 2: Document ID: MED-5176, Predicted Relevance Score: 2.0677205827296543
@@ -1189,6 +1299,7 @@ Rank 9: Document ID: MED-4004, Predicted Relevance Score: 1.871965524255029
 Rank 10: Document ID: MED-4007, Predicted Relevance Score: 1.8471828988132752
 
 Query: PLAIN-1203
+NDCG: 0.4901639939732687
 Top Documents:
 Rank 1: Document ID: MED-1203, Predicted Relevance Score: 2.1447122365507734
 Rank 2: Document ID: MED-4771, Predicted Relevance Score: 2.122951859470012
@@ -1202,6 +1313,7 @@ Rank 9: Document ID: MED-1196, Predicted Relevance Score: 1.8505573409181242
 Rank 10: Document ID: MED-1201, Predicted Relevance Score: 1.8462819905255814
 
 Query: PLAIN-1214
+NDCG: 0.5857860666409547
 Top Documents:
 Rank 1: Document ID: MED-4319, Predicted Relevance Score: 2.020622192618792
 Rank 2: Document ID: MED-2989, Predicted Relevance Score: 1.9888952230576191
@@ -1215,6 +1327,7 @@ Rank 9: Document ID: MED-2979, Predicted Relevance Score: 1.8368144318377964
 Rank 10: Document ID: MED-2984, Predicted Relevance Score: 1.832310743183972
 
 Query: PLAIN-1225
+NDCG: 0.6120899864491238
 Top Documents:
 Rank 1: Document ID: MED-4091, Predicted Relevance Score: 2.2198644625799138
 Rank 2: Document ID: MED-1262, Predicted Relevance Score: 2.0410842879126054
@@ -1228,6 +1341,7 @@ Rank 9: Document ID: MED-1706, Predicted Relevance Score: 1.8980819568590264
 Rank 10: Document ID: MED-2033, Predicted Relevance Score: 1.8950450586340328
 
 Query: PLAIN-1236
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-1339, Predicted Relevance Score: 2.0210387010245214
 Rank 2: Document ID: MED-1338, Predicted Relevance Score: 1.8860444459090606
@@ -1236,6 +1350,7 @@ Rank 4: Document ID: MED-1340, Predicted Relevance Score: 1.7006609247957176
 Rank 5: Document ID: MED-1341, Predicted Relevance Score: 1.699169299575392
 
 Query: PLAIN-1249
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4756, Predicted Relevance Score: 2.2209684932088134
 Rank 2: Document ID: MED-4757, Predicted Relevance Score: 2.069782185180368
@@ -1243,6 +1358,7 @@ Rank 3: Document ID: MED-4755, Predicted Relevance Score: 1.8842535632310047
 Rank 4: Document ID: MED-4753, Predicted Relevance Score: 1.8424228879237123
 
 Query: PLAIN-1262
+NDCG: 0.7782930571124197
 Top Documents:
 Rank 1: Document ID: MED-2079, Predicted Relevance Score: 1.811294456349306
 Rank 2: Document ID: MED-2085, Predicted Relevance Score: 1.794382162512402
@@ -1256,6 +1372,7 @@ Rank 9: Document ID: MED-5293, Predicted Relevance Score: 1.4760290690477738
 Rank 10: Document ID: MED-5303, Predicted Relevance Score: 1.4180799271290583
 
 Query: PLAIN-1275
+NDCG: 0.716706572498131
 Top Documents:
 Rank 1: Document ID: MED-3526, Predicted Relevance Score: 2.1888520503565383
 Rank 2: Document ID: MED-3533, Predicted Relevance Score: 2.1206956952577265
@@ -1269,6 +1386,7 @@ Rank 9: Document ID: MED-3604, Predicted Relevance Score: 2.029522324093689
 Rank 10: Document ID: MED-3601, Predicted Relevance Score: 2.0206627586020964
 
 Query: PLAIN-1288
+NDCG: 0.5697938284755673
 Top Documents:
 Rank 1: Document ID: MED-1533, Predicted Relevance Score: 2.203666722474583
 Rank 2: Document ID: MED-1538, Predicted Relevance Score: 2.188192959662167
@@ -1282,6 +1400,7 @@ Rank 9: Document ID: MED-3746, Predicted Relevance Score: 2.0800791490268002
 Rank 10: Document ID: MED-4585, Predicted Relevance Score: 2.0645252722055583
 
 Query: PLAIN-1299
+NDCG: 0.6539320426285814
 Top Documents:
 Rank 1: Document ID: MED-3558, Predicted Relevance Score: 2.079292288904663
 Rank 2: Document ID: MED-3888, Predicted Relevance Score: 2.075159393434098
@@ -1295,6 +1414,7 @@ Rank 9: Document ID: MED-4749, Predicted Relevance Score: 1.9723277566786752
 Rank 10: Document ID: MED-2087, Predicted Relevance Score: 1.9602394834369823
 
 Query: PLAIN-1309
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4380, Predicted Relevance Score: 2.119832797626258
 Rank 2: Document ID: MED-4381, Predicted Relevance Score: 2.099640728655838
@@ -1302,6 +1422,7 @@ Rank 3: Document ID: MED-4183, Predicted Relevance Score: 1.9105655314906083
 Rank 4: Document ID: MED-4182, Predicted Relevance Score: 1.8328910760991062
 
 Query: PLAIN-1320
+NDCG: 0.9541788851796539
 Top Documents:
 Rank 1: Document ID: MED-2758, Predicted Relevance Score: 1.8707995791207148
 Rank 2: Document ID: MED-2762, Predicted Relevance Score: 1.8132235918989639
@@ -1315,6 +1436,7 @@ Rank 9: Document ID: MED-5340, Predicted Relevance Score: 1.4831723847335545
 Rank 10: Document ID: MED-5334, Predicted Relevance Score: 1.4759792821681732
 
 Query: PLAIN-1331
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-3025, Predicted Relevance Score: 2.0744259732490757
 Rank 2: Document ID: MED-3034, Predicted Relevance Score: 2.071363637413141
@@ -1328,6 +1450,7 @@ Rank 9: Document ID: MED-3019, Predicted Relevance Score: 1.990333777564094
 Rank 10: Document ID: MED-3021, Predicted Relevance Score: 1.987614341452575
 
 Query: PLAIN-1342
+NDCG: 0.516417089877261
 Top Documents:
 Rank 1: Document ID: MED-2254, Predicted Relevance Score: 2.17485199864324
 Rank 2: Document ID: MED-2251, Predicted Relevance Score: 2.0437744070797033
@@ -1341,6 +1464,7 @@ Rank 9: Document ID: MED-2570, Predicted Relevance Score: 1.9263433606192097
 Rank 10: Document ID: MED-2258, Predicted Relevance Score: 1.920205192476822
 
 Query: PLAIN-1353
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-2997, Predicted Relevance Score: 1.807403837647809
 Rank 2: Document ID: MED-3001, Predicted Relevance Score: 1.7951335299660227
@@ -1354,6 +1478,7 @@ Rank 9: Document ID: MED-5334, Predicted Relevance Score: 1.6371096096477709
 Rank 10: Document ID: MED-5323, Predicted Relevance Score: 1.5988582517187013
 
 Query: PLAIN-1363
+NDCG: 0.6170488582648082
 Top Documents:
 Rank 1: Document ID: MED-3617, Predicted Relevance Score: 2.0549598613919002
 Rank 2: Document ID: MED-3627, Predicted Relevance Score: 1.9943047549613508
@@ -1367,6 +1492,7 @@ Rank 9: Document ID: MED-3615, Predicted Relevance Score: 1.7475878454087195
 Rank 10: Document ID: MED-3623, Predicted Relevance Score: 1.7192059577624212
 
 Query: PLAIN-1374
+NDCG: 0.6497898471162045
 Top Documents:
 Rank 1: Document ID: MED-4756, Predicted Relevance Score: 2.3619202905749557
 Rank 2: Document ID: MED-4757, Predicted Relevance Score: 2.21073398254651
@@ -1380,6 +1506,7 @@ Rank 9: Document ID: MED-3091, Predicted Relevance Score: 2.0959607830328846
 Rank 10: Document ID: MED-3092, Predicted Relevance Score: 2.0925185001968276
 
 Query: PLAIN-1387
+NDCG: 0.7474173682745362
 Top Documents:
 Rank 1: Document ID: MED-5062, Predicted Relevance Score: 1.9654998102778665
 Rank 2: Document ID: MED-3381, Predicted Relevance Score: 1.9503906261191035
@@ -1393,6 +1520,7 @@ Rank 9: Document ID: MED-4711, Predicted Relevance Score: 1.861071184955297
 Rank 10: Document ID: MED-5063, Predicted Relevance Score: 1.7936452576330255
 
 Query: PLAIN-1398
+NDCG: 0.5216901755749175
 Top Documents:
 Rank 1: Document ID: MED-3558, Predicted Relevance Score: 2.079292288904663
 Rank 2: Document ID: MED-1647, Predicted Relevance Score: 2.060120377936252
@@ -1406,6 +1534,7 @@ Rank 9: Document ID: MED-2513, Predicted Relevance Score: 1.9698981816811345
 Rank 10: Document ID: MED-4060, Predicted Relevance Score: 1.9688480291196782
 
 Query: PLAIN-1409
+NDCG: 0.7626711513055738
 Top Documents:
 Rank 1: Document ID: MED-4167, Predicted Relevance Score: 2.2111983371832435
 Rank 2: Document ID: MED-1597, Predicted Relevance Score: 2.1928544246895685
@@ -1419,6 +1548,7 @@ Rank 9: Document ID: MED-1959, Predicted Relevance Score: 2.0752887467792256
 Rank 10: Document ID: MED-3025, Predicted Relevance Score: 2.0744259732490757
 
 Query: PLAIN-1419
+NDCG: 0.65797330733478
 Top Documents:
 Rank 1: Document ID: MED-1151, Predicted Relevance Score: 2.101854612461919
 Rank 2: Document ID: MED-4357, Predicted Relevance Score: 2.046395440439042
@@ -1432,6 +1562,7 @@ Rank 9: Document ID: MED-2368, Predicted Relevance Score: 1.948114034712921
 Rank 10: Document ID: MED-3282, Predicted Relevance Score: 1.9427979439718621
 
 Query: PLAIN-1429
+NDCG: 0.9541788851796539
 Top Documents:
 Rank 1: Document ID: MED-2758, Predicted Relevance Score: 1.9052135312493603
 Rank 2: Document ID: MED-2762, Predicted Relevance Score: 1.8476375440276094
@@ -1445,6 +1576,7 @@ Rank 9: Document ID: MED-3231, Predicted Relevance Score: 1.6201404256231058
 Rank 10: Document ID: MED-3220, Predicted Relevance Score: 1.6107284281716454
 
 Query: PLAIN-1441
+NDCG: 0.5216901755749175
 Top Documents:
 Rank 1: Document ID: MED-2254, Predicted Relevance Score: 2.17485199864324
 Rank 2: Document ID: MED-3442, Predicted Relevance Score: 2.1619224258160763
@@ -1458,6 +1590,7 @@ Rank 9: Document ID: MED-3445, Predicted Relevance Score: 2.0514292054535637
 Rank 10: Document ID: MED-2251, Predicted Relevance Score: 2.0437744070797033
 
 Query: PLAIN-1453
+NDCG: 0.4513745613582657
 Top Documents:
 Rank 1: Document ID: MED-1533, Predicted Relevance Score: 2.2459533829968055
 Rank 2: Document ID: MED-1538, Predicted Relevance Score: 2.2304796201843895
@@ -1471,6 +1604,7 @@ Rank 9: Document ID: MED-3057, Predicted Relevance Score: 2.1413631962771262
 Rank 10: Document ID: MED-2181, Predicted Relevance Score: 2.14029207860161
 
 Query: PLAIN-1463
+NDCG: 0.5541694271619078
 Top Documents:
 Rank 1: Document ID: MED-4523, Predicted Relevance Score: 2.0992206756786835
 Rank 2: Document ID: MED-3143, Predicted Relevance Score: 2.0959088053951223
@@ -1484,10 +1618,12 @@ Rank 9: Document ID: MED-3140, Predicted Relevance Score: 1.9231142098646699
 Rank 10: Document ID: MED-3142, Predicted Relevance Score: 1.9094066858643355
 
 Query: PLAIN-1473
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4455, Predicted Relevance Score: 1.8082565134385242
 
 Query: PLAIN-1485
+NDCG: 0.5168364151408673
 Top Documents:
 Rank 1: Document ID: MED-2653, Predicted Relevance Score: 2.114088504701744
 Rank 2: Document ID: MED-2654, Predicted Relevance Score: 2.0520639516863253
@@ -1501,11 +1637,13 @@ Rank 9: Document ID: MED-2646, Predicted Relevance Score: 1.9854162593401021
 Rank 10: Document ID: MED-3785, Predicted Relevance Score: 1.984345565063446
 
 Query: PLAIN-1496
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4859, Predicted Relevance Score: 2.0074291420019756
 Rank 2: Document ID: MED-2098, Predicted Relevance Score: 1.8318229707221534
 
 Query: PLAIN-1506
+NDCG: 0.5216901755749175
 Top Documents:
 Rank 1: Document ID: MED-2509, Predicted Relevance Score: 2.0210812321325244
 Rank 2: Document ID: MED-2513, Predicted Relevance Score: 1.9583160197017009
@@ -1519,11 +1657,13 @@ Rank 9: Document ID: MED-2517, Predicted Relevance Score: 1.8046667287011913
 Rank 10: Document ID: MED-2510, Predicted Relevance Score: 1.797058157710565
 
 Query: PLAIN-1516
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-5104, Predicted Relevance Score: 1.9777432266273989
 Rank 2: Document ID: MED-5102, Predicted Relevance Score: 1.925789837745768
 
 Query: PLAIN-1527
+NDCG: 0.6055688881739806
 Top Documents:
 Rank 1: Document ID: MED-3734, Predicted Relevance Score: 2.179257374481128
 Rank 2: Document ID: MED-4119, Predicted Relevance Score: 2.1171817798748958
@@ -1537,6 +1677,7 @@ Rank 9: Document ID: MED-2178, Predicted Relevance Score: 2.0837889945046615
 Rank 10: Document ID: MED-2782, Predicted Relevance Score: 2.0816029779069583
 
 Query: PLAIN-1537
+NDCG: 0.7433198984534606
 Top Documents:
 Rank 1: Document ID: MED-1471, Predicted Relevance Score: 2.0421142211647973
 Rank 2: Document ID: MED-1472, Predicted Relevance Score: 2.0347604604503977
@@ -1550,6 +1691,7 @@ Rank 9: Document ID: MED-3784, Predicted Relevance Score: 1.9491829597752457
 Rank 10: Document ID: MED-1476, Predicted Relevance Score: 1.933452212971653
 
 Query: PLAIN-1547
+NDCG: 0.9464494030389339
 Top Documents:
 Rank 1: Document ID: MED-2368, Predicted Relevance Score: 1.9618259709873918
 Rank 2: Document ID: MED-2362, Predicted Relevance Score: 1.927758618834651
@@ -1563,6 +1705,7 @@ Rank 9: Document ID: MED-2354, Predicted Relevance Score: 1.834629584192039
 Rank 10: Document ID: MED-2352, Predicted Relevance Score: 1.8301763673043545
 
 Query: PLAIN-1557
+NDCG: 0.628040725915213
 Top Documents:
 Rank 1: Document ID: MED-3143, Predicted Relevance Score: 2.0959088053951223
 Rank 2: Document ID: MED-3922, Predicted Relevance Score: 2.0863109697717883
@@ -1576,11 +1719,13 @@ Rank 9: Document ID: MED-3924, Predicted Relevance Score: 1.91129627716296
 Rank 10: Document ID: MED-3142, Predicted Relevance Score: 1.9094066858643355
 
 Query: PLAIN-1568
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-5056, Predicted Relevance Score: 2.141854792854731
 Rank 2: Document ID: MED-4150, Predicted Relevance Score: 1.8685076999420471
 
 Query: PLAIN-1579
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4665, Predicted Relevance Score: 1.9918258408845473
 Rank 2: Document ID: MED-5109, Predicted Relevance Score: 1.9672557570107385
@@ -1589,6 +1734,7 @@ Rank 4: Document ID: MED-4667, Predicted Relevance Score: 1.7519214297795747
 Rank 5: Document ID: MED-4666, Predicted Relevance Score: 1.7253262055624112
 
 Query: PLAIN-1590
+NDCG: 0.6745902159887724
 Top Documents:
 Rank 1: Document ID: MED-3606, Predicted Relevance Score: 2.080023198841251
 Rank 2: Document ID: MED-3602, Predicted Relevance Score: 2.0386039852454108
@@ -1602,6 +1748,7 @@ Rank 9: Document ID: MED-3610, Predicted Relevance Score: 1.9237558733132163
 Rank 10: Document ID: MED-2525, Predicted Relevance Score: 1.8964085686610985
 
 Query: PLAIN-1601
+NDCG: 0.5168364151408673
 Top Documents:
 Rank 1: Document ID: MED-4380, Predicted Relevance Score: 2.119832797626258
 Rank 2: Document ID: MED-2653, Predicted Relevance Score: 2.114088504701744
@@ -1615,6 +1762,7 @@ Rank 9: Document ID: MED-3539, Predicted Relevance Score: 2.002727712461279
 Rank 10: Document ID: MED-2647, Predicted Relevance Score: 1.9944490465766287
 
 Query: PLAIN-1611
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-2678, Predicted Relevance Score: 2.02782511594476
 Rank 2: Document ID: MED-2679, Predicted Relevance Score: 2.0017225259566143
@@ -1624,6 +1772,7 @@ Rank 5: Document ID: MED-2674, Predicted Relevance Score: 1.85835964302266
 Rank 6: Document ID: MED-2677, Predicted Relevance Score: 1.8549596814845652
 
 Query: PLAIN-1621
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4835, Predicted Relevance Score: 2.06306081723064
 Rank 2: Document ID: MED-4832, Predicted Relevance Score: 1.960744726967615
@@ -1637,6 +1786,7 @@ Rank 9: Document ID: MED-5334, Predicted Relevance Score: 1.6371096096477709
 Rank 10: Document ID: MED-5323, Predicted Relevance Score: 1.5988582517187013
 
 Query: PLAIN-1635
+NDCG: 0.5168364151408673
 Top Documents:
 Rank 1: Document ID: MED-4901, Predicted Relevance Score: 2.248648087766254
 Rank 2: Document ID: MED-4756, Predicted Relevance Score: 2.2209684932088134
@@ -1650,6 +1800,7 @@ Rank 9: Document ID: MED-3751, Predicted Relevance Score: 2.0821168157257044
 Rank 10: Document ID: MED-3146, Predicted Relevance Score: 2.0801911781321376
 
 Query: PLAIN-1645
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-5056, Predicted Relevance Score: 2.141854792854731
 Rank 2: Document ID: MED-1494, Predicted Relevance Score: 1.9907577904608482
@@ -1659,6 +1810,7 @@ Rank 5: Document ID: MED-1492, Predicted Relevance Score: 1.8710693940560483
 Rank 6: Document ID: MED-1493, Predicted Relevance Score: 1.8088195138282557
 
 Query: PLAIN-1656
+NDCG: 0.5493398616557179
 Top Documents:
 Rank 1: Document ID: MED-5020, Predicted Relevance Score: 2.2241876429095617
 Rank 2: Document ID: MED-4842, Predicted Relevance Score: 2.2090650296835257
@@ -1672,6 +1824,7 @@ Rank 9: Document ID: MED-4037, Predicted Relevance Score: 2.0631066102751126
 Rank 10: Document ID: MED-4741, Predicted Relevance Score: 2.032834906416305
 
 Query: PLAIN-1667
+NDCG: 0.5110478762816784
 Top Documents:
 Rank 1: Document ID: MED-3526, Predicted Relevance Score: 2.198603541605146
 Rank 2: Document ID: MED-3182, Predicted Relevance Score: 2.1555588301131876
@@ -1685,12 +1838,14 @@ Rank 9: Document ID: MED-3531, Predicted Relevance Score: 2.050719289430489
 Rank 10: Document ID: MED-2280, Predicted Relevance Score: 2.022555869103325
 
 Query: PLAIN-1679
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4724, Predicted Relevance Score: 1.949026882839932
 Rank 2: Document ID: MED-5130, Predicted Relevance Score: 1.8768472685059254
 Rank 3: Document ID: MED-5142, Predicted Relevance Score: 1.8175280161515248
 
 Query: PLAIN-1690
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-3599, Predicted Relevance Score: 1.9597364962094772
 Rank 2: Document ID: MED-4804, Predicted Relevance Score: 1.9123859540160602
@@ -1704,6 +1859,7 @@ Rank 9: Document ID: MED-5334, Predicted Relevance Score: 1.6255274476683372
 Rank 10: Document ID: MED-5323, Predicted Relevance Score: 1.5872760897392677
 
 Query: PLAIN-1700
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-2765, Predicted Relevance Score: 1.8148049541320823
 Rank 2: Document ID: MED-2997, Predicted Relevance Score: 1.807403837647809
@@ -1712,6 +1868,7 @@ Rank 4: Document ID: MED-2999, Predicted Relevance Score: 1.7892723438267215
 Rank 5: Document ID: MED-3000, Predicted Relevance Score: 1.7869310110391687
 
 Query: PLAIN-1710
+NDCG: 0.4501795412023711
 Top Documents:
 Rank 1: Document ID: MED-3182, Predicted Relevance Score: 2.14580733886458
 Rank 2: Document ID: MED-3174, Predicted Relevance Score: 1.9922788540336456
@@ -1725,6 +1882,7 @@ Rank 9: Document ID: MED-3176, Predicted Relevance Score: 1.876518595022522
 Rank 10: Document ID: MED-3178, Predicted Relevance Score: 1.8629461701813244
 
 Query: PLAIN-1721
+NDCG: 0.5588085771056226
 Top Documents:
 Rank 1: Document ID: MED-1631, Predicted Relevance Score: 1.8900125869751896
 Rank 2: Document ID: MED-1605, Predicted Relevance Score: 1.8760417485120502
@@ -1738,6 +1896,7 @@ Rank 9: Document ID: MED-1603, Predicted Relevance Score: 1.7550885695610767
 Rank 10: Document ID: MED-4824, Predicted Relevance Score: 1.7437743870147666
 
 Query: PLAIN-1731
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-2747, Predicted Relevance Score: 1.9066863055546106
 Rank 2: Document ID: MED-2748, Predicted Relevance Score: 1.8669189443424046
@@ -1751,6 +1910,7 @@ Rank 9: Document ID: MED-5323, Predicted Relevance Score: 1.5988582517187013
 Rank 10: Document ID: MED-5332, Predicted Relevance Score: 1.5785188263360799
 
 Query: PLAIN-1741
+NDCG: 0.5823150139110678
 Top Documents:
 Rank 1: Document ID: MED-3526, Predicted Relevance Score: 2.1888520503565383
 Rank 2: Document ID: MED-2254, Predicted Relevance Score: 2.17485199864324
@@ -1764,10 +1924,12 @@ Rank 9: Document ID: MED-3852, Predicted Relevance Score: 2.0764283106365604
 Rank 10: Document ID: MED-4705, Predicted Relevance Score: 2.074137919463365
 
 Query: PLAIN-1752
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-2098, Predicted Relevance Score: 1.8318229707221534
 
 Query: PLAIN-1762
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-3714, Predicted Relevance Score: 1.9532554189440172
 Rank 2: Document ID: MED-3715, Predicted Relevance Score: 1.9367952720722141
@@ -1779,6 +1941,7 @@ Rank 7: Document ID: MED-3719, Predicted Relevance Score: 1.764340705075165
 Rank 8: Document ID: MED-3718, Predicted Relevance Score: 1.6208901317686233
 
 Query: PLAIN-1772
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4727, Predicted Relevance Score: 1.944715752676343
 Rank 2: Document ID: MED-4728, Predicted Relevance Score: 1.8088296236237467
@@ -1792,16 +1955,19 @@ Rank 9: Document ID: MED-5332, Predicted Relevance Score: 1.5785188263360799
 Rank 10: Document ID: MED-5363, Predicted Relevance Score: 1.5611603731495702
 
 Query: PLAIN-1784
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4689, Predicted Relevance Score: 1.8865838281113416
 Rank 2: Document ID: MED-4687, Predicted Relevance Score: 1.5419530718337624
 
 Query: PLAIN-1794
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-5041, Predicted Relevance Score: 1.8225589150399935
 Rank 2: Document ID: MED-5042, Predicted Relevance Score: 1.797912895130346
 
 Query: PLAIN-1805
+NDCG: 0.722462315312113
 Top Documents:
 Rank 1: Document ID: MED-2178, Predicted Relevance Score: 2.0837889945046615
 Rank 2: Document ID: MED-1268, Predicted Relevance Score: 2.078647722019691
@@ -1815,6 +1981,7 @@ Rank 9: Document ID: MED-2171, Predicted Relevance Score: 2.0196014690479918
 Rank 10: Document ID: MED-2166, Predicted Relevance Score: 2.018874511119654
 
 Query: PLAIN-1817
+NDCG: 0.6824906751813449
 Top Documents:
 Rank 1: Document ID: MED-4706, Predicted Relevance Score: 2.127341025814874
 Rank 2: Document ID: MED-3376, Predicted Relevance Score: 2.108686804903174
@@ -1828,12 +1995,14 @@ Rank 9: Document ID: MED-4196, Predicted Relevance Score: 1.951271411959471
 Rank 10: Document ID: MED-3371, Predicted Relevance Score: 1.9493215772006007
 
 Query: PLAIN-1827
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4540, Predicted Relevance Score: 2.002077639070139
 Rank 2: Document ID: MED-4539, Predicted Relevance Score: 1.9684998493597223
 Rank 3: Document ID: MED-4541, Predicted Relevance Score: 1.8451210455742058
 
 Query: PLAIN-1837
+NDCG: 0.807394539250222
 Top Documents:
 Rank 1: Document ID: MED-1741, Predicted Relevance Score: 2.1698594160217537
 Rank 2: Document ID: MED-1182, Predicted Relevance Score: 2.1483425405164107
@@ -1847,6 +2016,7 @@ Rank 9: Document ID: MED-4943, Predicted Relevance Score: 2.058337141050247
 Rank 10: Document ID: MED-5055, Predicted Relevance Score: 2.0495332398768045
 
 Query: PLAIN-1847
+NDCG: 0.6519365484479006
 Top Documents:
 Rank 1: Document ID: MED-4002, Predicted Relevance Score: 2.051955241574056
 Rank 2: Document ID: MED-4000, Predicted Relevance Score: 2.021630521568771
@@ -1860,6 +2030,7 @@ Rank 9: Document ID: MED-3982, Predicted Relevance Score: 1.6761666084201066
 Rank 10: Document ID: MED-4006, Predicted Relevance Score: 1.674378637038971
 
 Query: PLAIN-1857
+NDCG: 0.5823150139110678
 Top Documents:
 Rank 1: Document ID: MED-2254, Predicted Relevance Score: 2.2151651912044685
 Rank 2: Document ID: MED-2251, Predicted Relevance Score: 2.0840875996409323
@@ -1873,6 +2044,7 @@ Rank 9: Document ID: MED-3091, Predicted Relevance Score: 1.995322178227971
 Rank 10: Document ID: MED-3092, Predicted Relevance Score: 1.991879895391914
 
 Query: PLAIN-1867
+NDCG: 0.9559317550011499
 Top Documents:
 Rank 1: Document ID: MED-3746, Predicted Relevance Score: 2.0800791490268002
 Rank 2: Document ID: MED-3745, Predicted Relevance Score: 2.0203489854283387
@@ -1886,6 +2058,7 @@ Rank 9: Document ID: MED-3547, Predicted Relevance Score: 1.8912697332501827
 Rank 10: Document ID: MED-3542, Predicted Relevance Score: 1.8346152796308428
 
 Query: PLAIN-1877
+NDCG: 0.7016080482210616
 Top Documents:
 Rank 1: Document ID: MED-3852, Predicted Relevance Score: 2.201455467206992
 Rank 2: Document ID: MED-3671, Predicted Relevance Score: 2.1401387541563377
@@ -1899,6 +2072,7 @@ Rank 9: Document ID: MED-3585, Predicted Relevance Score: 2.030983482785101
 Rank 10: Document ID: MED-1125, Predicted Relevance Score: 2.014605892620363
 
 Query: PLAIN-1887
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-5159, Predicted Relevance Score: 1.9756651482917675
 Rank 2: Document ID: MED-5162, Predicted Relevance Score: 1.902735542259873
@@ -1906,11 +2080,13 @@ Rank 3: Document ID: MED-5161, Predicted Relevance Score: 1.867760316211843
 Rank 4: Document ID: MED-5160, Predicted Relevance Score: 1.7816890471575466
 
 Query: PLAIN-1897
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4992, Predicted Relevance Score: 1.9857730308528092
 Rank 2: Document ID: MED-4991, Predicted Relevance Score: 1.7274055521085188
 
 Query: PLAIN-1909
+NDCG: 0.46975618828837845
 Top Documents:
 Rank 1: Document ID: MED-4091, Predicted Relevance Score: 2.2198644625799138
 Rank 2: Document ID: MED-4167, Predicted Relevance Score: 2.2111983371832435
@@ -1924,6 +2100,7 @@ Rank 9: Document ID: MED-4523, Predicted Relevance Score: 2.0992206756786835
 Rank 10: Document ID: MED-1327, Predicted Relevance Score: 2.095172467155089
 
 Query: PLAIN-1919
+NDCG: 0.569760728570598
 Top Documents:
 Rank 1: Document ID: MED-3319, Predicted Relevance Score: 2.072779338377546
 Rank 2: Document ID: MED-3305, Predicted Relevance Score: 2.036752405421674
@@ -1937,6 +2114,7 @@ Rank 9: Document ID: MED-3313, Predicted Relevance Score: 1.9101210725335758
 Rank 10: Document ID: MED-3310, Predicted Relevance Score: 1.9099051542347185
 
 Query: PLAIN-1929
+NDCG: 0.677455871218444
 Top Documents:
 Rank 1: Document ID: MED-4665, Predicted Relevance Score: 1.9259071121753264
 Rank 2: Document ID: MED-4685, Predicted Relevance Score: 1.9159951516732774
@@ -1950,6 +2128,7 @@ Rank 9: Document ID: MED-4513, Predicted Relevance Score: 1.6217868695968383
 Rank 10: Document ID: MED-4511, Predicted Relevance Score: 1.5674854504227556
 
 Query: PLAIN-1940
+NDCG: 0.8307420644900404
 Top Documents:
 Rank 1: Document ID: MED-3799, Predicted Relevance Score: 2.0111915906841134
 Rank 2: Document ID: MED-666, Predicted Relevance Score: 1.9690639146246096
@@ -1963,6 +2142,7 @@ Rank 9: Document ID: MED-3800, Predicted Relevance Score: 1.870067409872545
 Rank 10: Document ID: MED-3791, Predicted Relevance Score: 1.770326078357246
 
 Query: PLAIN-1950
+NDCG: 0.6453363276869243
 Top Documents:
 Rank 1: Document ID: MED-4250, Predicted Relevance Score: 2.0724837779320366
 Rank 2: Document ID: MED-3908, Predicted Relevance Score: 1.9848307543958925
@@ -1976,6 +2156,7 @@ Rank 9: Document ID: MED-3904, Predicted Relevance Score: 1.7744800564754137
 Rank 10: Document ID: MED-5339, Predicted Relevance Score: 1.7276177376025903
 
 Query: PLAIN-1962
+NDCG: 0.45581668184974367
 Top Documents:
 Rank 1: Document ID: MED-3617, Predicted Relevance Score: 2.0549598613919002
 Rank 2: Document ID: MED-3618, Predicted Relevance Score: 1.895599194517483
@@ -1989,6 +2170,7 @@ Rank 9: Document ID: MED-3000, Predicted Relevance Score: 1.7869310110391687
 Rank 10: Document ID: MED-2826, Predicted Relevance Score: 1.7586421394274037
 
 Query: PLAIN-1972
+NDCG: 0.6804380394668189
 Top Documents:
 Rank 1: Document ID: MED-2791, Predicted Relevance Score: 2.0276360938014304
 Rank 2: Document ID: MED-4540, Predicted Relevance Score: 2.002077639070139
@@ -2002,6 +2184,7 @@ Rank 9: Document ID: MED-4541, Predicted Relevance Score: 1.8451210455742058
 Rank 10: Document ID: MED-2800, Predicted Relevance Score: 1.8379075521606563
 
 Query: PLAIN-1983
+NDCG: 0.5216901755749175
 Top Documents:
 Rank 1: Document ID: MED-2509, Predicted Relevance Score: 2.0210812321325244
 Rank 2: Document ID: MED-2138, Predicted Relevance Score: 1.9705432478408231
@@ -2015,6 +2198,7 @@ Rank 9: Document ID: MED-2128, Predicted Relevance Score: 1.8959747044556712
 Rank 10: Document ID: MED-2137, Predicted Relevance Score: 1.8882502229258575
 
 Query: PLAIN-1995
+NDCG: 0.5658846237020648
 Top Documents:
 Rank 1: Document ID: MED-3922, Predicted Relevance Score: 2.0863109697717883
 Rank 2: Document ID: MED-5122, Predicted Relevance Score: 2.0161582418194137
@@ -2028,6 +2212,7 @@ Rank 9: Document ID: MED-3920, Predicted Relevance Score: 1.8810901564266245
 Rank 10: Document ID: MED-3923, Predicted Relevance Score: 1.8747975107496853
 
 Query: PLAIN-2009
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4958, Predicted Relevance Score: 1.9636111670844372
 Rank 2: Document ID: MED-4830, Predicted Relevance Score: 1.9366662034630922
@@ -2039,12 +2224,14 @@ Rank 7: Document ID: MED-5025, Predicted Relevance Score: 1.8130662938700468
 Rank 8: Document ID: MED-4829, Predicted Relevance Score: 1.7915988889436085
 
 Query: PLAIN-2019
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4573, Predicted Relevance Score: 2.0406910036655908
 Rank 2: Document ID: MED-4574, Predicted Relevance Score: 1.951586924639083
 Rank 3: Document ID: MED-4575, Predicted Relevance Score: 1.683007602333767
 
 Query: PLAIN-2030
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4047, Predicted Relevance Score: 2.1207522750012
 Rank 2: Document ID: MED-5116, Predicted Relevance Score: 1.997512764100459
@@ -2054,6 +2241,7 @@ Rank 5: Document ID: MED-4051, Predicted Relevance Score: 1.7782123379162043
 Rank 6: Document ID: MED-4053, Predicted Relevance Score: 1.7453007369854854
 
 Query: PLAIN-2040
+NDCG: 0.5168364151408673
 Top Documents:
 Rank 1: Document ID: MED-5093, Predicted Relevance Score: 2.1779514862893103
 Rank 2: Document ID: MED-5097, Predicted Relevance Score: 2.143579315666178
@@ -2067,6 +2255,7 @@ Rank 9: Document ID: MED-2654, Predicted Relevance Score: 2.0520639516863253
 Rank 10: Document ID: MED-3012, Predicted Relevance Score: 2.0488222678331707
 
 Query: PLAIN-2051
+NDCG: 0.6525574269323241
 Top Documents:
 Rank 1: Document ID: MED-5146, Predicted Relevance Score: 2.2923499259807287
 Rank 2: Document ID: MED-2003, Predicted Relevance Score: 2.248277081051362
@@ -2080,6 +2269,7 @@ Rank 9: Document ID: MED-4029, Predicted Relevance Score: 2.1312127868059254
 Rank 10: Document ID: MED-1765, Predicted Relevance Score: 2.1277514998470295
 
 Query: PLAIN-2061
+NDCG: 0.7626711513055738
 Top Documents:
 Rank 1: Document ID: MED-5093, Predicted Relevance Score: 2.220238146811533
 Rank 2: Document ID: MED-2254, Predicted Relevance Score: 2.2171386591654625
@@ -2093,6 +2283,7 @@ Rank 9: Document ID: MED-2653, Predicted Relevance Score: 2.1563751652239667
 Rank 10: Document ID: MED-2272, Predicted Relevance Score: 2.144901271209534
 
 Query: PLAIN-2071
+NDCG: 0.6365466235016731
 Top Documents:
 Rank 1: Document ID: MED-3526, Predicted Relevance Score: 2.1888520503565383
 Rank 2: Document ID: MED-3533, Predicted Relevance Score: 2.1206956952577265
@@ -2106,10 +2297,12 @@ Rank 9: Document ID: MED-3539, Predicted Relevance Score: 2.002727712461279
 Rank 10: Document ID: MED-3522, Predicted Relevance Score: 1.9884411754564848
 
 Query: PLAIN-2081
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4303, Predicted Relevance Score: 2.0277437013073785
 
 Query: PLAIN-2092
+NDCG: 0.7366843242066491
 Top Documents:
 Rank 1: Document ID: MED-1432, Predicted Relevance Score: 1.985087691852456
 Rank 2: Document ID: MED-1434, Predicted Relevance Score: 1.9402959971339053
@@ -2123,6 +2316,7 @@ Rank 9: Document ID: MED-1431, Predicted Relevance Score: 1.688548750509351
 Rank 10: Document ID: MED-1438, Predicted Relevance Score: 1.5570207411416568
 
 Query: PLAIN-2102
+NDCG: 0.8192453173397565
 Top Documents:
 Rank 1: Document ID: MED-2254, Predicted Relevance Score: 2.17485199864324
 Rank 2: Document ID: MED-4324, Predicted Relevance Score: 2.125409370818804
@@ -2136,10 +2330,12 @@ Rank 9: Document ID: MED-3051, Predicted Relevance Score: 2.0831740557453107
 Rank 10: Document ID: MED-3319, Predicted Relevance Score: 2.072779338377546
 
 Query: PLAIN-2113
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4771, Predicted Relevance Score: 2.092390158157391
 
 Query: PLAIN-2124
+NDCG: 0.573351421488136
 Top Documents:
 Rank 1: Document ID: MED-1526, Predicted Relevance Score: 2.098813322507337
 Rank 2: Document ID: MED-1244, Predicted Relevance Score: 2.084706903925423
@@ -2153,6 +2349,7 @@ Rank 9: Document ID: MED-1524, Predicted Relevance Score: 1.8884139067621495
 Rank 10: Document ID: MED-1523, Predicted Relevance Score: 1.8820317315596657
 
 Query: PLAIN-2134
+NDCG: 0.5100703029878748
 Top Documents:
 Rank 1: Document ID: MED-1580, Predicted Relevance Score: 2.073323063574853
 Rank 2: Document ID: MED-5055, Predicted Relevance Score: 2.061115401856238
@@ -2166,6 +2363,7 @@ Rank 9: Document ID: MED-1578, Predicted Relevance Score: 1.7559098898190024
 Rank 10: Document ID: MED-1576, Predicted Relevance Score: 1.7245748630186082
 
 Query: PLAIN-2145
+NDCG: 0.5995904701279464
 Top Documents:
 Rank 1: Document ID: MED-3922, Predicted Relevance Score: 2.0863109697717883
 Rank 2: Document ID: MED-3919, Predicted Relevance Score: 1.9476147036527947
@@ -2179,6 +2377,7 @@ Rank 9: Document ID: MED-4372, Predicted Relevance Score: 1.7614296119147403
 Rank 10: Document ID: MED-5339, Predicted Relevance Score: 1.7276177376025903
 
 Query: PLAIN-2156
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4869, Predicted Relevance Score: 2.1104446391930405
 Rank 2: Document ID: MED-5055, Predicted Relevance Score: 2.061115401856238
@@ -2188,6 +2387,7 @@ Rank 5: Document ID: MED-4867, Predicted Relevance Score: 1.8372948359899914
 Rank 6: Document ID: MED-5054, Predicted Relevance Score: 1.7846024468355557
 
 Query: PLAIN-2167
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-2488, Predicted Relevance Score: 1.884896840260503
 Rank 2: Document ID: MED-2489, Predicted Relevance Score: 1.8181346614033915
@@ -2201,6 +2401,7 @@ Rank 9: Document ID: MED-5323, Predicted Relevance Score: 1.5988582517187013
 Rank 10: Document ID: MED-5332, Predicted Relevance Score: 1.5785188263360799
 
 Query: PLAIN-2177
+NDCG: 0.7566920593104547
 Top Documents:
 Rank 1: Document ID: MED-1188, Predicted Relevance Score: 2.022475665569687
 Rank 2: Document ID: MED-1418, Predicted Relevance Score: 1.9856836475411899
@@ -2214,6 +2415,7 @@ Rank 9: Document ID: MED-1185, Predicted Relevance Score: 1.8862367470904986
 Rank 10: Document ID: MED-1581, Predicted Relevance Score: 1.8706812181698231
 
 Query: PLAIN-2187
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-1244, Predicted Relevance Score: 2.084706903925423
 Rank 2: Document ID: MED-1247, Predicted Relevance Score: 2.023589018717762
@@ -2226,6 +2428,7 @@ Rank 8: Document ID: MED-1241, Predicted Relevance Score: 1.814460667709269
 Rank 9: Document ID: MED-1245, Predicted Relevance Score: 1.7513272893048353
 
 Query: PLAIN-2197
+NDCG: 0.6338480109042853
 Top Documents:
 Rank 1: Document ID: MED-4091, Predicted Relevance Score: 2.2198644625799138
 Rank 2: Document ID: MED-5056, Predicted Relevance Score: 2.141854792854731
@@ -2239,11 +2442,13 @@ Rank 9: Document ID: MED-1635, Predicted Relevance Score: 2.0286976041150933
 Rank 10: Document ID: MED-3054, Predicted Relevance Score: 2.0234668761190164
 
 Query: PLAIN-2209
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4635, Predicted Relevance Score: 1.7738596619285711
 Rank 2: Document ID: MED-4640, Predicted Relevance Score: 1.4742414245433724
 
 Query: PLAIN-2220
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4472, Predicted Relevance Score: 2.131086460955982
 Rank 2: Document ID: MED-4471, Predicted Relevance Score: 2.0767605158338167
@@ -2256,6 +2461,7 @@ Rank 8: Document ID: MED-4546, Predicted Relevance Score: 1.9400013909786586
 Rank 9: Document ID: MED-5002, Predicted Relevance Score: 1.8983981070017837
 
 Query: PLAIN-2230
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-3148, Predicted Relevance Score: 1.978888217749834
 Rank 2: Document ID: MED-4609, Predicted Relevance Score: 1.9290302935159631
@@ -2266,6 +2472,7 @@ Rank 6: Document ID: MED-3149, Predicted Relevance Score: 1.5269450410995087
 Rank 7: Document ID: MED-4313, Predicted Relevance Score: 1.4803936323942537
 
 Query: PLAIN-2240
+NDCG: 0.6885684795657985
 Top Documents:
 Rank 1: Document ID: MED-3963, Predicted Relevance Score: 1.9474737292120825
 Rank 2: Document ID: MED-3962, Predicted Relevance Score: 1.9464153421159978
@@ -2279,11 +2486,13 @@ Rank 9: Document ID: MED-3967, Predicted Relevance Score: 1.7640379485532096
 Rank 10: Document ID: MED-3960, Predicted Relevance Score: 1.7491292704746688
 
 Query: PLAIN-2250
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4359, Predicted Relevance Score: 1.9656798703573508
 Rank 2: Document ID: MED-4360, Predicted Relevance Score: 1.928397700833987
 
 Query: PLAIN-2261
+NDCG: 0.6289429817405459
 Top Documents:
 Rank 1: Document ID: MED-3376, Predicted Relevance Score: 2.1754409970170503
 Rank 2: Document ID: MED-3377, Predicted Relevance Score: 2.1747991696594866
@@ -2297,6 +2506,7 @@ Rank 9: Document ID: MED-4231, Predicted Relevance Score: 2.069042956144907
 Rank 10: Document ID: MED-4295, Predicted Relevance Score: 2.065582833505394
 
 Query: PLAIN-2271
+NDCG: 0.48611828860325
 Top Documents:
 Rank 1: Document ID: MED-4644, Predicted Relevance Score: 2.0791088788785026
 Rank 2: Document ID: MED-4778, Predicted Relevance Score: 1.9683161653058434
@@ -2310,10 +2520,12 @@ Rank 9: Document ID: MED-762, Predicted Relevance Score: 1.702058379297533
 Rank 10: Document ID: MED-4642, Predicted Relevance Score: 1.6984833921298481
 
 Query: PLAIN-2281
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-2098, Predicted Relevance Score: 1.8318229707221534
 
 Query: PLAIN-2291
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-2726, Predicted Relevance Score: 2.0978554365952102
 Rank 2: Document ID: MED-2221, Predicted Relevance Score: 1.988793864227215
@@ -2322,6 +2534,7 @@ Rank 4: Document ID: MED-1651, Predicted Relevance Score: 1.838659572241653
 Rank 5: Document ID: MED-4602, Predicted Relevance Score: 1.7643773922747332
 
 Query: PLAIN-2301
+NDCG: 0.6448856532867531
 Top Documents:
 Rank 1: Document ID: MED-4756, Predicted Relevance Score: 2.230719984457421
 Rank 2: Document ID: MED-4757, Predicted Relevance Score: 2.0795336764289756
@@ -2335,11 +2548,13 @@ Rank 9: Document ID: MED-4755, Predicted Relevance Score: 1.8940050544796123
 Rank 10: Document ID: MED-4941, Predicted Relevance Score: 1.8674339626151408
 
 Query: PLAIN-2311
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4594, Predicted Relevance Score: 1.8054215677467065
 Rank 2: Document ID: MED-4593, Predicted Relevance Score: 1.7127338756139223
 
 Query: PLAIN-2321
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4212, Predicted Relevance Score: 1.6955822236457476
 Rank 2: Document ID: MED-4211, Predicted Relevance Score: 1.6858874076820216
@@ -2348,6 +2563,7 @@ Rank 4: Document ID: MED-4216, Predicted Relevance Score: 1.6004417192664504
 Rank 5: Document ID: MED-4514, Predicted Relevance Score: 1.2471168557993384
 
 Query: PLAIN-2332
+NDCG: 0.6177581440976027
 Top Documents:
 Rank 1: Document ID: MED-3319, Predicted Relevance Score: 2.072779338377546
 Rank 2: Document ID: MED-1219, Predicted Relevance Score: 2.050545598929564
@@ -2361,11 +2577,13 @@ Rank 9: Document ID: MED-3312, Predicted Relevance Score: 1.991311396891523
 Rank 10: Document ID: MED-1221, Predicted Relevance Score: 1.9850740286762325
 
 Query: PLAIN-2343
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-5108, Predicted Relevance Score: 1.966337475604523
 Rank 2: Document ID: MED-5109, Predicted Relevance Score: 1.9013370283015179
 
 Query: PLAIN-2354
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4303, Predicted Relevance Score: 2.0277437013073785
 Rank 2: Document ID: MED-2153, Predicted Relevance Score: 1.8694986266968496
@@ -2374,6 +2592,7 @@ Rank 4: Document ID: MED-4646, Predicted Relevance Score: 1.8031342404153161
 Rank 5: Document ID: MED-2150, Predicted Relevance Score: 1.7000703992929815
 
 Query: PLAIN-2364
+NDCG: 0.5329959934984325
 Top Documents:
 Rank 1: Document ID: MED-1348, Predicted Relevance Score: 2.095464585429342
 Rank 2: Document ID: MED-1347, Predicted Relevance Score: 1.9856554935528583
@@ -2387,11 +2606,13 @@ Rank 9: Document ID: MED-1343, Predicted Relevance Score: 1.8435651984253008
 Rank 10: Document ID: MED-1353, Predicted Relevance Score: 1.8061736435896267
 
 Query: PLAIN-2375
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-5169, Predicted Relevance Score: 2.0027817513195365
 Rank 2: Document ID: MED-5170, Predicted Relevance Score: 1.8371290577237314
 
 Query: PLAIN-2386
+NDCG: 0.6820581426715161
 Top Documents:
 Rank 1: Document ID: MED-3182, Predicted Relevance Score: 2.14580733886458
 Rank 2: Document ID: MED-4742, Predicted Relevance Score: 2.016138162464103
@@ -2405,6 +2626,7 @@ Rank 9: Document ID: MED-3169, Predicted Relevance Score: 1.8971243673795624
 Rank 10: Document ID: MED-3176, Predicted Relevance Score: 1.876518595022522
 
 Query: PLAIN-2396
+NDCG: 0.506614558668857
 Top Documents:
 Rank 1: Document ID: MED-4324, Predicted Relevance Score: 2.125409370818804
 Rank 2: Document ID: MED-4319, Predicted Relevance Score: 2.020622192618792
@@ -2418,6 +2640,7 @@ Rank 9: Document ID: MED-2570, Predicted Relevance Score: 1.9263433606192097
 Rank 10: Document ID: MED-2583, Predicted Relevance Score: 1.9163617656944743
 
 Query: PLAIN-2408
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-1348, Predicted Relevance Score: 2.113379037088068
 Rank 2: Document ID: MED-1347, Predicted Relevance Score: 2.0035699452115843
@@ -2431,6 +2654,7 @@ Rank 9: Document ID: MED-3544, Predicted Relevance Score: 1.959590919139974
 Rank 10: Document ID: MED-1359, Predicted Relevance Score: 1.9569566123120552
 
 Query: PLAIN-2430
+NDCG: 0.48883532903041416
 Top Documents:
 Rank 1: Document ID: MED-980, Predicted Relevance Score: 1.858983442103477
 Rank 2: Document ID: MED-981, Predicted Relevance Score: 1.7776751312743158
@@ -2444,6 +2668,7 @@ Rank 9: Document ID: MED-3137, Predicted Relevance Score: 1.714527936056974
 Rank 10: Document ID: MED-3275, Predicted Relevance Score: 1.7112623609086948
 
 Query: PLAIN-2440
+NDCG: 0.6242412631956099
 Top Documents:
 Rank 1: Document ID: MED-5339, Predicted Relevance Score: 1.867773473728497
 Rank 2: Document ID: MED-5322, Predicted Relevance Score: 1.850222615883059
@@ -2457,6 +2682,7 @@ Rank 9: Document ID: MED-5326, Predicted Relevance Score: 1.6858443894015587
 Rank 10: Document ID: MED-5331, Predicted Relevance Score: 1.679030607645672
 
 Query: PLAIN-2450
+NDCG: 0.7224623153121128
 Top Documents:
 Rank 1: Document ID: MED-3888, Predicted Relevance Score: 2.4669973396791045
 Rank 2: Document ID: MED-3938, Predicted Relevance Score: 2.3837975687879154
@@ -2470,6 +2696,7 @@ Rank 9: Document ID: MED-1171, Predicted Relevance Score: 2.300120187176794
 Rank 10: Document ID: MED-2747, Predicted Relevance Score: 2.298524251799617
 
 Query: PLAIN-2460
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-2412, Predicted Relevance Score: 2.4480348421019
 Rank 2: Document ID: MED-2409, Predicted Relevance Score: 2.423214747142876
@@ -2483,6 +2710,7 @@ Rank 9: Document ID: MED-1876, Predicted Relevance Score: 2.2265979594446237
 Rank 10: Document ID: MED-4538, Predicted Relevance Score: 2.2208277178674196
 
 Query: PLAIN-2470
+NDCG: 0.8645098085289519
 Top Documents:
 Rank 1: Document ID: MED-1774, Predicted Relevance Score: 2.2567557334019863
 Rank 2: Document ID: MED-1765, Predicted Relevance Score: 2.208018262420826
@@ -2496,6 +2724,7 @@ Rank 9: Document ID: MED-2988, Predicted Relevance Score: 2.129863473781949
 Rank 10: Document ID: MED-3599, Predicted Relevance Score: 2.1183396128765835
 
 Query: PLAIN-2480
+NDCG: 0.7452224174180767
 Top Documents:
 Rank 1: Document ID: MED-1580, Predicted Relevance Score: 2.0748347408750645
 Rank 2: Document ID: MED-1418, Predicted Relevance Score: 1.9871953248414012
@@ -2509,6 +2738,7 @@ Rank 9: Document ID: MED-4342, Predicted Relevance Score: 1.8680330974159067
 Rank 10: Document ID: MED-1425, Predicted Relevance Score: 1.8396776886832136
 
 Query: PLAIN-2490
+NDCG: 0.9213271337315444
 Top Documents:
 Rank 1: Document ID: MED-3617, Predicted Relevance Score: 2.1414344158852607
 Rank 2: Document ID: MED-2530, Predicted Relevance Score: 2.029499848778583
@@ -2522,6 +2752,7 @@ Rank 9: Document ID: MED-3619, Predicted Relevance Score: 1.9387367760450775
 Rank 10: Document ID: MED-3621, Predicted Relevance Score: 1.9376751249108943
 
 Query: PLAIN-2500
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-3599, Predicted Relevance Score: 2.257251883210295
 Rank 2: Document ID: MED-4556, Predicted Relevance Score: 2.244779357060874
@@ -2532,6 +2763,7 @@ Rank 6: Document ID: MED-3598, Predicted Relevance Score: 2.091931255282157
 Rank 7: Document ID: MED-3597, Predicted Relevance Score: 2.040342624543985
 
 Query: PLAIN-2510
+NDCG: 0.6209413331130361
 Top Documents:
 Rank 1: Document ID: MED-1647, Predicted Relevance Score: 2.444081768167004
 Rank 2: Document ID: MED-2223, Predicted Relevance Score: 2.416865962534037
@@ -2545,6 +2777,7 @@ Rank 9: Document ID: MED-2226, Predicted Relevance Score: 2.2873729683381656
 Rank 10: Document ID: MED-2155, Predicted Relevance Score: 2.280418691940259
 
 Query: PLAIN-2520
+NDCG: 0.7634595833022547
 Top Documents:
 Rank 1: Document ID: MED-2509, Predicted Relevance Score: 2.2062225148182915
 Rank 2: Document ID: MED-4226, Predicted Relevance Score: 2.1565411523042184
@@ -2558,6 +2791,7 @@ Rank 9: Document ID: MED-2132, Predicted Relevance Score: 2.116097740585476
 Rank 10: Document ID: MED-2123, Predicted Relevance Score: 2.1139168436374596
 
 Query: PLAIN-2530
+NDCG: 0.5310283444141833
 Top Documents:
 Rank 1: Document ID: MED-4764, Predicted Relevance Score: 2.172946720973303
 Rank 2: Document ID: MED-3319, Predicted Relevance Score: 2.1645616287937997
@@ -2571,6 +2805,7 @@ Rank 9: Document ID: MED-1804, Predicted Relevance Score: 2.008093800418205
 Rank 10: Document ID: MED-3313, Predicted Relevance Score: 2.0019033629498293
 
 Query: PLAIN-2540
+NDCG: 0.518102420876331
 Top Documents:
 Rank 1: Document ID: MED-1889, Predicted Relevance Score: 2.154417897071972
 Rank 2: Document ID: MED-4324, Predicted Relevance Score: 1.9494585763844305
@@ -2584,6 +2819,7 @@ Rank 9: Document ID: MED-1885, Predicted Relevance Score: 1.7387804582251445
 Rank 10: Document ID: MED-4559, Predicted Relevance Score: 1.7213648063325087
 
 Query: PLAIN-2550
+NDCG: 0.8827324921218388
 Top Documents:
 Rank 1: Document ID: MED-2427, Predicted Relevance Score: 1.8097389904612138
 Rank 2: Document ID: MED-2431, Predicted Relevance Score: 1.800040672484819
@@ -2597,6 +2833,7 @@ Rank 9: Document ID: MED-2429, Predicted Relevance Score: 1.6786061364764087
 Rank 10: Document ID: MED-4599, Predicted Relevance Score: 1.678110477791655
 
 Query: PLAIN-2560
+NDCG: 0.7210361230793572
 Top Documents:
 Rank 1: Document ID: MED-4394, Predicted Relevance Score: 2.0708656233589027
 Rank 2: Document ID: MED-4400, Predicted Relevance Score: 2.0614230461937613
@@ -2610,6 +2847,7 @@ Rank 9: Document ID: MED-2055, Predicted Relevance Score: 1.9682854151381088
 Rank 10: Document ID: MED-2061, Predicted Relevance Score: 1.9483681518321696
 
 Query: PLAIN-2570
+NDCG: 0.6099773504887618
 Top Documents:
 Rank 1: Document ID: MED-2412, Predicted Relevance Score: 2.303594425411859
 Rank 2: Document ID: MED-2409, Predicted Relevance Score: 2.2787743304528347
@@ -2623,6 +2861,7 @@ Rank 9: Document ID: MED-2406, Predicted Relevance Score: 2.1173399245798254
 Rank 10: Document ID: MED-3812, Predicted Relevance Score: 2.112651306143979
 
 Query: PLAIN-2580
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-2219, Predicted Relevance Score: 1.9639082803446346
 Rank 2: Document ID: MED-2619, Predicted Relevance Score: 1.864418239894782
@@ -2636,6 +2875,7 @@ Rank 9: Document ID: MED-2220, Predicted Relevance Score: 1.7490135593816487
 Rank 10: Document ID: MED-2221, Predicted Relevance Score: 1.746396654708891
 
 Query: PLAIN-2590
+NDCG: 0.671908361532074
 Top Documents:
 Rank 1: Document ID: MED-4298, Predicted Relevance Score: 2.1349800833786126
 Rank 2: Document ID: MED-2509, Predicted Relevance Score: 2.0979332195332496
@@ -2649,6 +2889,7 @@ Rank 9: Document ID: MED-3282, Predicted Relevance Score: 2.0080677693931537
 Rank 10: Document ID: MED-3137, Predicted Relevance Score: 2.0004456554188224
 
 Query: PLAIN-2600
+NDCG: 0.8097422900596448
 Top Documents:
 Rank 1: Document ID: MED-4324, Predicted Relevance Score: 2.149278199830721
 Rank 2: Document ID: MED-4676, Predicted Relevance Score: 1.9965046670676578
@@ -2662,6 +2903,7 @@ Rank 9: Document ID: MED-5322, Predicted Relevance Score: 1.7339357087690694
 Rank 10: Document ID: MED-3197, Predicted Relevance Score: 1.7211798231029083
 
 Query: PLAIN-2610
+NDCG: 0.7709006868728433
 Top Documents:
 Rank 1: Document ID: MED-2653, Predicted Relevance Score: 2.50290770635197
 Rank 2: Document ID: MED-2654, Predicted Relevance Score: 2.440883153336551
@@ -2675,6 +2917,7 @@ Rank 9: Document ID: MED-2661, Predicted Relevance Score: 2.399178714862057
 Rank 10: Document ID: MED-4295, Predicted Relevance Score: 2.3876478430417434
 
 Query: PLAIN-2620
+NDCG: 0.6457762375921846
 Top Documents:
 Rank 1: Document ID: MED-3729, Predicted Relevance Score: 2.4639006749464065
 Rank 2: Document ID: MED-4319, Predicted Relevance Score: 2.4550980343089135
@@ -2688,6 +2931,7 @@ Rank 9: Document ID: MED-3714, Predicted Relevance Score: 2.3877312606341388
 Rank 10: Document ID: MED-3726, Predicted Relevance Score: 2.377432889194997
 
 Query: PLAIN-2630
+NDCG: 0.6966179049102003
 Top Documents:
 Rank 1: Document ID: MED-2653, Predicted Relevance Score: 2.9538333096512828
 Rank 2: Document ID: MED-2654, Predicted Relevance Score: 2.8918087566358635
@@ -2701,6 +2945,7 @@ Rank 9: Document ID: MED-2652, Predicted Relevance Score: 2.800389768648241
 Rank 10: Document ID: MED-3591, Predicted Relevance Score: 2.7845634373346204
 
 Query: PLAIN-2640
+NDCG: 0.5832983795524898
 Top Documents:
 Rank 1: Document ID: MED-3888, Predicted Relevance Score: 2.1567167604311015
 Rank 2: Document ID: MED-4428, Predicted Relevance Score: 2.1540772849546705
@@ -2714,6 +2959,7 @@ Rank 9: Document ID: MED-4361, Predicted Relevance Score: 2.0548496908740175
 Rank 10: Document ID: MED-3887, Predicted Relevance Score: 2.04101775462234
 
 Query: PLAIN-2650
+NDCG: 0.4989022570971309
 Top Documents:
 Rank 1: Document ID: MED-2809, Predicted Relevance Score: 2.140394781072695
 Rank 2: Document ID: MED-4345, Predicted Relevance Score: 2.1161535808511958
@@ -2727,6 +2973,7 @@ Rank 9: Document ID: MED-3710, Predicted Relevance Score: 2.033202193690388
 Rank 10: Document ID: MED-4349, Predicted Relevance Score: 2.009248723294587
 
 Query: PLAIN-2660
+NDCG: 0.6588085546010171
 Top Documents:
 Rank 1: Document ID: MED-3025, Predicted Relevance Score: 2.104268402571454
 Rank 2: Document ID: MED-3034, Predicted Relevance Score: 2.1012060667355192
@@ -2740,6 +2987,7 @@ Rank 9: Document ID: MED-3023, Predicted Relevance Score: 1.9551113378094265
 Rank 10: Document ID: MED-4170, Predicted Relevance Score: 1.9457808123226865
 
 Query: PLAIN-2670
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4912, Predicted Relevance Score: 2.179847173166391
 Rank 2: Document ID: MED-3086, Predicted Relevance Score: 2.1450334364211647
@@ -2753,6 +3001,7 @@ Rank 9: Document ID: MED-3092, Predicted Relevance Score: 2.0663251735870363
 Rank 10: Document ID: MED-2992, Predicted Relevance Score: 2.0645515095117877
 
 Query: PLAIN-2680
+NDCG: 0.9359231975420885
 Top Documents:
 Rank 1: Document ID: MED-4740, Predicted Relevance Score: 2.348331398854743
 Rank 2: Document ID: MED-3102, Predicted Relevance Score: 2.3113313714439823
@@ -2766,6 +3015,7 @@ Rank 9: Document ID: MED-4739, Predicted Relevance Score: 2.2136286190275585
 Rank 10: Document ID: MED-3112, Predicted Relevance Score: 2.1956619370849757
 
 Query: PLAIN-2690
+NDCG: 0.6820581426715161
 Top Documents:
 Rank 1: Document ID: MED-3182, Predicted Relevance Score: 2.14580733886458
 Rank 2: Document ID: MED-3305, Predicted Relevance Score: 2.036752405421674
@@ -2779,6 +3029,7 @@ Rank 9: Document ID: MED-3180, Predicted Relevance Score: 1.9742083140612077
 Rank 10: Document ID: MED-3177, Predicted Relevance Score: 1.9712862898179462
 
 Query: PLAIN-2700
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4556, Predicted Relevance Score: 2.1321447590497997
 Rank 2: Document ID: MED-4559, Predicted Relevance Score: 2.0706142277771917
@@ -2792,6 +3043,7 @@ Rank 9: Document ID: MED-4613, Predicted Relevance Score: 1.8801954405382486
 Rank 10: Document ID: MED-3255, Predicted Relevance Score: 1.8597102862622767
 
 Query: PLAIN-2710
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-3376, Predicted Relevance Score: 2.259323414827396
 Rank 2: Document ID: MED-3377, Predicted Relevance Score: 2.2586815874698325
@@ -2805,6 +3057,7 @@ Rank 9: Document ID: MED-3381, Predicted Relevance Score: 2.133489470056305
 Rank 10: Document ID: MED-3385, Predicted Relevance Score: 2.1294655222635965
 
 Query: PLAIN-2720
+NDCG: 0.5840467006711209
 Top Documents:
 Rank 1: Document ID: MED-3476, Predicted Relevance Score: 2.1513379567987534
 Rank 2: Document ID: MED-4581, Predicted Relevance Score: 2.108952766156339
@@ -2818,6 +3071,7 @@ Rank 9: Document ID: MED-3483, Predicted Relevance Score: 1.9893413056298468
 Rank 10: Document ID: MED-3474, Predicted Relevance Score: 1.987047264302946
 
 Query: PLAIN-2730
+NDCG: 0.8726044363309087
 Top Documents:
 Rank 1: Document ID: MED-5070, Predicted Relevance Score: 2.134448464503609
 Rank 2: Document ID: MED-5072, Predicted Relevance Score: 2.0861837220419894
@@ -2831,6 +3085,7 @@ Rank 9: Document ID: MED-3549, Predicted Relevance Score: 1.9925701409078496
 Rank 10: Document ID: MED-3554, Predicted Relevance Score: 1.970833753253291
 
 Query: PLAIN-2740
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-3617, Predicted Relevance Score: 2.199471301638299
 Rank 2: Document ID: MED-3628, Predicted Relevance Score: 2.1419456332325897
@@ -2844,6 +3099,7 @@ Rank 9: Document ID: MED-3635, Predicted Relevance Score: 2.0610069482909488
 Rank 10: Document ID: MED-3631, Predicted Relevance Score: 2.0596578814220363
 
 Query: PLAIN-2750
+NDCG: 0.6869796236392544
 Top Documents:
 Rank 1: Document ID: MED-3972, Predicted Relevance Score: 2.0874945841659747
 Rank 2: Document ID: MED-3671, Predicted Relevance Score: 2.075569065618743
@@ -2857,6 +3113,7 @@ Rank 9: Document ID: MED-3953, Predicted Relevance Score: 1.999130904593266
 Rank 10: Document ID: MED-3680, Predicted Relevance Score: 1.998802509093321
 
 Query: PLAIN-2760
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4771, Predicted Relevance Score: 2.240179908405585
 Rank 2: Document ID: MED-4712, Predicted Relevance Score: 2.141528523975422
@@ -2870,6 +3127,7 @@ Rank 9: Document ID: MED-5339, Predicted Relevance Score: 1.8851589790993917
 Rank 10: Document ID: MED-5322, Predicted Relevance Score: 1.8676081212539537
 
 Query: PLAIN-2770
+NDCG: 0.6045833598686827
 Top Documents:
 Rank 1: Document ID: MED-4119, Predicted Relevance Score: 2.596184656265825
 Rank 2: Document ID: MED-3836, Predicted Relevance Score: 2.5936220500701976
@@ -2883,6 +3141,7 @@ Rank 9: Document ID: MED-4785, Predicted Relevance Score: 2.495245728590822
 Rank 10: Document ID: MED-3832, Predicted Relevance Score: 2.484857023090091
 
 Query: PLAIN-2780
+NDCG: 0.6683951751355437
 Top Documents:
 Rank 1: Document ID: MED-3893, Predicted Relevance Score: 2.032358528772983
 Rank 2: Document ID: MED-3908, Predicted Relevance Score: 1.9669163027371668
@@ -2896,6 +3155,7 @@ Rank 9: Document ID: MED-3896, Predicted Relevance Score: 1.774971443827801
 Rank 10: Document ID: MED-4291, Predicted Relevance Score: 1.7607116322950744
 
 Query: PLAIN-2790
+NDCG: 0.6885684795657987
 Top Documents:
 Rank 1: Document ID: MED-4167, Predicted Relevance Score: 2.241149854378864
 Rank 2: Document ID: MED-4607, Predicted Relevance Score: 2.066351213138249
@@ -2909,6 +3169,7 @@ Rank 9: Document ID: MED-4135, Predicted Relevance Score: 1.993607107174514
 Rank 10: Document ID: MED-4069, Predicted Relevance Score: 1.9820805158289523
 
 Query: PLAIN-2800
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4472, Predicted Relevance Score: 2.363577279077944
 Rank 2: Document ID: MED-4047, Predicted Relevance Score: 2.353243093123162
@@ -2922,6 +3183,7 @@ Rank 9: Document ID: MED-4069, Predicted Relevance Score: 2.1846198167552937
 Rank 10: Document ID: MED-4071, Predicted Relevance Score: 2.165810723527619
 
 Query: PLAIN-2810
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4091, Predicted Relevance Score: 2.2188486547318518
 Rank 2: Document ID: MED-4585, Predicted Relevance Score: 2.0635094643574963
@@ -2933,6 +3195,7 @@ Rank 7: Document ID: MED-5071, Predicted Relevance Score: 1.7919624268841856
 Rank 8: Document ID: MED-4687, Predicted Relevance Score: 1.5173656758866976
 
 Query: PLAIN-2820
+NDCG: 0.9404129763197593
 Top Documents:
 Rank 1: Document ID: MED-4106, Predicted Relevance Score: 1.936386888062434
 Rank 2: Document ID: MED-4103, Predicted Relevance Score: 1.801242987507147
@@ -2946,12 +3209,14 @@ Rank 9: Document ID: MED-5340, Predicted Relevance Score: 1.6167833256494284
 Rank 10: Document ID: MED-5334, Predicted Relevance Score: 1.6095902230840473
 
 Query: PLAIN-2830
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4120, Predicted Relevance Score: 1.9638905006758556
 Rank 2: Document ID: MED-4121, Predicted Relevance Score: 1.9338301312779322
 Rank 3: Document ID: MED-4124, Predicted Relevance Score: 1.9151806619476528
 
 Query: PLAIN-2840
+NDCG: 0.7237906136943209
 Top Documents:
 Rank 1: Document ID: MED-5049, Predicted Relevance Score: 2.0441085354423025
 Rank 2: Document ID: MED-4468, Predicted Relevance Score: 1.8917339286434545
@@ -2965,6 +3230,7 @@ Rank 9: Document ID: MED-4464, Predicted Relevance Score: 1.7484050226260184
 Rank 10: Document ID: MED-3811, Predicted Relevance Score: 1.7236107487947714
 
 Query: PLAIN-2850
+NDCG: 0.9269367008258985
 Top Documents:
 Rank 1: Document ID: MED-4167, Predicted Relevance Score: -525834085.3492131
 Rank 2: Document ID: MED-3888, Predicted Relevance Score: -525834085.4852521
@@ -2978,11 +3244,13 @@ Rank 9: Document ID: MED-2741, Predicted Relevance Score: -525834085.57748747
 Rank 10: Document ID: MED-2988, Predicted Relevance Score: -525834085.57756895
 
 Query: PLAIN-2860
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4186, Predicted Relevance Score: 2.487274352875424
 Rank 2: Document ID: MED-4185, Predicted Relevance Score: 2.199549084549255
 
 Query: PLAIN-2870
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4531, Predicted Relevance Score: 1.947297669579815
 Rank 2: Document ID: MED-4944, Predicted Relevance Score: 1.8742811709624314
@@ -2991,6 +3259,7 @@ Rank 4: Document ID: MED-4201, Predicted Relevance Score: 1.7377470905981545
 Rank 5: Document ID: MED-4200, Predicted Relevance Score: 1.6845513862278072
 
 Query: PLAIN-2880
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4226, Predicted Relevance Score: 2.0772927898619518
 Rank 2: Document ID: MED-4243, Predicted Relevance Score: 2.0489789870526884
@@ -3004,6 +3273,7 @@ Rank 9: Document ID: MED-3877, Predicted Relevance Score: 1.8463163069180202
 Rank 10: Document ID: MED-5339, Predicted Relevance Score: 1.8219284958666573
 
 Query: PLAIN-2890
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4324, Predicted Relevance Score: 2.2315191541239754
 Rank 2: Document ID: MED-4250, Predicted Relevance Score: 2.178593561237208
@@ -3017,6 +3287,7 @@ Rank 9: Document ID: MED-4715, Predicted Relevance Score: 2.000677562305287
 Rank 10: Document ID: MED-4349, Predicted Relevance Score: 1.9806799416340333
 
 Query: PLAIN-2900
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4271, Predicted Relevance Score: 2.220516133572189
 Rank 2: Document ID: MED-4265, Predicted Relevance Score: 2.1707227554104085
@@ -3030,6 +3301,7 @@ Rank 9: Document ID: MED-4442, Predicted Relevance Score: 2.0118665866616796
 Rank 10: Document ID: MED-3788, Predicted Relevance Score: 1.934178804543686
 
 Query: PLAIN-2910
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4835, Predicted Relevance Score: 1.9822800499014326
 Rank 2: Document ID: MED-4295, Predicted Relevance Score: 1.9180478740623101
@@ -3043,6 +3315,7 @@ Rank 9: Document ID: MED-4834, Predicted Relevance Score: 1.7519925745264362
 Rank 10: Document ID: MED-4425, Predicted Relevance Score: 1.6897698541722523
 
 Query: PLAIN-2920
+NDCG: 0.9779608724392811
 Top Documents:
 Rank 1: Document ID: MED-4540, Predicted Relevance Score: 2.5587348889633756
 Rank 2: Document ID: MED-4995, Predicted Relevance Score: 2.5582592015975596
@@ -3056,6 +3329,7 @@ Rank 9: Document ID: MED-5333, Predicted Relevance Score: 2.2375116325664233
 Rank 10: Document ID: MED-5340, Predicted Relevance Score: 2.2009599621063893
 
 Query: PLAIN-2930
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4518, Predicted Relevance Score: 2.4267181154501607
 Rank 2: Document ID: MED-4835, Predicted Relevance Score: 2.3848696660124675
@@ -3069,6 +3343,7 @@ Rank 9: Document ID: MED-4635, Predicted Relevance Score: 2.0956685107103987
 Rank 10: Document ID: MED-4325, Predicted Relevance Score: 2.0249089809840157
 
 Query: PLAIN-2940
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4631, Predicted Relevance Score: 2.5841075166570437
 Rank 2: Document ID: MED-4628, Predicted Relevance Score: 2.42773444322163
@@ -3082,6 +3357,7 @@ Rank 9: Document ID: MED-4878, Predicted Relevance Score: 2.3309498098912536
 Rank 10: Document ID: MED-4627, Predicted Relevance Score: 2.326832160642949
 
 Query: PLAIN-2950
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4132, Predicted Relevance Score: 2.1507325741710934
 Rank 2: Document ID: MED-5339, Predicted Relevance Score: 2.0142458072104477
@@ -3095,11 +3371,13 @@ Rank 9: Document ID: MED-5332, Predicted Relevance Score: 1.865146895943937
 Rank 10: Document ID: MED-5363, Predicted Relevance Score: 1.8477884427574274
 
 Query: PLAIN-2960
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4370, Predicted Relevance Score: 1.9482064209474372
 Rank 2: Document ID: MED-4575, Predicted Relevance Score: 1.8541545042598773
 
 Query: PLAIN-2970
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4383, Predicted Relevance Score: 2.228191746343698
 Rank 2: Document ID: MED-4384, Predicted Relevance Score: 2.176196883488509
@@ -3113,6 +3391,7 @@ Rank 9: Document ID: MED-4388, Predicted Relevance Score: 1.9665098466909792
 Rank 10: Document ID: MED-5333, Predicted Relevance Score: 1.9435206807878957
 
 Query: PLAIN-2981
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4912, Predicted Relevance Score: 2.0650887024100397
 Rank 2: Document ID: MED-4936, Predicted Relevance Score: 2.0251651351049618
@@ -3123,6 +3402,7 @@ Rank 6: Document ID: MED-4403, Predicted Relevance Score: 1.8607099402057745
 Rank 7: Document ID: MED-4911, Predicted Relevance Score: 1.7729140427496102
 
 Query: PLAIN-2991
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-1659, Predicted Relevance Score: 1.7607633256626016
 Rank 2: Document ID: MED-1666, Predicted Relevance Score: 1.7468084112143087
@@ -3136,19 +3416,23 @@ Rank 9: Document ID: MED-1660, Predicted Relevance Score: 1.6272006242620412
 Rank 10: Document ID: MED-1657, Predicted Relevance Score: 1.6176745913761712
 
 Query: PLAIN-3001
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4437, Predicted Relevance Score: 1.9629574433642767
 Rank 2: Document ID: MED-4436, Predicted Relevance Score: 1.790992192089427
 
 Query: PLAIN-3014
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4454, Predicted Relevance Score: 2.1310982404114345
 
 Query: PLAIN-3026
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4470, Predicted Relevance Score: 1.8275659084582754
 
 Query: PLAIN-3037
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4506, Predicted Relevance Score: 1.9020296345738417
 Rank 2: Document ID: MED-4504, Predicted Relevance Score: 1.8369722562717257
@@ -3156,12 +3440,14 @@ Rank 3: Document ID: MED-4505, Predicted Relevance Score: 1.7831854818280104
 Rank 4: Document ID: MED-4508, Predicted Relevance Score: 1.7826938370093628
 
 Query: PLAIN-3053
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4526, Predicted Relevance Score: 2.0835740220910854
 Rank 2: Document ID: MED-4527, Predicted Relevance Score: 2.057902890889756
 Rank 3: Document ID: MED-4525, Predicted Relevance Score: 1.8481051161186461
 
 Query: PLAIN-3063
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-3893, Predicted Relevance Score: 2.1379720357416847
 Rank 2: Document ID: MED-4544, Predicted Relevance Score: 2.0613446504360966
@@ -3169,6 +3455,7 @@ Rank 3: Document ID: MED-3742, Predicted Relevance Score: 2.048561851883287
 Rank 4: Document ID: MED-3894, Predicted Relevance Score: 1.8506899437523534
 
 Query: PLAIN-3074
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4555, Predicted Relevance Score: 2.1721276076870315
 Rank 2: Document ID: MED-5339, Predicted Relevance Score: 1.9619416667551532
@@ -3182,6 +3469,7 @@ Rank 9: Document ID: MED-5363, Predicted Relevance Score: 1.7954843023021332
 Rank 10: Document ID: MED-5326, Predicted Relevance Score: 1.7800125824282151
 
 Query: PLAIN-3085
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4573, Predicted Relevance Score: 1.9904713933321478
 Rank 2: Document ID: MED-3991, Predicted Relevance Score: 1.9447186181336202
@@ -3195,6 +3483,7 @@ Rank 9: Document ID: MED-3989, Predicted Relevance Score: 1.8655812143519304
 Rank 10: Document ID: MED-3986, Predicted Relevance Score: 1.845123285742798
 
 Query: PLAIN-3097
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4590, Predicted Relevance Score: 2.204414539840339
 Rank 2: Document ID: MED-4591, Predicted Relevance Score: 2.0182446380571633
@@ -3202,6 +3491,7 @@ Rank 3: Document ID: MED-726, Predicted Relevance Score: 1.88116143562302
 Rank 4: Document ID: MED-2215, Predicted Relevance Score: 1.8197347045158894
 
 Query: PLAIN-3116
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-5339, Predicted Relevance Score: 2.0088559313246237
 Rank 2: Document ID: MED-5322, Predicted Relevance Score: 1.9913050734791855
@@ -3215,6 +3505,7 @@ Rank 9: Document ID: MED-5326, Predicted Relevance Score: 1.8269268469976854
 Rank 10: Document ID: MED-5331, Predicted Relevance Score: 1.8201130652417987
 
 Query: PLAIN-3131
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4618, Predicted Relevance Score: 2.2002537726671614
 Rank 2: Document ID: MED-4619, Predicted Relevance Score: 1.8963261424808315
@@ -3224,6 +3515,7 @@ Rank 5: Document ID: MED-4515, Predicted Relevance Score: 1.6726093927316577
 Rank 6: Document ID: MED-4514, Predicted Relevance Score: 1.301850778098078
 
 Query: PLAIN-3141
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-1828, Predicted Relevance Score: 2.198538562767934
 Rank 2: Document ID: MED-1365, Predicted Relevance Score: 2.195911352533224
@@ -3237,6 +3529,7 @@ Rank 9: Document ID: MED-3841, Predicted Relevance Score: 2.0297836505582154
 Rank 10: Document ID: MED-4094, Predicted Relevance Score: 2.017505422818072
 
 Query: PLAIN-3151
+NDCG: 0.8321663690491323
 Top Documents:
 Rank 1: Document ID: MED-3442, Predicted Relevance Score: 2.127679867213053
 Rank 2: Document ID: MED-3447, Predicted Relevance Score: 2.0359503362263722
@@ -3250,6 +3543,7 @@ Rank 9: Document ID: MED-3975, Predicted Relevance Score: 1.848584479597306
 Rank 10: Document ID: MED-4660, Predicted Relevance Score: 1.8432975392703577
 
 Query: PLAIN-3161
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-1774, Predicted Relevance Score: 2.3089570751906776
 Rank 2: Document ID: MED-1765, Predicted Relevance Score: 2.2602196042095173
@@ -3263,6 +3557,7 @@ Rank 9: Document ID: MED-1223, Predicted Relevance Score: 2.1492632636761213
 Rank 10: Document ID: MED-1595, Predicted Relevance Score: 2.146745366417341
 
 Query: PLAIN-3171
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-1500, Predicted Relevance Score: 2.0544024592152206
 Rank 2: Document ID: MED-1496, Predicted Relevance Score: 2.013600213447269
@@ -3276,6 +3571,7 @@ Rank 9: Document ID: MED-1506, Predicted Relevance Score: 1.9489083387522748
 Rank 10: Document ID: MED-1504, Predicted Relevance Score: 1.9413939343483597
 
 Query: PLAIN-3181
+NDCG: 0.5099362368279381
 Top Documents:
 Rank 1: Document ID: MED-1580, Predicted Relevance Score: 2.083074554823461
 Rank 2: Document ID: MED-3785, Predicted Relevance Score: 1.9940970563120537
@@ -3289,6 +3585,7 @@ Rank 9: Document ID: MED-1577, Predicted Relevance Score: 1.896208357744201
 Rank 10: Document ID: MED-1791, Predicted Relevance Score: 1.8846814083484091
 
 Query: PLAIN-3191
+NDCG: 0.9178325256747591
 Top Documents:
 Rank 1: Document ID: MED-2754, Predicted Relevance Score: 2.118949807247963
 Rank 2: Document ID: MED-4730, Predicted Relevance Score: 2.0480504200921104
@@ -3302,6 +3599,7 @@ Rank 9: Document ID: MED-1832, Predicted Relevance Score: 1.9045272110771088
 Rank 10: Document ID: MED-2750, Predicted Relevance Score: 1.8840268763345351
 
 Query: PLAIN-3201
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-1774, Predicted Relevance Score: 2.05034322283697
 Rank 2: Document ID: MED-1765, Predicted Relevance Score: 2.0016057518558097
@@ -3315,6 +3613,7 @@ Rank 9: Document ID: MED-1229, Predicted Relevance Score: 1.8809661670537825
 Rank 10: Document ID: MED-1768, Predicted Relevance Score: 1.8809037276854823
 
 Query: PLAIN-3211
+NDCG: 0.6625794104907197
 Top Documents:
 Rank 1: Document ID: MED-3810, Predicted Relevance Score: 1.9783230835637227
 Rank 2: Document ID: MED-4976, Predicted Relevance Score: 1.975714063100643
@@ -3328,6 +3627,7 @@ Rank 9: Document ID: MED-3098, Predicted Relevance Score: 1.8627120549589748
 Rank 10: Document ID: MED-3103, Predicted Relevance Score: 1.8625648527480407
 
 Query: PLAIN-3221
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4529, Predicted Relevance Score: 2.262717012145033
 Rank 2: Document ID: MED-3588, Predicted Relevance Score: 2.244217947159423
@@ -3341,6 +3641,7 @@ Rank 9: Document ID: MED-745, Predicted Relevance Score: 2.1625071287011743
 Rank 10: Document ID: MED-3596, Predicted Relevance Score: 2.1566730259497264
 
 Query: PLAIN-3231
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-5032, Predicted Relevance Score: 2.399352651105796
 Rank 2: Document ID: MED-4437, Predicted Relevance Score: 2.366232312005942
@@ -3352,6 +3653,7 @@ Rank 7: Document ID: MED-4821, Predicted Relevance Score: 2.0458965561553413
 Rank 8: Document ID: MED-5035, Predicted Relevance Score: 1.9996273716441837
 
 Query: PLAIN-3241
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-1226, Predicted Relevance Score: 2.063658407120367
 Rank 2: Document ID: MED-1230, Predicted Relevance Score: 2.034460485224046
@@ -3365,6 +3667,7 @@ Rank 9: Document ID: MED-2774, Predicted Relevance Score: 1.9581819543714063
 Rank 10: Document ID: MED-1224, Predicted Relevance Score: 1.9579301770926048
 
 Query: PLAIN-3251
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4047, Predicted Relevance Score: 2.142680146074073
 Rank 2: Document ID: MED-3746, Predicted Relevance Score: 2.1020070200996734
@@ -3378,6 +3681,7 @@ Rank 9: Document ID: MED-4049, Predicted Relevance Score: 1.9754077630920732
 Rank 10: Document ID: MED-3748, Predicted Relevance Score: 1.94919259512251
 
 Query: PLAIN-3261
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4872, Predicted Relevance Score: 1.9863995223606927
 Rank 2: Document ID: MED-3991, Predicted Relevance Score: 1.9331364561541866
@@ -3391,6 +3695,7 @@ Rank 9: Document ID: MED-4874, Predicted Relevance Score: 1.8301386563594335
 Rank 10: Document ID: MED-3988, Predicted Relevance Score: 1.8296497148488966
 
 Query: PLAIN-3271
+NDCG: 0.5779928854886037
 Top Documents:
 Rank 1: Document ID: MED-1605, Predicted Relevance Score: 2.1705026276284025
 Rank 2: Document ID: MED-3785, Predicted Relevance Score: 2.129258278679634
@@ -3404,6 +3709,7 @@ Rank 9: Document ID: MED-1598, Predicted Relevance Score: 2.022958973318198
 Rank 10: Document ID: MED-3781, Predicted Relevance Score: 2.0129831802714215
 
 Query: PLAIN-3281
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-2254, Predicted Relevance Score: 2.2720872272075567
 Rank 2: Document ID: MED-2251, Predicted Relevance Score: 2.14100963564402
@@ -3417,6 +3723,7 @@ Rank 9: Document ID: MED-4535, Predicted Relevance Score: 2.015442373543566
 Rank 10: Document ID: MED-4909, Predicted Relevance Score: 2.0141504005787176
 
 Query: PLAIN-3292
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-2698, Predicted Relevance Score: 1.9457327460569962
 Rank 2: Document ID: MED-2693, Predicted Relevance Score: 1.9178608720655799
@@ -3430,6 +3737,7 @@ Rank 9: Document ID: MED-2754, Predicted Relevance Score: 1.8571471339081191
 Rank 10: Document ID: MED-2702, Predicted Relevance Score: 1.8415618614733815
 
 Query: PLAIN-3302
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4376, Predicted Relevance Score: 2.793132416977161
 Rank 2: Document ID: MED-3025, Predicted Relevance Score: 2.705623093417813
@@ -3443,6 +3751,7 @@ Rank 9: Document ID: MED-3019, Predicted Relevance Score: 2.6215308977328315
 Rank 10: Document ID: MED-3021, Predicted Relevance Score: 2.6188114616213127
 
 Query: PLAIN-3312
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-1571, Predicted Relevance Score: 2.123289888578989
 Rank 2: Document ID: MED-4967, Predicted Relevance Score: 2.0883259678532777
@@ -3456,6 +3765,7 @@ Rank 9: Document ID: MED-1573, Predicted Relevance Score: 2.028304681668044
 Rank 10: Document ID: MED-1568, Predicted Relevance Score: 2.0182854794294176
 
 Query: PLAIN-3322
+NDCG: 0.7070998511346225
 Top Documents:
 Rank 1: Document ID: MED-1828, Predicted Relevance Score: 2.2667677900573633
 Rank 2: Document ID: MED-1830, Predicted Relevance Score: 2.224803622311339
@@ -3469,6 +3779,7 @@ Rank 9: Document ID: MED-1607, Predicted Relevance Score: 2.1215388840152376
 Rank 10: Document ID: MED-3275, Predicted Relevance Score: 2.11140662583433
 
 Query: PLAIN-3332
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-3762, Predicted Relevance Score: 2.303316684994618
 Rank 2: Document ID: MED-3766, Predicted Relevance Score: 2.2740259422576607
@@ -3482,6 +3793,7 @@ Rank 9: Document ID: MED-3764, Predicted Relevance Score: 2.0771112523395683
 Rank 10: Document ID: MED-3767, Predicted Relevance Score: 2.0700606310483143
 
 Query: PLAIN-3342
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-5014, Predicted Relevance Score: 2.231517419727349
 Rank 2: Document ID: MED-5015, Predicted Relevance Score: 2.087336442376367
@@ -3490,6 +3802,7 @@ Rank 4: Document ID: MED-5016, Predicted Relevance Score: 1.8292492680496186
 Rank 5: Document ID: MED-5013, Predicted Relevance Score: 1.675056413713976
 
 Query: PLAIN-3352
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-2900, Predicted Relevance Score: 2.2188649534851086
 Rank 2: Document ID: MED-2896, Predicted Relevance Score: 2.1523393185673245
@@ -3503,6 +3816,7 @@ Rank 9: Document ID: MED-5026, Predicted Relevance Score: 2.059642979382386
 Rank 10: Document ID: MED-3438, Predicted Relevance Score: 2.0217762402422386
 
 Query: PLAIN-3362
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-2223, Predicted Relevance Score: 2.025397612665585
 Rank 2: Document ID: MED-2226, Predicted Relevance Score: 1.8959046184697141
@@ -3516,6 +3830,7 @@ Rank 9: Document ID: MED-4286, Predicted Relevance Score: 1.7309510405879385
 Rank 10: Document ID: MED-4281, Predicted Relevance Score: 1.724648380768222
 
 Query: PLAIN-3372
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-5056, Predicted Relevance Score: 2.1516062841033388
 Rank 2: Document ID: MED-4523, Predicted Relevance Score: 2.108972166927291
@@ -3529,6 +3844,7 @@ Rank 9: Document ID: MED-2971, Predicted Relevance Score: 1.8698425942107473
 Rank 10: Document ID: MED-2831, Predicted Relevance Score: 1.8243210754707686
 
 Query: PLAIN-3382
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-2619, Predicted Relevance Score: 2.2391158696011817
 Rank 2: Document ID: MED-5062, Predicted Relevance Score: 2.2254611888978
@@ -3542,6 +3858,7 @@ Rank 9: Document ID: MED-2616, Predicted Relevance Score: 2.1425743595804607
 Rank 10: Document ID: MED-3379, Predicted Relevance Score: 2.1280653997638432
 
 Query: PLAIN-3392
+NDCG: 0.7596304848863078
 Top Documents:
 Rank 1: Document ID: MED-3922, Predicted Relevance Score: 2.1101099127072773
 Rank 2: Document ID: MED-1843, Predicted Relevance Score: 2.0831134658179242
@@ -3555,6 +3872,7 @@ Rank 9: Document ID: MED-4332, Predicted Relevance Score: 1.9599360814056195
 Rank 10: Document ID: MED-1836, Predicted Relevance Score: 1.9571168760463844
 
 Query: PLAIN-3402
+NDCG: 0.634878270817999
 Top Documents:
 Rank 1: Document ID: MED-5084, Predicted Relevance Score: 2.2925354786234
 Rank 2: Document ID: MED-3746, Predicted Relevance Score: 2.2629769287556547
@@ -3568,6 +3886,7 @@ Rank 9: Document ID: MED-5083, Predicted Relevance Score: 2.0708986990894322
 Rank 10: Document ID: MED-2008, Predicted Relevance Score: 2.0249672448545715
 
 Query: PLAIN-3412
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-1774, Predicted Relevance Score: 2.081387670822541
 Rank 2: Document ID: MED-1765, Predicted Relevance Score: 2.03265019984138
@@ -3581,6 +3900,7 @@ Rank 9: Document ID: MED-1770, Predicted Relevance Score: 1.9174780253811188
 Rank 10: Document ID: MED-1768, Predicted Relevance Score: 1.911948175671053
 
 Query: PLAIN-3422
+NDCG: 0.906709945671292
 Top Documents:
 Rank 1: Document ID: MED-3991, Predicted Relevance Score: 1.9447186181336202
 Rank 2: Document ID: MED-3987, Predicted Relevance Score: 1.9314213061754357
@@ -3594,6 +3914,7 @@ Rank 9: Document ID: MED-3989, Predicted Relevance Score: 1.8655812143519304
 Rank 10: Document ID: MED-3986, Predicted Relevance Score: 1.845123285742798
 
 Query: PLAIN-3432
+NDCG: 0.6991306084487124
 Top Documents:
 Rank 1: Document ID: MED-3526, Predicted Relevance Score: 2.420152255046811
 Rank 2: Document ID: MED-3533, Predicted Relevance Score: 2.351995899947999
@@ -3607,6 +3928,7 @@ Rank 9: Document ID: MED-2280, Predicted Relevance Score: 2.2441045825449897
 Rank 10: Document ID: MED-3539, Predicted Relevance Score: 2.2340279171515514
 
 Query: PLAIN-3442
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-4047, Predicted Relevance Score: 2.1305037662498076
 Rank 2: Document ID: MED-4585, Predicted Relevance Score: 2.074276763454166
@@ -3620,6 +3942,7 @@ Rank 9: Document ID: MED-3548, Predicted Relevance Score: 1.9335401390165532
 Rank 10: Document ID: MED-3552, Predicted Relevance Score: 1.9314833271626188
 
 Query: PLAIN-3452
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-2102, Predicted Relevance Score: 2.006852104632298
 Rank 2: Document ID: MED-2099, Predicted Relevance Score: 1.9879640163574388
@@ -3633,6 +3956,7 @@ Rank 9: Document ID: MED-4639, Predicted Relevance Score: 1.8744168471870033
 Rank 10: Document ID: MED-2100, Predicted Relevance Score: 1.8356005487983877
 
 Query: PLAIN-3462
+NDCG: 0.7519784451646906
 Top Documents:
 Rank 1: Document ID: MED-4324, Predicted Relevance Score: 2.2200622992307646
 Rank 2: Document ID: MED-1647, Predicted Relevance Score: 2.1547733063482126
@@ -3646,6 +3970,7 @@ Rank 9: Document ID: MED-5273, Predicted Relevance Score: 2.0103770767907725
 Rank 10: Document ID: MED-2226, Predicted Relevance Score: 1.9980645065193745
 
 Query: PLAIN-3472
+NDCG: -1
 Top Documents:
 Rank 1: Document ID: MED-3627, Predicted Relevance Score: 1.9943047549613508
 Rank 2: Document ID: MED-3626, Predicted Relevance Score: 1.9590819678438314

@@ -1,5 +1,14 @@
-1) ndcg scores - sandeep
-2) Q7: pair and list - aditya. - somehow done
-3) Q8: try it
-4) correct error in Q2, ntc : will take 30 mins - aditya - done
-5) Q6 - sanaatan
+
+sanaatan:
+1) do Q5, 6 and add ndcg scores
+
+sandeep:
+1) explain sanaatan how to compute ndcg
+
+aditya:
+1) Q7
+2) Lucene
+3) Q8: synonyms
+
+siri:
+1) report

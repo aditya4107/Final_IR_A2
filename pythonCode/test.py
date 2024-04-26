@@ -1,7 +1,7 @@
 import os
 import math
 
-def load_relevance_data(file_path):
+def load_relevance_data_ndcg(file_path):
     relevance_data = {}
     with open(file_path, 'r', encoding='utf-8') as file:
         for line in file:
@@ -51,11 +51,11 @@ def ndcg_at_k(ranking, ideal_ranking, k):
         return 0
     return dcg_at_k(ranking, k) / ideal_dcg
 
-relevance_folder = os.path.join('relevance')
-relevance_file_path = os.path.join(relevance_folder, 'merged.qrel')
-relevance_data = load_relevance_data(relevance_file_path)
+relevance_folder_ndcg = os.path.join('relevance')
+relevance_file_path_ndcg = os.path.join(relevance_folder_ndcg, 'merged.qrel')
+relevance_data_ndcg = load_relevance_data_ndcg(relevance_file_path_ndcg)
 def calculate_ndcg_for_ranking(myRanking, query_id, k):
-    idealRanking  = relevance_data[query_id]
+    idealRanking  = relevance_data_ndcg[query_id]
     if(len(idealRanking)<k):
         print("Error: idealRanking does not have enough documents.")
         return

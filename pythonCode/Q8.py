@@ -209,15 +209,16 @@ index_title = build_index_map(index_title_file)
 index_content = build_index_map(index_content_file)
 
 # main task starts
-# alpha in title, beta in content, gamma in both
-alpha = 1 
-beta = 0.5
+# alpha in content, beta in title, gamma in both
+alpha = 0.5 
+beta = 1
 gamma = 2
 for query in queryList:
     query_id, query_text = query
     ranking = {}
     for docid in docid_list:
         word_list = extract_words_from_text(query_text)
+        # word_list =["asdfds","cancer"]
         similarity = 0.0
         doclist = []
         querylist = []
@@ -261,3 +262,4 @@ for query in queryList:
     #     print(f"Document ID: {doc_id}, Score: {score}")
     k = 10
     calculate_ndcg_for_ranking(sorted_ranking, query_id, k) 
+    break
