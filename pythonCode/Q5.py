@@ -13,7 +13,6 @@ with open('gena_data_final_triples.csv', 'r') as csvfile:
         knowledge_graph[subject].append((relation, obj))
         knowledge_graph[obj].append((relation, subject))
 
-# Loading queries
 queryList = []
 
 def read_queries_from_file(file_path):
@@ -22,12 +21,21 @@ def read_queries_from_file(file_path):
             query_id, query_text = line.strip().split('\t')
             queryList.append((query_id, query_text))
 
-files = ['/content/dev_queries.txt', '/content/test_queries.txt', '/content/training_queries.txt']
+processed_queries_folder = os.path.join(os.getcwd(),'pythonCode', 'processedQueries')
+files = ['combined_dev_queries.txt', 'combined_test_queries.txt', 'combined_training_queries.txt']
 
 for file_name in files:
-    read_queries_from_file(file_name)
+    file_path = os.path.join(processed_queries_folder, file_name)
+    if os.path.exists(file_path):
+        read_queries_from_file(file_path)
+    else:
+        print(f"File not found: {file_path}")
 
-# Loading documents
+# df = pd.DataFrame(queryList, columns=['Query ID', 'Query Text'])
+# print(df.head())
+
+# loading the list of docids
+
 documents = {}
 
 def load_documents_from_file(file_path):
@@ -36,8 +44,13 @@ def load_documents_from_file(file_path):
             docid, text = line.strip().split('\t', 1)
             documents[docid] = text
 
-load_documents_from_file('/content/processedData.txt')
 
+final_data_file = os.path.join(os.getcwd(),'pythonCode', 'processedData', 'processedData.txt')
+
+if os.path.exists(final_data_file):
+    load_documents_from_file(final_data_file)
+else:
+    print(f"File not found: {final_data_file}")
 # Load stop words from the file
 with open('/content/stopwords.large', 'r') as f:
     stop_words = set(line.strip() for line in f)
