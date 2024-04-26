@@ -1,4 +1,5 @@
 from utilityFunctions import retrieve_document_vector_values as getDocVector
+from ndcg import calculate_ndcg_for_ranking as calculate_ndcg_score
 import pandas as pd
 import os
 import math
@@ -24,7 +25,7 @@ def read_queries_from_file(file_path):
             queryList.append((query_id, query_text))
 
 processed_queries_folder = os.path.join(os.getcwd(),'pythonCode', 'processedQueries')
-files = ['dev_queries.txt', 'test_queries.txt', 'training_queries.txt']
+files = ['combined_dev_queries.txt', 'combined_test_queries.txt', 'combined_training_queries.txt']
 
 for file_name in files:
     file_path = os.path.join(processed_queries_folder, file_name)
@@ -130,34 +131,6 @@ def cosine_normalization_term(vector):
 # stopwords_path = os.path.join(current_directory, '..', 'stopWords', 'stopwords.large')
 # stopwords_set = load_stopwords(stopwords_path)
 
-# ndcg values
-def calculate_ndcg_score(ranking, standard_ranking, k):
-    # Sort rankings by relevance score, then by docid
-    ranking = sorted(ranking, key=lambda x: (x[1], x[0]), reverse=True)[:k]
-    standard_ranking = sorted(standard_ranking, key=lambda x: (x[1], x[0]), reverse=True)[:k]
-    
-    # Compute DCG for the given ranking
-    def compute_dcg(ranking):
-        dcg = 0
-        for i, (_, relevance) in enumerate(ranking, start=1):
-            dcg += (2**relevance - 1) / log2(i + 1)
-        return dcg
-    
-    # Normalize DCG
-    def normalize_dcg(dcg, ranking):
-        ideal_ranking = sorted(ranking, key=lambda x: x[1], reverse=True)
-        ideal_dcg = compute_dcg(ideal_ranking)
-        return dcg / ideal_dcg if ideal_dcg > 0 else 0
-    
-    # Calculate NDCG
-    dcg = compute_dcg(ranking)
-    standard_dcg = compute_dcg(standard_ranking)
-    ndcg = normalize_dcg(dcg, ranking) / normalize_dcg(standard_dcg, standard_ranking) if standard_dcg > 0 else 0
-    return ndcg
-
-# generates standard ranking
-def getStandardRanking(query_id):
-    return {}
 
 # Load the index_combined and index_map
 current_directory = os.path.dirname(os.path.abspath(__file__))
@@ -200,7 +173,5 @@ for query in queryList:
     print(query_text)
     for doc_id, score in sorted_ranking[:10]:
         print(f"Document ID: {doc_id}, Score: {score}")
-    standardRanking  = getStandardRanking(query_id)
-    k = 3
-    ndcg_score = calculate_ndcg_score(sorted_ranking, standardRanking, k)
-    # print("NDCG score:", ndcg_score)
+    k = 10
+    calculate_ndcg_score(ranking, query_id, k) 
