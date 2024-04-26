@@ -5,7 +5,38 @@ import os
 import math
 from math import log, log2
 from collections import defaultdict
+import nltk
+from nltk.corpus import wordnet
 
+def load_stopwords(stopwords_path):
+    with open(stopwords_path, 'r', encoding='utf-8') as file:
+        stopwords_list = file.read().splitlines()
+    return set(stopwords_list)
+
+current_directory_stop = os.path.dirname(os.path.abspath(__file__))
+stopwords_path = os.path.join(current_directory_stop, '..', 'stopWords', 'stopwords.large')
+stopwords_set = load_stopwords(stopwords_path)
+
+def extract_words_from_tsv(filename):
+    word_list = []
+    try:
+        with open(filename, 'r', encoding='utf-8') as file:
+            for line in file:
+                fields = line.strip().split('\t')
+                word = fields[0]
+                word_list.append(word)
+    except FileNotFoundError:
+        print("File not found. Please provide a valid filename.")
+        return None
+    return word_list
+
+
+def get_synonyms(word):
+    synonyms = set()
+    for syn in wordnet.synsets(word):
+        for lemma in syn.lemmas():
+            synonyms.add(lemma.name())
+    return list(synonyms)
 
 def load_relevance_data(file_path):
     relevance_data = {}
@@ -207,6 +238,7 @@ index_combined = load_index_combined(index_combined_file)
 index_map = build_index_map(index_combined_file)
 index_title = build_index_map(index_title_file)
 index_content = build_index_map(index_content_file)
+Allwords = extract_words_from_tsv(index_combined_file)
 
 # main task starts
 # alpha in content, beta in title, gamma in both
@@ -229,6 +261,15 @@ for query in queryList:
             valueCombined = check_word_in_document(queryWord, docid, index_map)
             valueTitle = check_word_in_document(queryWord, docid, index_title)
             valueContent = check_word_in_document(queryWord, docid, index_content)
+
+            if (queryWord not in Allwords) & (queryWord not in stopwords_set):
+                # print("found one!!!!!")
+                # print(queryWord)
+                synonyms = get_synonyms(queryWord)
+                for synonym in synonyms:
+                    if synonym in index_map:
+                        queryWord = synonym
+                        break
             docval = getdocValue(queryWord)
             totaldocVal = 0
             if valueTitle != 0 & valueContent != 0:
@@ -262,4 +303,3 @@ for query in queryList:
     #     print(f"Document ID: {doc_id}, Score: {score}")
     k = 10
     calculate_ndcg_for_ranking(sorted_ranking, query_id, k) 
-    break
