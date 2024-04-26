@@ -1,3 +1,4 @@
+import os
 import numpy as np
 import math
 from collections import Counter, defaultdict
@@ -74,18 +75,87 @@ def retrieve_top_documents(queries, tf_dict, df_dict, avg_doc_length, N, k=5):
             top_documents[query_id].append((doc_id, rsv))
         
         top_documents[query_id].sort(key=lambda x: x[1], reverse=True)
-        top_documents[query_id] = top_documents[query_id][:k]
+        top_documents[query_id] = top_documents[query_id]
     
     return top_documents
 
+
+def load_relevance_data(file_path):
+    relevance_data = {}
+    with open(file_path, 'r', encoding='utf-8') as file:
+        for line in file:
+            parts = line.strip().split('\t')
+            query_id = parts[0]
+            doc_id = parts[2]
+            relevance_score = int(parts[3])
+            if query_id not in relevance_data:
+                relevance_data[query_id] = []
+            relevance_data[query_id].append((doc_id, relevance_score))
+    return relevance_data
+
+def min_max_normalize(scores):
+    min_score = min(scores)
+    max_score = max(scores)
+    if min_score == max_score:
+        return [1.0] * len(scores)  # Set all scores to 1 if min and max are the same
+    normalized_scores = [(score - min_score) / (max_score - min_score) for score in scores]
+    return normalized_scores
+
+
+def sort_and_select_top_k(myRanking,idealRanking,k):
+    idealRanking_sorted=sorted(idealRanking,key=lambda x:x[1],reverse=True)
+    if len(idealRanking_sorted)<k:
+        print("Error: idealRanking does not have enough documents.")
+        return None,None
+    idealTopK=idealRanking_sorted[:k]
+    idealScores=[score for _,score in idealTopK]
+    idealNormalizedScores=min_max_normalize(idealScores)
+    idealTopK_ids=[doc[0]for doc in idealTopK]
+    myRanking_filtered=[doc for doc in myRanking if doc[0]in idealTopK_ids]
+    myRanking_sorted=sorted(myRanking_filtered,key=lambda x:x[1],reverse=True)
+    myTopK=myRanking_sorted[:k]
+    myScores=[score for _,score in myTopK]
+    myNormalizedScores=min_max_normalize(myScores)
+    return list(zip(idealTopK_ids,idealNormalizedScores)),list(zip([doc[0]for doc in myTopK],myNormalizedScores))
+
+def dcg_at_k(ranking, k):
+    dcg = ranking[0][1]
+    for i in range(1, min(k, len(ranking))):
+        dcg += ranking[i][1] / math.log2(i + 1)
+    return dcg
+
+def ndcg_at_k(ranking, ideal_ranking, k):
+    ideal_dcg = dcg_at_k(ideal_ranking, k)
+    if ideal_dcg == 0:
+        return 0
+    return dcg_at_k(ranking, k) / ideal_dcg
+
+relevance_folder = os.path.join('relevance')
+relevance_file_path = os.path.join(relevance_folder, 'merged.qrel')
+relevance_data = load_relevance_data(relevance_file_path)
+
+def calculate_ndcg_for_ranking(myRanking, query_id, k):
+    idealRanking  = relevance_data[query_id]
+    if(len(idealRanking)<k):
+        print("Error: idealRanking does not have enough documents.")
+        return -1
+    idealTopK, myTopK = sort_and_select_top_k(myRanking, idealRanking, k)
+    ndcg_score = ndcg_at_k(myTopK, idealTopK, k)
+    if ndcg_score > 1:
+        print("Error: idealRanking does not have enough non-zero relevance documents.")
+        return -1
+    # print("NDCG Score:", ndcg_score)
+    return ndcg_score
+
 # Write results to file
-def write_results_to_file(queries, top_documents, output_file):
+def write_results_to_file(queries, top_documents, output_file,k):
     with open(output_file, "w") as f:
         for query_id, query in queries:
-            f.write(f"Query: {query_id} - {query}\n")
-            for rank, (doc_id, rsv) in enumerate(top_documents[query_id], 1):
+            ndcg_score =  calculate_ndcg_for_ranking(top_documents[query_id], query_id, 5)
+            f.write(f"Query: {query_id} - {query} - {ndcg_score}\n")
+            for rank, (doc_id, rsv) in enumerate(top_documents[query_id][:k], 1):
                 f.write(f"Rank {rank}: Document {doc_id} - RSV: {rsv}\n")
-            f.write("\n")
+        f.write("\n")
 
 if __name__ == "__main__":
     # Read data
@@ -111,7 +181,8 @@ if __name__ == "__main__":
 
     # Write results to file
     output_file = "pythonCode/output/output_bm25.txt"
-    write_results_to_file(preprocessed_queries, top_documents, output_file)
+    k=5
+    write_results_to_file(preprocessed_queries, top_documents, output_file,k)
 
 
 
@@ -139,4 +210,3 @@ if __name__ == "__main__":
     #     # Example usage:
     #     output_file = "pythonCode/output/output_dicts.txt"
     #     write_dicts_to_file(tf_dict, df_dict, output_file)
-
