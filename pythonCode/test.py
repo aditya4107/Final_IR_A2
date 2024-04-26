@@ -51,10 +51,10 @@ def ndcg_at_k(ranking, ideal_ranking, k):
         return 0
     return dcg_at_k(ranking, k) / ideal_dcg
 
+relevance_folder = os.path.join('relevance')
+relevance_file_path = os.path.join(relevance_folder, 'merged.qrel')
+relevance_data = load_relevance_data(relevance_file_path)
 def calculate_ndcg_for_ranking(myRanking, query_id, k):
-    relevance_folder = os.path.join('relevance')
-    relevance_file_path = os.path.join(relevance_folder, 'merged.qrel')
-    relevance_data = load_relevance_data(relevance_file_path)
     idealRanking  = relevance_data[query_id]
     if(len(idealRanking)<k):
         print("Error: idealRanking does not have enough documents.")
