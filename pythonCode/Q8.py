@@ -299,7 +299,8 @@ for query in queryList:
     sorted_ranking = sorted(ranking.items(), key=lambda x: x[1], reverse=True)
     print(query_id)
     print(query_text)
-    # for doc_id, score in sorted_ranking[:10]:
-    #     print(f"Document ID: {doc_id}, Score: {score}")
+    for doc_id, score in sorted_ranking[:10]:
+        print(f"Document ID: {doc_id}, Score: {score}")
     k = 10
     calculate_ndcg_for_ranking(sorted_ranking, query_id, k) 
+    break

@@ -1,3 +1,4 @@
+import math
 import os
 import numpy as np
 from itertools import combinations
@@ -18,6 +19,8 @@ def load_relevance_data_ndcg(file_path):
     return relevance_data
 
 def min_max_normalize(scores):
+    if not scores:  # Check if scores list is empty
+        return []
     min_score = min(scores)
     max_score = max(scores)
     if min_score == max_score:
@@ -190,15 +193,23 @@ class PairwiseRanking:
                 X.append([score])
             X = np.array(X)
             predicted_scores = self.model.predict(X)
-            sorted_docs = [doc for _, doc in sorted(zip(predicted_scores, doc_ids), reverse=True)]
-            results[query_id] = sorted_docs[:10]
+            sorted_docs = [(doc_id, score) for score, doc_id in sorted(zip(predicted_scores, doc_ids), reverse=True)]
+            results[query_id] = sorted_docs
+            # results[query_id] = sorted_docs[:10]
         return results
+
 
 
 def write_results_to_file(results, output_file):
     with open(output_file, 'w') as file:
+        k = 10
         for query_id, docs in results.items():
-            file.write(f"{query_id}\t{' '.join(docs)}\n")
+            ndcgScore = calculate_ndcg_for_ranking(docs, query_id, k)
+            docID = [doc_id for doc_id, _ in docs]
+            topdocs = docID[:10]
+            file.write(f"{query_id}\t{' '.join(topdocs)}\n")
+            file.write(f"NDCG Score: {ndcgScore}\n")
+
 
 # Load data
 final_data_file = os.path.join(os.getcwd(), 'pythonCode', 'processedData', 'processedData.txt')
@@ -220,10 +231,10 @@ testQuery_id = read_queries_from_file_test(os.path.join('pythonCode', 'processed
 pairwise_ranking = PairwiseRanking(document_loader, relevance_data)
 
 # Train model
-pairwise_ranking.train(trainingQuery_id,10)
+pairwise_ranking.train(trainingQuery_id,1)
 
 # Rank documents for test queries
-results = pairwise_ranking.rank_documents(testQuery_id)
+results= pairwise_ranking.rank_documents(testQuery_id)
 
 # Write results to file
 output_file = os.path.join('pythonCode', 'output', 'Q7_2_results.txt')
