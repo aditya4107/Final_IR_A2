@@ -21,21 +21,12 @@ def read_queries_from_file(file_path):
             query_id, query_text = line.strip().split('\t')
             queryList.append((query_id, query_text))
 
-processed_queries_folder = os.path.join(os.getcwd(),'pythonCode', 'processedQueries')
-files = ['combined_dev_queries.txt', 'combined_test_queries.txt', 'combined_training_queries.txt']
+files = ['/content/combined_dev_queries.txt', '/content/combined_test_queries.txt', '/content/combined_training_queries.txt']
 
 for file_name in files:
-    file_path = os.path.join(processed_queries_folder, file_name)
-    if os.path.exists(file_path):
-        read_queries_from_file(file_path)
-    else:
-        print(f"File not found: {file_path}")
+    read_queries_from_file(file_name)
 
-# df = pd.DataFrame(queryList, columns=['Query ID', 'Query Text'])
-# print(df.head())
-
-# loading the list of docids
-
+# Loading documents
 documents = {}
 
 def load_documents_from_file(file_path):
@@ -44,13 +35,8 @@ def load_documents_from_file(file_path):
             docid, text = line.strip().split('\t', 1)
             documents[docid] = text
 
+load_documents_from_file('/content/processedData.txt')
 
-final_data_file = os.path.join(os.getcwd(),'pythonCode', 'processedData', 'processedData.txt')
-
-if os.path.exists(final_data_file):
-    load_documents_from_file(final_data_file)
-else:
-    print(f"File not found: {final_data_file}")
 # Load stop words from the file
 with open('/content/stopwords.large', 'r') as f:
     stop_words = set(line.strip() for line in f)
@@ -94,43 +80,7 @@ def compute_similarity(query_entities, doc_entities):
     return (coord_match_score + entity_freq_score) / 2
 
 
-def retrieve_documents(query, documents):
-    query_entities = bag_of_entities(query)
-    scores = []
-
-    for doc_id, doc_text in documents.items():
-        doc_entities = bag_of_entities(doc_text)
-        similarity_score = compute_similarity(query_entities, doc_entities)
-        scores.append((doc_id, similarity_score))
-
-    # Sort the documents by similarity score in descending order
-    scores.sort(key=lambda x: x[1], reverse=True)
-
-    return scores
-
-def retrieve_and_print_documents(queryList, documents, num_queries=10):
-    for i, query in enumerate(queryList[:num_queries]):
-        query_text = query[1] if isinstance(query, tuple) else query
-        query_entities = extract_entities(query_text)
-
-        print(f"Query: {query_text}")
-        print(f"Query Entities: {query_entities}")
-
-        scores = retrieve_documents(query_text, documents)
-
-        if not scores:
-            print("No relevant documents found.")
-        else:
-            print("Top 5 relevant documents:")
-            for doc_id, similarity_score in scores[:5]:
-                doc_text = documents[doc_id]
-                print(f"Document ID: {doc_id}, Score: {similarity_score:.4f}")
-                print(f"Document Text: {doc_text}")
-                print()
-
-        if i < num_queries - 1:
-            print("-" * 80)
-retrieve_and_print_documents(queryList,documents,num_queries=10)
+import math
 
 def load_relevance_data(file_path):
     relevance_data = {}
@@ -159,13 +109,13 @@ def sort_and_select_top_k(myRanking,idealRanking,k):
     if len(idealRanking_sorted)<k:
         print("Error: idealRanking does not have enough documents.")
         return None,None
-    idealTopK=idealRanking_sorted[:k]
+    idealTopK=idealRanking_sorted
     idealScores=[score for _,score in idealTopK]
     idealNormalizedScores=min_max_normalize(idealScores)
     idealTopK_ids=[doc[0]for doc in idealTopK]
     myRanking_filtered=[doc for doc in myRanking if doc[0]in idealTopK_ids]
     myRanking_sorted=sorted(myRanking_filtered,key=lambda x:x[1],reverse=True)
-    myTopK=myRanking_sorted[:k]
+    myTopK=myRanking_sorted
     myScores=[score for _,score in myTopK]
     myNormalizedScores=min_max_normalize(myScores)
     return list(zip(idealTopK_ids,idealNormalizedScores)),list(zip([doc[0]for doc in myTopK],myNormalizedScores))
@@ -183,8 +133,8 @@ def ndcg_at_k(ranking, ideal_ranking, k):
     return dcg_at_k(ranking, k) / ideal_dcg
 
 def calculate_ndcg_for_ranking(myRanking, query_id, k):
-    relevance_folder = os.path.join('relevance')
-    relevance_file_path = os.path.join(relevance_folder, 'merged.qrel')
+    #relevance_folder = os.path.join('relevance')
+    relevance_file_path = '/content/merged.qrel'
     relevance_data = load_relevance_data(relevance_file_path)
     idealRanking  = relevance_data[query_id]
     if(len(idealRanking)<k):
@@ -197,5 +147,45 @@ def calculate_ndcg_for_ranking(myRanking, query_id, k):
         return
     print("NDCG Score:", ndcg_score)
 
-k = 10
-calculate_ndcg_for_ranking(myRanking, query_id, k)
+def retrieve_documents(query, documents):
+    query_entities = bag_of_entities(query)
+    scores = []
+
+    for doc_id, doc_text in documents.items():
+        doc_entities = bag_of_entities(doc_text)
+        similarity_score = compute_similarity(query_entities, doc_entities)
+        scores.append((doc_id, similarity_score))
+
+    # Sort the documents by similarity score in descending order
+    scores.sort(key=lambda x: x[1], reverse=True)
+
+    return scores
+
+
+def retrieve_and_print_documents(queryList, documents, num_queries=10):
+    for i, query in enumerate(queryList[:num_queries]):
+        query_text = query[1] if isinstance(query, tuple) else query
+        query_entities = extract_entities(query_text)
+
+        print(f"Query: {query_text}")
+        print(f"Query Entities: {query_entities}")
+
+        scores = retrieve_documents(query_text, documents)
+
+        query_id = query[0]
+        calculate_ndcg_for_ranking(scores,query_id,5)
+
+        if not scores:
+            print("No relevant documents found.")
+        else:
+            print("Top 5 relevant documents:")
+            for doc_id, similarity_score in scores[:5]:
+                doc_text = documents[doc_id]
+                print(f"Document ID: {doc_id}, Score: {similarity_score:.4f}")
+                print(f"Document Text: {doc_text}")
+                print()
+
+        if i < num_queries - 1:
+            print("-" * 80)
+
+retrieve_and_print_documents(queryList, documents, num_queries=10)
