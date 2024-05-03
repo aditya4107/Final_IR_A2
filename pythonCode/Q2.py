@@ -68,7 +68,8 @@ def calculate_ndcg_for_ranking(myRanking, query_id, k):
     idealTopK, myTopK = sort_and_select_top_k(myRanking, idealRanking, k)
     ndcg_score = ndcg_at_k(myTopK, idealTopK, k)
     if ndcg_score > 1:
-        print("Error: idealRanking does not have enough non-zero relevance documents.")
+        print("Error: Ranking does not have enough non-zero relevance documents.")
+        # print(myTopK, idealTopK)
         return
     print("NDCG Score:", ndcg_score)
 
@@ -198,6 +199,17 @@ def cosine_normalization_term(vector):
 # stopwords_path = os.path.join(current_directory, '..', 'stopWords', 'stopwords.large')
 # stopwords_set = load_stopwords(stopwords_path)
 
+def load_doc_word_mapping(file_path):
+    doc_word_mapping = {}
+    with open(file_path, 'r', encoding='utf-8') as file:
+        for line in file:
+            doc_id, words = line.strip().split('\t')
+            doc_word_mapping[doc_id] = words.split()
+    return doc_word_mapping
+
+current_directory = os.path.dirname(os.path.abspath(__file__))
+doc_word_file = os.path.join(current_directory, 'output', 'doc_word_list.txt')
+doc_word_mapping = load_doc_word_mapping(doc_word_file)
 
 # Load the index_combined and index_map
 current_directory = os.path.dirname(os.path.abspath(__file__))
@@ -213,6 +225,10 @@ for query in queryList:
         word_list = extract_words_from_text(query_text)
         similarity = 0.0
         doclist = []
+        docwordlist = doc_word_mapping[docid]
+        for word in docwordlist:
+            docval = getdocValue(word)
+            doclist.append(docval)
         querylist = []
         for queryWord in word_list:
             queryval = getqueryValue(queryWord)
@@ -221,8 +237,8 @@ for query in queryList:
             value = check_word_in_document(queryWord, docid, index_map)
             if value != 0:
                 docval = getdocValue(queryWord)
-                queryval = getqueryValue(queryWord)
-                doclist.append(docval)
+                # queryval = getqueryValue(queryWord)
+                # doclist.append(docval)
                 # querylist.append(queryval)
                 similarity += value * docval * queryval
         if choice_doc == '3':
@@ -242,4 +258,4 @@ for query in queryList:
          print(f"Document ID: {doc_id}, Score: {score}")
     k = 10
     calculate_ndcg_for_ranking(sorted_ranking, query_id, k)
-    break
+    # break

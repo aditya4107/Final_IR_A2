@@ -32,7 +32,7 @@ def min_max_normalize(scores):
 def sort_and_select_top_k(myRanking,idealRanking,k):
     idealRanking_sorted=sorted(idealRanking,key=lambda x:x[1],reverse=True)
     if len(idealRanking_sorted)<k:
-        print("Error: idealRanking does not have enough documents.")
+        # print("Error: idealRanking does not have enough documents.")
         return None,None
     idealTopK=idealRanking_sorted[:k]
     idealScores=[score for _,score in idealTopK]
@@ -68,7 +68,7 @@ def calculate_ndcg_for_ranking(myRanking, query_id, k):
     idealTopK, myTopK = sort_and_select_top_k(myRanking, idealRanking, k)
     ndcg_score = ndcg_at_k(myTopK, idealTopK, k)
     if ndcg_score > 1:
-        # print("Error: idealRanking does not have enough non-zero relevance documents.")
+        # print("Error: Ranking does not have enough non-zero relevance documents.")
         return -1
     # print("NDCG Score:", ndcg_score)
     return ndcg_score
@@ -231,7 +231,7 @@ testQuery_id = read_queries_from_file_test(os.path.join('pythonCode', 'processed
 pairwise_ranking = PairwiseRanking(document_loader, relevance_data)
 
 # Train model
-pairwise_ranking.train(trainingQuery_id,1)
+pairwise_ranking.train(trainingQuery_id,100)
 
 # Rank documents for test queries
 results= pairwise_ranking.rank_documents(testQuery_id)

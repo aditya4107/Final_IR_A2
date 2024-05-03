@@ -143,7 +143,7 @@ def calculate_ndcg_for_ranking(myRanking, query_id, k):
     idealTopK, myTopK = sort_and_select_top_k(myRanking, idealRanking, k)
     ndcg_score = ndcg_at_k(myTopK, idealTopK, k)
     if ndcg_score > 1:
-        print("Error: idealRanking does not have enough non-zero relevance documents.")
+        print("Error: Ranking does not have enough non-zero relevance documents.")
         return
     print("NDCG Score:", ndcg_score)
 

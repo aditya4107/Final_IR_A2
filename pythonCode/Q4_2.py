@@ -105,7 +105,7 @@ def min_max_normalize(scores):
 def sort_and_select_top_k(myRanking,idealRanking,k):
     idealRanking_sorted=sorted(idealRanking,key=lambda x:x[1],reverse=True)
     if len(idealRanking_sorted)<k:
-        print("Error: idealRanking does not have enough documents.")
+        # print("Error: idealRanking does not have enough documents.")
         return None,None
     idealTopK=idealRanking_sorted[:k]
     idealScores=[score for _,score in idealTopK]
@@ -137,12 +137,12 @@ relevance_data = load_relevance_data(relevance_file_path)
 def calculate_ndcg_for_ranking(myRanking, query_id, k):
     idealRanking  = relevance_data[query_id]
     if(len(idealRanking)<k):
-        print("Error: idealRanking does not have enough documents.")
+        # print("Error: idealRanking does not have enough documents.")
         return -1
     idealTopK, myTopK = sort_and_select_top_k(myRanking, idealRanking, k)
     ndcg_score = ndcg_at_k(myTopK, idealTopK, k)
     if ndcg_score > 1:
-        print("Error: idealRanking does not have enough non-zero relevance documents.")
+        # print("Error: Ranking does not have enough non-zero relevance documents.")
         return -1
     # print("NDCG Score:", ndcg_score)
     return ndcg_score

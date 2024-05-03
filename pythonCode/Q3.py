@@ -66,7 +66,7 @@ def calculate_ndcg_for_ranking(myRanking, query_id, k):
     idealTopK, myTopK = sort_and_select_top_k(myRanking, idealRanking, k)
     ndcg_score = ndcg_at_k(myTopK, idealTopK, k)
     if ndcg_score > 1:
-        print("Error: idealRanking does not have enough non-zero relevance documents.")
+        print("Error: Ranking does not have enough non-zero relevance documents.")
         return
     print("NDCG Score:", ndcg_score)
 
@@ -257,7 +257,7 @@ def getdocValue(word):
         return 1.0
     else:
         df =  index_combined[word][0]
-        return log(8808 / (df + 1))
+        return log(5371 / (df + 1))
     
 #  get the query value for a vector
 def getqueryValue(word):
@@ -265,7 +265,7 @@ def getqueryValue(word):
         return 1.0
     else: 
         df = index_combined[word][0]
-        return log(8808 / (df+1))
+        return log(5371 / (df+1))
 
 # does normalisation
 def cosine_normalization_term(vector):
@@ -320,6 +320,10 @@ for query in queryList:
     for docid in docid_list:
         new_similarity = 0
         doclist = []
+        docwordlist = doc_word_mapping[docid]
+        for word in docwordlist:
+            docval = getdocValue(word)
+            doclist.append(docval)
         querylist = []
         for word, value in non_zero_words_dict.items():
             queryval = getqueryValue(word)
@@ -328,17 +332,19 @@ for query in queryList:
             value = check_word_in_document(word, docid, index_map)
             if value != 0:
                 docval = getdocValue(word)
-                queryval = getqueryValue(word)
-                doclist.append(docval)
+                # queryval = getqueryValue(word)
+                # doclist.append(docval)
                 # querylist.append(queryval)
                 new_similarity += docval * queryval * non_zero_words_dict[word]
         if choice_doc == '3':
             doc_norm = cosine_normalization_term(doclist)
-            new_similarity = new_similarity / doc_norm
+            if doc_norm != 0:
+                new_similarity = new_similarity / doc_norm
             # print("doing")
         if choice_query == '3':
             query_norm = cosine_normalization_term(querylist)
-            new_similarity = new_similarity / query_norm 
+            if query_norm!=0:
+                new_similarity = new_similarity / query_norm 
         final_ranking[docid] = new_similarity
     # final_sorted_ranking = sorted(final_ranking.items(), key=lambda x: (-x[1], x[0]))  
     final_sorted_ranking = sorted(final_ranking.items(), key=lambda x: x[1], reverse=True)  

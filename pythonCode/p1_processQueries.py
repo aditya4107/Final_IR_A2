@@ -1,26 +1,23 @@
 import os
 import re
 
-# Define the names of the query files for training, test, and dev
+
 training_query_files = ["train.nontopic-titles.queries", "train.titles.queries", "train.vid-desc.queries","train.vid-titles.queries"]
 test_query_files = ["test.nontopic-titles.queries", "test.titles.queries", "test.vid-desc.queries","test.vid-titles.queries"]
 dev_query_files = ["dev.nontopic-titles.queries", "dev.titles.queries", "dev.vid-desc.queries","dev.vid-titles.queries"]
 
-# Create the path to the queries folder and processedQueries folder
+
 queries_folder = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'queries')
 processed_queries_folder = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'processedQueries')
 
-# Create the processedQueries folder if it doesn't exist
 if not os.path.exists(processed_queries_folder):
     os.makedirs(processed_queries_folder)
 
-# Function to extract only words from the query and remove punctuation
 def clean_query(query):
     query_id, query_text = query.split('\t', 1)
     query_text = re.sub(r'[^\w\s]', '', query_text)  # Remove punctuation
     return f"{query_id}\t{query_text.strip()}"  # Ensure query text is stripped of leading/trailing whitespace
 
-# Function to combine queries from selected files and remove duplicates
 def combine_queries(query_files):
     all_queries = set()  # Using a set to automatically remove duplicates
     for filename in query_files:
@@ -35,12 +32,10 @@ def combine_queries(query_files):
     sorted_queries = sorted(all_queries, key=lambda x: int(x.split('\t')[0].split('-')[-1]))
     return sorted_queries
 
-# Combine queries for training, test, and dev
 training_queries = combine_queries(training_query_files)
 test_queries = combine_queries(test_query_files)
 dev_queries = combine_queries(dev_query_files)
 
-# Write the combined queries to separate files for training, test, and dev
 output_training_file = os.path.join(processed_queries_folder, 'training_queries.txt')
 output_test_file = os.path.join(processed_queries_folder, 'test_queries.txt')
 output_dev_file = os.path.join(processed_queries_folder, 'dev_queries.txt')
